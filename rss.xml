@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>All Registered Polls for the European Parliament</title>
+    <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
+    <description>All Registered Polls for the European Parliament</description>
+    <pubDate>Sun, 18 Mar 2018 11:37:47 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 7–28 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-28-Taloustutkimus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 15.2–18.9%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 18.2–22.1%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 7.3–10.0%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 19.1–23.0%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 12.9–16.3%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 7.6–10.4%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 2.2–3.8%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 2.6–4.3%&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (—): 1.1–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-28-Taloustutkimus.png"
+        length="256874"
+        type="image/png"/>
+      <pubDate>Sun, 18 Mar 2018 11:37:47 +0100</pubDate>
+      <dc:date>2018-03-18T11:37:47.232589+01:00</dc:date>
+    </item>
+    <dc:date>2018-03-18T11:37:47.232589+01:00</dc:date>
+  </channel>
+</rss>
