@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 18 Mar 2018 17:36:43 +0100</pubDate>
+    <pubDate>Sun, 18 Mar 2018 22:11:12 +0100</pubDate>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 7–28 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-28-Taloustutkimus.html</link>
@@ -39,6 +39,36 @@
       <pubDate>Sun, 18 Mar 2018 17:36:43 +0100</pubDate>
       <dc:date>2018-03-18T17:36:43.40349+01:00</dc:date>
     </item>
-    <dc:date>2018-03-18T17:36:43.40349+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 28 December 2017–6 February 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-06-Taloustutkimus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 16.0–18.9%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 19.3–22.4%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 8.6–10.8%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 17.3–20.2%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 12.8–15.4%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 7.1–9.2%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 3.9–5.4%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 2.6–3.9%&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (—): 1.2–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-06-Taloustutkimus.png"
+        length="243207"
+        type="image/png"/>
+      <pubDate>Sun, 18 Mar 2018 20:33:59 +0100</pubDate>
+      <dc:date>2018-03-18T20:33:59.223393+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 19–29 January 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-01-29-Tietoykkönen.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 13.5–17.5%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 18.7–23.2%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 6.8–9.9%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 17.1–21.5%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 12.6–16.6%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 7.1–10.3%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 3.6–6.0%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 2.9–5.1%&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (—): 2.0–3.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-01-29-Tietoykkönen.png"
+        length="270652"
+        type="image/png"/>
+      <pubDate>Sun, 18 Mar 2018 20:51:45 +0100</pubDate>
+      <dc:date>2018-03-18T20:51:45.679261+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 12 December 2017–18 January 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-01-18-KantarTNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 14.2–17.1%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 20.3–23.6%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 7.1–9.3%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 17.5–20.6%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 14.1–17.0%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 7.7–10.0%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 3.6–5.3%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 2.7–4.2%&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (—): 1.1–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-01-18-KantarTNS.png"
+        length="243861"
+        type="image/png"/>
+      <pubDate>Sun, 18 Mar 2018 22:11:12 +0100</pubDate>
+      <dc:date>2018-03-18T22:11:12.983711+01:00</dc:date>
+    </item>
+    <dc:date>2018-03-18T22:11:12.983711+01:00</dc:date>
   </channel>
 </rss>
