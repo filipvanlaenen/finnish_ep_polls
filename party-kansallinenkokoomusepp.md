@@ -10,7 +10,8 @@ Last result: **22.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.8% | 19.2–22.4% | 18.8–22.8% | 18.4–23.1% | 17.7–23.7% |
+| N/A | [Poll Average](average.html) | 20.6% | 19.2–22.0% | 18.8–22.3% | 18.4–22.7% | 17.7–23.4% |
+| [19 February–15 March 2018](2018-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 21.1% | 20.0–22.2% | 19.8–22.5% | 19.5–22.8% | 19.0–23.3% |
 | [7–28 February 2018](2018-02-28-Taloustutkimus.html) | Taloustutkimus <br> Yle | 20.1% | 18.8–21.4% | 18.5–21.7% | 18.2–22.1% | 17.6–22.7% |
 | [14–26 February 2018](2018-02-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 20.5% | 19.0–22.1% | 18.6–22.5% | 18.2–22.9% | 17.6–23.7% |
 | [22 January–15 February 2018](2018-02-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 21.7% | 20.7–22.8% | 20.3–23.1% | 20.1–23.4% | 19.6–24.0% |
@@ -27,12 +28,12 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0.3% | 100% |  |
 | 17.5–18.5% | 3% | 99.7% |  |
-| 18.5–19.5% | 13% | 97% |  |
-| 19.5–20.5% | 25% | 83% |  |
-| 20.5–21.5% | 29% | 58% | Median |
-| 21.5–22.5% | 21% | 28% |  |
-| 22.5–23.5% | 7% | 7% | Last Result |
-| 23.5–24.5% | 0.8% | 0.8% |  |
+| 18.5–19.5% | 14% | 97% |  |
+| 19.5–20.5% | 30% | 82% |  |
+| 20.5–21.5% | 33% | 52% | Median |
+| 21.5–22.5% | 16% | 19% |  |
+| 22.5–23.5% | 3% | 3% | Last Result |
+| 23.5–24.5% | 0.3% | 0.3% |  |
 | 24.5–25.5% | 0% | 0% |  |
 
 
@@ -45,6 +46,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [19 February–15 March 2018](2018-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4 | 4 | 4 | 4 | 4 |
 | [7–28 February 2018](2018-02-28-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [14–26 February 2018](2018-02-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [22 January–15 February 2018](2018-02-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4 | 4 | 4 | 4 | 3–4 |
