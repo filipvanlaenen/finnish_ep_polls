@@ -53,7 +53,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | [19 February–15 March 2018](2018-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3 | 3 | 3 | 3 |
 | [7–28 February 2018](2018-02-28-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [14–26 February 2018](2018-02-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [22 January–15 February 2018](2018-02-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3 | 3 | 3 | 3–4 |
+| [22 January–15 February 2018](2018-02-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3 | 3 | 3–4 | 3–4 |
 | [28 December 2017–6 February 2018](2018-02-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3 | 3 | 3 | 3 |
 | [19–29 January 2018](2018-01-29-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12 December 2017–18 January 2018](2018-01-18-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3 | 3 | 3–4 | 3–4 |
@@ -66,9 +66,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0% | 100% | Last Result |
-| 3 | 83% | 100% | Median |
-| 4 | 17% | 17% |  |
+| 2 | 0.1% | 100% | Last Result |
+| 3 | 85% | 99.9% | Median |
+| 4 | 15% | 15% |  |
 | 5 | 0% | 0% |  |
 
 

@@ -18,7 +18,7 @@
 | Perussuomalaiset (ECR) | 12.9% | 8.5% | 7.7–9.5% |7.5–9.7% |7.3–10.0% |6.9–10.4% |
 | Kristillisdemokraatit (EPP) | 5.2% | 3.3% | 2.8–4.0% |2.7–4.1% |2.6–4.3% |2.3–4.6% |
 | Svenska folkpartiet i Finland (ALDE) | 6.8% | 2.9% | 2.4–3.5% |2.3–3.7% |2.2–3.8% |2.0–4.1% |
-| Sininen tulevaisuus (—) | 0.0% | 1.6% | 1.2–2.0% |1.1–2.2% |1.1–2.3% |0.9–2.5% |
+| Sininen tulevaisuus (*) | 0.0% | 1.6% | 1.2–2.0% |1.1–2.2% |1.1–2.3% |0.9–2.5% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -38,7 +38,7 @@
 | <a href="#perussuomalaiset-(ecr)">Perussuomalaiset (ECR)</a> | 2 | 1 | 1 |1 |1 |1 |
 | <a href="#kristillisdemokraatit-(epp)">Kristillisdemokraatit (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#svenska-folkpartiet-i-finland-(alde)">Svenska folkpartiet i Finland (ALDE)</a> | 1 | 0 | 0 |0 |0 |0 |
-| <a href="#sininen-tulevaisuus-(—)">Sininen tulevaisuus (—)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#sininen-tulevaisuus-(*)">Sininen tulevaisuus (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Suomen Sosialidemokraattinen Puolue (S&D)
 
@@ -134,11 +134,11 @@
 | 0 | 100% | 100% | Median |
 | 1 | 0% | 0% | Last Result |
 
-### Sininen tulevaisuus (—)
+### Sininen tulevaisuus (*)
 
-*For a full overview of the results for this party, see the [Sininen tulevaisuus (—)](party-sininentulevaisuus—.html) page.*
+*For a full overview of the results for this party, see the [Sininen tulevaisuus (*)](party-sininentulevaisuus.html) page.*
 
-![Graph with seats probability mass function not yet produced](2018-02-28-Taloustutkimus-seats-pmf-sininentulevaisuus—.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2018-02-28-Taloustutkimus-seats-pmf-sininentulevaisuus.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -159,7 +159,7 @@
 | Vihreä liitto (Greens/EFA) | 1 | 2 | 0% | 2 | 2 | 2–3 | 2–3 |
 | Perussuomalaiset (ECR) | 2 | 1 | 0% | 1 | 1 | 1 | 1 |
 | Vasemmistoliitto (GUE/NGL) | 1 | 1 | 0% | 1 | 1 | 1 | 1 |
-| Sininen tulevaisuus (—) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Sininen tulevaisuus (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Kansallinen Kokoomus (EPP) – Kristillisdemokraatit (EPP)
 
@@ -210,7 +210,7 @@
 | 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% |  |
 
-### Sininen tulevaisuus (—)
+### Sininen tulevaisuus (*)
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
