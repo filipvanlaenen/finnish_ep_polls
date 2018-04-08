@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 07 Apr 2018 23:58:14 +0200</pubDate>
+    <pubDate>Sun, 08 Apr 2018 14:14:14 +0200</pubDate>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 1–27 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-03-27-Taloustutkimus.html#seats</link>
@@ -146,8 +146,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-01-29-Tietoykkönen.png"
         length="273220"
         type="image/png"/>
-      <pubDate>Mon, 26 Mar 2018 11:30:28 +0200</pubDate>
-      <dc:date>2018-03-26T11:30:28.972081+02:00</dc:date>
+      <pubDate>Sun, 08 Apr 2018 14:14:14 +0200</pubDate>
+      <dc:date>2018-04-08T14:14:14.698224+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 12 December 2017–18 January 2018 – Voting Intentions</title>
@@ -156,9 +156,9 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-01-18-KantarTNS.png"
         length="246478"
         type="image/png"/>
-      <pubDate>Mon, 26 Mar 2018 11:44:45 +0200</pubDate>
-      <dc:date>2018-03-26T11:44:45.265515+02:00</dc:date>
+      <pubDate>Sun, 08 Apr 2018 11:53:49 +0200</pubDate>
+      <dc:date>2018-04-08T11:53:49.100943+02:00</dc:date>
     </item>
-    <dc:date>2018-04-07T23:58:14.367619+02:00</dc:date>
+    <dc:date>2018-04-08T14:14:14.698224+02:00</dc:date>
   </channel>
 </rss>
