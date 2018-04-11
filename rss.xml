@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 10 Apr 2018 18:06:20 +0200</pubDate>
+    <pubDate>Wed, 11 Apr 2018 18:29:01 +0200</pubDate>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 1–27 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-03-27-Taloustutkimus.html#seats</link>
@@ -80,14 +80,34 @@
       <dc:date>2018-04-05T17:24:49.362506+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 7–28 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-28-Taloustutkimus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-28-Taloustutkimus-seats.png"
+        length="218157"
+        type="image/png"/>
+      <pubDate>Wed, 11 Apr 2018 18:29:01 +0200</pubDate>
+      <dc:date>2018-04-11T18:29:01.922709+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 7–28 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-28-Taloustutkimus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-28-Taloustutkimus-coalitions-seats.png"
+        length="136175"
+        type="image/png"/>
+      <pubDate>Wed, 11 Apr 2018 18:29:01 +0200</pubDate>
+      <dc:date>2018-04-11T18:29:01.922709+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 7–28 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-28-Taloustutkimus.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 15.2–18.9%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 18.2–22.1%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 7.3–10.0%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 19.1–23.0%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 12.9–16.3%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 7.6–10.4%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 2.2–3.8%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 2.6–4.3%&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (*): 1.1–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-28-Taloustutkimus.png"
         length="265921"
         type="image/png"/>
-      <pubDate>Sun, 08 Apr 2018 16:42:13 +0200</pubDate>
-      <dc:date>2018-04-08T16:42:13.784389+02:00</dc:date>
+      <pubDate>Wed, 11 Apr 2018 18:29:01 +0200</pubDate>
+      <dc:date>2018-04-11T18:29:01.922709+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 14–26 February 2018 – Seat Projections</title>
@@ -120,14 +140,34 @@
       <dc:date>2018-03-26T13:47:44.422654+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 22 January–15 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-15-KantarTNS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-15-KantarTNS-seats.png"
+        length="219340"
+        type="image/png"/>
+      <pubDate>Wed, 11 Apr 2018 12:16:46 +0200</pubDate>
+      <dc:date>2018-04-11T12:16:46.292391+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 22 January–15 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-15-KantarTNS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-15-KantarTNS-coalitions-seats.png"
+        length="136051"
+        type="image/png"/>
+      <pubDate>Wed, 11 Apr 2018 12:16:46 +0200</pubDate>
+      <dc:date>2018-04-11T12:16:46.292391+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 22 January–15 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-15-KantarTNS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 14.9–17.8%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 20.1–23.4%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 7.5–9.8%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 17.5–20.6%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 13.1–15.9%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 8.0–10.3%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 3.5–5.1%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 2.7–4.2%&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (*): 0.9–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-15-KantarTNS.png"
         length="254550"
         type="image/png"/>
-      <pubDate>Sun, 08 Apr 2018 16:16:59 +0200</pubDate>
-      <dc:date>2018-04-08T16:16:59.346468+02:00</dc:date>
+      <pubDate>Wed, 11 Apr 2018 12:16:46 +0200</pubDate>
+      <dc:date>2018-04-11T12:16:46.292391+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 28 December 2017–6 February 2018 – Voting Intentions</title>
@@ -179,6 +219,6 @@
       <pubDate>Sun, 08 Apr 2018 11:53:49 +0200</pubDate>
       <dc:date>2018-04-08T11:53:49.100943+02:00</dc:date>
     </item>
-    <dc:date>2018-04-10T18:06:20.984495+02:00</dc:date>
+    <dc:date>2018-04-11T18:29:01.922709+02:00</dc:date>
   </channel>
 </rss>
