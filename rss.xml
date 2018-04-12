@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 11 Apr 2018 18:29:01 +0200</pubDate>
+    <pubDate>Thu, 12 Apr 2018 20:21:12 +0200</pubDate>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 1–27 March 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-03-27-Taloustutkimus.html#seats</link>
@@ -176,8 +176,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-06-Taloustutkimus.png"
         length="252182"
         type="image/png"/>
-      <pubDate>Sun, 08 Apr 2018 17:21:33 +0200</pubDate>
-      <dc:date>2018-04-08T17:21:33.818244+02:00</dc:date>
+      <pubDate>Thu, 12 Apr 2018 20:21:12 +0200</pubDate>
+      <dc:date>2018-04-12T20:21:12.910722+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 19–29 January 2018 – Seat Projections</title>
@@ -210,15 +210,35 @@
       <dc:date>2018-04-10T18:06:20.984495+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 12 December 2017–18 January 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-01-18-KantarTNS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-01-18-KantarTNS-seats.png"
+        length="220355"
+        type="image/png"/>
+      <pubDate>Thu, 12 Apr 2018 16:09:24 +0200</pubDate>
+      <dc:date>2018-04-12T16:09:24.80096+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 12 December 2017–18 January 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-01-18-KantarTNS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-01-18-KantarTNS-coalitions-seats.png"
+        length="133958"
+        type="image/png"/>
+      <pubDate>Thu, 12 Apr 2018 16:09:24 +0200</pubDate>
+      <dc:date>2018-04-12T16:09:24.80096+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 12 December 2017–18 January 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-01-18-KantarTNS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 14.2–17.1%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 20.3–23.6%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 7.1–9.3%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 17.5–20.6%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 14.1–17.0%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 7.7–10.0%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 3.6–5.3%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 2.7–4.2%&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (*): 1.1–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-01-18-KantarTNS.png"
         length="253064"
         type="image/png"/>
-      <pubDate>Sun, 08 Apr 2018 11:53:49 +0200</pubDate>
-      <dc:date>2018-04-08T11:53:49.100943+02:00</dc:date>
+      <pubDate>Thu, 12 Apr 2018 16:09:24 +0200</pubDate>
+      <dc:date>2018-04-12T16:09:24.80096+02:00</dc:date>
     </item>
-    <dc:date>2018-04-11T18:29:01.922709+02:00</dc:date>
+    <dc:date>2018-04-12T20:21:12.910722+02:00</dc:date>
   </channel>
 </rss>
