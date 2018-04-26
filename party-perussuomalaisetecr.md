@@ -10,7 +10,8 @@ Last result: **12.9%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.6% | 7.7–9.7% | 7.4–10.1% | 7.1–10.3% | 6.6–10.9% |
+| N/A | [Poll Average](average.html) | 8.5% | 7.5–9.7% | 7.2–10.0% | 7.0–10.3% | 6.6–10.9% |
+| [19 March–12 April 2018](2018-04-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8.1% | 7.4–8.9% | 7.3–9.1% | 7.1–9.3% | 6.8–9.6% |
 | [1–27 March 2018](2018-03-27-Taloustutkimus.html) | Taloustutkimus <br> Yle | 9.2% | 8.3–10.2% | 8.1–10.4% | 7.8–10.7% | 7.5–11.2% |
 | [16–26 March 2018](2018-03-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 8.2% | 7.2–9.3% | 7.0–9.6% | 6.7–9.9% | 6.3–10.5% |
 | [19 February–15 March 2018](2018-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8.5% | 7.8–9.3% | 7.6–9.5% | 7.4–9.7% | 7.1–10.0% |
@@ -28,11 +29,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.4% | 100% |  |
-| 6.5–7.5% | 7% | 99.6% |  |
-| 7.5–8.5% | 37% | 92% |  |
-| 8.5–9.5% | 41% | 55% | Median |
-| 9.5–10.5% | 12% | 14% |  |
+| 5.5–6.5% | 0.5% | 100% |  |
+| 6.5–7.5% | 11% | 99.5% |  |
+| 7.5–8.5% | 42% | 89% | Median |
+| 8.5–9.5% | 34% | 47% |  |
+| 9.5–10.5% | 11% | 13% |  |
 | 10.5–11.5% | 1.3% | 1.4% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% | Last Result |
@@ -47,6 +48,7 @@ Last result: **2** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1–2 |
+| [19 March–12 April 2018](2018-04-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 1 | 1 | 1 | 1 | 1 |
 | [1–27 March 2018](2018-03-27-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1 | 1 | 1 | 1–2 | 1–2 |
 | [16–26 March 2018](2018-03-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 1 | 1 | 1 | 1 | 1–2 |
 | [19 February–15 March 2018](2018-03-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 1 | 1 | 1 | 1 | 1 |
