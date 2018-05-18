@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 13 May 2018 17:01:34 +0200</pubDate>
+    <pubDate>Fri, 18 May 2018 10:53:23 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 16 April–11 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-05-11-KantarTNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 14.3–17.2%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 18.9–22.1%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 6.7–8.8%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 19.6–22.9%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 12.8–15.6%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 7.6–9.9%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 3.6–5.3%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 3.1–4.6%&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (*): 1.2–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-05-11-KantarTNS.png"
+        length="257160"
+        type="image/png"/>
+      <pubDate>Fri, 18 May 2018 10:53:23 +0200</pubDate>
+      <dc:date>2018-05-18T10:53:23.173104+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 19 April–2 May 2018 – Seat Projections</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-05-02-Tietoykkönen.html#seats</link>
@@ -24,7 +34,7 @@
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-05-02-Tietoykkönen.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-05-02-Tietoykkönen-coalitions-seats.png"
-        length="146748"
+        length="146539"
         type="image/png"/>
       <pubDate>Sun, 13 May 2018 17:01:34 +0200</pubDate>
       <dc:date>2018-05-13T17:01:34.468011+02:00</dc:date>
@@ -54,7 +64,7 @@
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-04-26-Taloustutkimus.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-04-26-Taloustutkimus-coalitions-seats.png"
-        length="117325"
+        length="117330"
         type="image/png"/>
       <pubDate>Thu, 10 May 2018 11:20:26 +0200</pubDate>
       <dc:date>2018-05-10T11:20:26.599546+02:00</dc:date>
@@ -84,7 +94,7 @@
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-04-12-KantarTNS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-04-12-KantarTNS-coalitions-seats.png"
-        length="132452"
+        length="132455"
         type="image/png"/>
       <pubDate>Fri, 27 Apr 2018 11:43:54 +0200</pubDate>
       <dc:date>2018-04-27T11:43:54.620131+02:00</dc:date>
@@ -114,7 +124,7 @@
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-03-27-Taloustutkimus.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-03-27-Taloustutkimus-coalitions-seats.png"
-        length="138428"
+        length="138132"
         type="image/png"/>
       <pubDate>Thu, 05 Apr 2018 18:08:39 +0200</pubDate>
       <dc:date>2018-04-05T18:08:39.453277+02:00</dc:date>
@@ -144,7 +154,7 @@
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-03-26-Tietoykkönen.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-03-26-Tietoykkönen-coalitions-seats.png"
-        length="146575"
+        length="146366"
         type="image/png"/>
       <pubDate>Fri, 13 Apr 2018 11:05:53 +0200</pubDate>
       <dc:date>2018-04-13T11:05:53.868241+02:00</dc:date>
@@ -174,7 +184,7 @@
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-03-15-KantarTNS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-03-15-KantarTNS-coalitions-seats.png"
-        length="153895"
+        length="153629"
         type="image/png"/>
       <pubDate>Thu, 05 Apr 2018 17:24:49 +0200</pubDate>
       <dc:date>2018-04-05T17:24:49.362506+02:00</dc:date>
@@ -204,7 +214,7 @@
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-28-Taloustutkimus.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-28-Taloustutkimus-coalitions-seats.png"
-        length="136175"
+        length="136160"
         type="image/png"/>
       <pubDate>Wed, 11 Apr 2018 18:29:01 +0200</pubDate>
       <dc:date>2018-04-11T18:29:01.922709+02:00</dc:date>
@@ -234,7 +244,7 @@
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-26-Tietoykkönen.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-26-Tietoykkönen-coalitions-seats.png"
-        length="148243"
+        length="147735"
         type="image/png"/>
       <pubDate>Mon, 26 Mar 2018 13:47:44 +0200</pubDate>
       <dc:date>2018-03-26T13:47:44.422654+02:00</dc:date>
@@ -264,7 +274,7 @@
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-15-KantarTNS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-15-KantarTNS-coalitions-seats.png"
-        length="136051"
+        length="135789"
         type="image/png"/>
       <pubDate>Wed, 11 Apr 2018 12:16:46 +0200</pubDate>
       <dc:date>2018-04-11T12:16:46.292391+02:00</dc:date>
@@ -294,7 +304,7 @@
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-06-Taloustutkimus.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-02-06-Taloustutkimus-coalitions-seats.png"
-        length="116324"
+        length="116148"
         type="image/png"/>
       <pubDate>Thu, 12 Apr 2018 20:45:33 +0200</pubDate>
       <dc:date>2018-04-12T20:45:33.734193+02:00</dc:date>
@@ -324,7 +334,7 @@
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-01-29-Tietoykkönen.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-01-29-Tietoykkönen-coalitions-seats.png"
-        length="144171"
+        length="143670"
         type="image/png"/>
       <pubDate>Tue, 10 Apr 2018 18:06:20 +0200</pubDate>
       <dc:date>2018-04-10T18:06:20.984495+02:00</dc:date>
@@ -354,7 +364,7 @@
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-01-18-KantarTNS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-01-18-KantarTNS-coalitions-seats.png"
-        length="133958"
+        length="133696"
         type="image/png"/>
       <pubDate>Thu, 12 Apr 2018 16:09:24 +0200</pubDate>
       <dc:date>2018-04-12T16:09:24.80096+02:00</dc:date>
@@ -369,6 +379,6 @@
       <pubDate>Thu, 12 Apr 2018 16:09:24 +0200</pubDate>
       <dc:date>2018-04-12T16:09:24.80096+02:00</dc:date>
     </item>
-    <dc:date>2018-05-13T17:01:34.468011+02:00</dc:date>
+    <dc:date>2018-05-18T10:53:23.173104+02:00</dc:date>
   </channel>
 </rss>
