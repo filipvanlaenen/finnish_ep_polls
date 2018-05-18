@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 18 May 2018 10:53:23 +0200</pubDate>
+    <pubDate>Fri, 18 May 2018 20:36:24 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 16 April–11 May 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-05-11-KantarTNS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-05-11-KantarTNS-seats.png"
+        length="246208"
+        type="image/png"/>
+      <pubDate>Fri, 18 May 2018 20:36:24 +0200</pubDate>
+      <dc:date>2018-05-18T20:36:24.440294+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 16 April–11 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-05-11-KantarTNS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-05-11-KantarTNS-coalitions-seats.png"
+        length="152747"
+        type="image/png"/>
+      <pubDate>Fri, 18 May 2018 20:36:24 +0200</pubDate>
+      <dc:date>2018-05-18T20:36:24.440294+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 16 April–11 May 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-05-11-KantarTNS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-05-11-KantarTNS.png"
         length="257160"
         type="image/png"/>
-      <pubDate>Fri, 18 May 2018 10:53:23 +0200</pubDate>
-      <dc:date>2018-05-18T10:53:23.173104+02:00</dc:date>
+      <pubDate>Fri, 18 May 2018 20:36:24 +0200</pubDate>
+      <dc:date>2018-05-18T20:36:24.440294+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 19 April–2 May 2018 – Seat Projections</title>
@@ -379,6 +399,6 @@
       <pubDate>Thu, 12 Apr 2018 16:09:24 +0200</pubDate>
       <dc:date>2018-04-12T16:09:24.80096+02:00</dc:date>
     </item>
-    <dc:date>2018-05-18T10:53:23.173104+02:00</dc:date>
+    <dc:date>2018-05-18T20:36:24.440294+02:00</dc:date>
   </channel>
 </rss>
