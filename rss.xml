@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 11 Jul 2018 18:37:58 +0200</pubDate>
+    <pubDate>Thu, 12 Jul 2018 19:49:15 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 6 June–3 July 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-07-03-Taloustutkimus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-07-03-Taloustutkimus-seats.png"
+        length="192184"
+        type="image/png"/>
+      <pubDate>Thu, 12 Jul 2018 19:49:15 +0200</pubDate>
+      <dc:date>2018-07-12T19:49:15.313765+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 6 June–3 July 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-07-03-Taloustutkimus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-07-03-Taloustutkimus-coalitions-seats.png"
+        length="117420"
+        type="image/png"/>
+      <pubDate>Thu, 12 Jul 2018 19:49:15 +0200</pubDate>
+      <dc:date>2018-07-12T19:49:15.313765+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 6 June–3 July 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-07-03-Taloustutkimus.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-07-03-Taloustutkimus.png"
         length="255608"
         type="image/png"/>
-      <pubDate>Wed, 11 Jul 2018 18:37:58 +0200</pubDate>
-      <dc:date>2018-07-11T18:37:58.374234+02:00</dc:date>
+      <pubDate>Thu, 12 Jul 2018 19:49:15 +0200</pubDate>
+      <dc:date>2018-07-12T19:49:15.313765+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 6–26 June 2018 – Seat Projections for the Parties</title>
@@ -529,6 +549,6 @@
       <pubDate>Thu, 12 Apr 2018 16:09:24 +0200</pubDate>
       <dc:date>2018-04-12T16:09:24.80096+02:00</dc:date>
     </item>
-    <dc:date>2018-07-11T18:37:58.374234+02:00</dc:date>
+    <dc:date>2018-07-12T19:49:15.313765+02:00</dc:date>
   </channel>
 </rss>
