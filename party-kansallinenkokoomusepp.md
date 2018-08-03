@@ -10,7 +10,8 @@ Last result: **22.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.6% | 18.5–20.8% | 18.2–21.2% | 17.9–21.6% | 17.3–22.4% |
+| N/A | [Poll Average](average.html) | 19.9% | 18.7–21.1% | 18.3–21.5% | 18.0–21.8% | 17.3–22.5% |
+| [11 June–12 July 2018](2018-07-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 20.2% | 19.2–21.2% | 18.9–21.6% | 18.7–21.8% | 18.2–22.3% |
 | [6 June–3 July 2018](2018-07-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 19.7% | 18.7–20.8% | 18.4–21.1% | 18.2–21.4% | 17.7–21.9% |
 | [6–26 June 2018](2018-06-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 19.7% | 18.3–21.3% | 17.9–21.8% | 17.5–22.1% | 16.9–22.9% |
 | [14 May–10 June 2018](2018-06-10-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 19.7% | 18.7–20.8% | 18.4–21.1% | 18.2–21.3% | 17.7–21.9% |
@@ -38,13 +39,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 1.0% | 99.9% |  |
-| 17.5–18.5% | 10% | 98.9% |  |
-| 18.5–19.5% | 38% | 88% |  |
-| 19.5–20.5% | 35% | 50% | Median |
-| 20.5–21.5% | 12% | 15% |  |
-| 21.5–22.5% | 2% | 3% |  |
-| 22.5–23.5% | 0.3% | 0.4% | Last Result |
+| 16.5–17.5% | 0.9% | 99.9% |  |
+| 17.5–18.5% | 7% | 99.1% |  |
+| 18.5–19.5% | 27% | 92% |  |
+| 19.5–20.5% | 40% | 65% | Median |
+| 20.5–21.5% | 21% | 25% |  |
+| 21.5–22.5% | 4% | 4% |  |
+| 22.5–23.5% | 0.4% | 0.4% | Last Result |
 | 23.5–24.5% | 0% | 0% |  |
 
 
@@ -57,6 +58,7 @@ Last result: **3** seats (General Election of 25 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [11 June–12 July 2018](2018-07-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [6 June–3 July 2018](2018-07-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [6–26 June 2018](2018-06-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [14 May–10 June 2018](2018-06-10-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -84,8 +86,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 74% | 100% | Last Result, Median |
-| 4 | 26% | 26% |  |
+| 3 | 57% | 100% | Last Result, Median |
+| 4 | 43% | 43% |  |
 | 5 | 0% | 0% |  |
 
 
