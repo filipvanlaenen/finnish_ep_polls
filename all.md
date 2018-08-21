@@ -5,7 +5,8 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | KOK | KESK | PS | SDP | VIHR | VAS | SFP | KD | SIN |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 22.6% <br> 3 | 19.7% <br> 3 | 12.9% <br> 2 | 12.3% <br> 2 | 9.3% <br> 1 | 9.3% <br> 1 | 6.8% <br> 1 | 5.2% <br> 0 | 0.0% <br> 0 |
-| [11 June–12 July 2018](2018-07-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 19–22% <br> 3–4 | 14–17% <br> 2–3 | 7–9% <br> 1 | 21–24% <br> 4 | 12–15% <br> 2 | 9–11% <br> 1–2 | 4–5% <br> 0 | 3–5% <br> 0 | 1–2% <br> 0 |
+| [9 July–7 August 2018](2018-08-07-Taloustutkimus.html) | Taloustutkimus <br> Yle | 18–21% <br> 3 | 16–19% <br> 3 | 8–10% <br> 1 | 20–23% <br> 4 | 12–15% <br> 2 | 7–9% <br> 1 | 4–5% <br> 0 | 3–5% <br> 0 | 1% <br> 0 |
+| [11 June–12 July 2018](2018-07-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 19–22% <br> 3–4 | 14–17% <br> 2–3 | 7–9% <br> 1 | 21–24% <br> 3–4 | 12–15% <br> 2 | 9–11% <br> 1–2 | 4–5% <br> 0–1 | 3–5% <br> 0 | 1–2% <br> 0 |
 | [6 June–3 July 2018](2018-07-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 18–21% <br> 3–4 | 15–18% <br> 2–3 | 9–12% <br> 1–2 | 19–22% <br> 3–4 | 13–15% <br> 2–3 | 8–10% <br> 1 | 3–4% <br> 0 | 3–4% <br> 0 | 1–2% <br> 0 |
 | [6–26 June 2018](2018-06-26-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 18–22% <br> 3–4 | 14–18% <br> 2–3 | 6–9% <br> 1 | 18–23% <br> 3–4 | 12–16% <br> 2–3 | 8–11% <br> 1–2 | 4–6% <br> 0–1 | 3–5% <br> 0–1 | 2–4% <br> 0 |
 | [14 May–10 June 2018](2018-06-10-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 18–21% <br> 3–4 | 14–17% <br> 2–3 | 7–9% <br> 1 | 20–23% <br> 3–4 | 12–15% <br> 2 | 8–10% <br> 1–2 | 4–5% <br> 0–1 | 3–5% <br> 0 | 1–2% <br> 0 |
