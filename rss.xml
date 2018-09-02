@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 23 Aug 2018 11:51:42 +0200</pubDate>
+    <pubDate>Sun, 02 Sep 2018 09:26:08 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 13–25 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-08-25-Tietoykkönen.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 13.5–17.7%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 17.6–22.2%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 6.6–9.8%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 19.6–24.3%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 11.3–15.2%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 7.5–10.9%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 3.2–5.6%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 2.8–5.0%&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (*): 1.4–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-08-25-Tietoykkönen.png"
+        length="275523"
+        type="image/png"/>
+      <pubDate>Sun, 02 Sep 2018 08:45:03 +0200</pubDate>
+      <dc:date>2018-09-02T08:45:03.051616+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 16 July–16 August 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-08-16-KantarTNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 13.7–17.4%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 18.2–22.2%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 6.6–9.4%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 19.6–23.8%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 12.0–15.5%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 8.2–11.2%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 3.4–5.4%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 3.2–5.2%&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (*): 0.7–1.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-08-16-KantarTNS.png"
+        length="267762"
+        type="image/png"/>
+      <pubDate>Sun, 02 Sep 2018 09:26:08 +0200</pubDate>
+      <dc:date>2018-09-02T09:26:08.063389+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 9 July–7 August 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-08-07-Taloustutkimus.html</link>
@@ -589,6 +609,6 @@
       <pubDate>Thu, 12 Apr 2018 16:09:24 +0200</pubDate>
       <dc:date>2018-04-12T16:09:24.80096+02:00</dc:date>
     </item>
-    <dc:date>2018-08-23T11:51:42.5675+02:00</dc:date>
+    <dc:date>2018-09-02T09:26:08.063389+02:00</dc:date>
   </channel>
 </rss>
