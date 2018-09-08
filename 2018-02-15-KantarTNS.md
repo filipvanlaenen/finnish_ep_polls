@@ -165,6 +165,8 @@
 
 ### Kansallinen Kokoomus (EPP) – Kristillisdemokraatit (EPP)
 
+![Graph with seats probability mass function not yet produced](2018-02-15-KantarTNS-coalitions-seats-pmf-kok–kd.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 8% | 100% | Last Result |
@@ -172,6 +174,8 @@
 | 5 | 0% | 0% |  |
 
 ### Suomen Sosialidemokraattinen Puolue (S&D)
+
+![Graph with seats probability mass function not yet produced](2018-02-15-KantarTNS-coalitions-seats-pmf-sdp.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -182,6 +186,8 @@
 
 ### Suomen Keskusta (ALDE) – Svenska folkpartiet i Finland (ALDE)
 
+![Graph with seats probability mass function not yet produced](2018-02-15-KantarTNS-coalitions-seats-pmf-kesk–sfp.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 8% | 100% |  |
@@ -190,6 +196,8 @@
 | 5 | 0% | 0% |  |
 
 ### Vihreä liitto (Greens/EFA)
+
+![Graph with seats probability mass function not yet produced](2018-02-15-KantarTNS-coalitions-seats-pmf-vihr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -200,6 +208,8 @@
 
 ### Vasemmistoliitto (GUE/NGL)
 
+![Graph with seats probability mass function not yet produced](2018-02-15-KantarTNS-coalitions-seats-pmf-vas.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 97% | 100% | Last Result, Median |
@@ -208,6 +218,8 @@
 
 ### Perussuomalaiset (ECR)
 
+![Graph with seats probability mass function not yet produced](2018-02-15-KantarTNS-coalitions-seats-pmf-ps.png "Seats Probability Mass Function")
+
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 99.8% | 100% | Median |
@@ -215,6 +227,8 @@
 | 3 | 0% | 0% |  |
 
 ### Sininen tulevaisuus (*)
+
+![Graph with seats probability mass function not yet produced](2018-02-15-KantarTNS-coalitions-seats-pmf-sin.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
