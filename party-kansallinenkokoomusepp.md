@@ -10,7 +10,7 @@ Last result: **22.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.9% | 18.7–21.3% | 18.3–21.7% | 18.0–22.0% | 17.3–22.7% |
+| N/A | [Poll Average](average.html) | 19.5% | 18.1–21.0% | 17.7–21.4% | 17.4–21.8% | 16.7–22.6% |
 | [20 August–14 September 2018](2018-09-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 19.7% | 18.4–21.0% | 18.1–21.4% | 17.8–21.7% | 17.2–22.4% |
 | [13 August–4 September 2018](2018-09-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 19.0% | 17.7–20.3% | 17.3–20.7% | 17.0–21.1% | 16.4–21.7% |
 | [13–25 August 2018](2018-08-25-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 19.8% | 18.4–21.4% | 17.9–21.8% | 17.6–22.2% | 16.9–23.0% |
@@ -42,16 +42,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 15.5–16.5% | 0.1% | 100% |  |
-| 16.5–17.5% | 0.9% | 99.9% |  |
-| 17.5–18.5% | 7% | 99.1% |  |
-| 18.5–19.5% | 27% | 92% |  |
-| 19.5–20.5% | 38% | 65% | Median |
-| 20.5–21.5% | 21% | 27% |  |
-| 21.5–22.5% | 5% | 6% |  |
-| 22.5–23.5% | 0.7% | 0.8% | Last Result |
-| 23.5–24.5% | 0.1% | 0.1% |  |
-| 24.5–25.5% | 0% | 0% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.3% | 100% |  |
+| 16.5–17.5% | 3% | 99.7% |  |
+| 17.5–18.5% | 16% | 96% |  |
+| 18.5–19.5% | 32% | 81% |  |
+| 19.5–20.5% | 30% | 48% | Median |
+| 20.5–21.5% | 14% | 18% |  |
+| 21.5–22.5% | 3% | 4% |  |
+| 22.5–23.5% | 0.5% | 0.5% | Last Result |
+| 23.5–24.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -96,8 +96,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 76% | 100% | Last Result, Median |
-| 4 | 24% | 24% |  |
+| 3 | 81% | 100% | Last Result, Median |
+| 4 | 19% | 19% |  |
 | 5 | 0% | 0% |  |
 
 

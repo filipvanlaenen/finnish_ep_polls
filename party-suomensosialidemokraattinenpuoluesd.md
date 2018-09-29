@@ -10,7 +10,7 @@ Last result: **12.3%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.5% | 20.3–23.0% | 19.9–23.5% | 19.6–23.9% | 19.0–24.7% |
+| N/A | [Poll Average](average.html) | 21.2% | 19.6–22.9% | 19.1–23.4% | 18.8–23.8% | 18.1–24.7% |
 | [20 August–14 September 2018](2018-09-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 21.4% | 20.1–22.7% | 19.7–23.1% | 19.4–23.5% | 18.8–24.1% |
 | [13 August–4 September 2018](2018-09-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 20.3% | 19.0–21.7% | 18.6–22.1% | 18.3–22.4% | 17.7–23.1% |
 | [13–25 August 2018](2018-08-25-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 21.9% | 20.4–23.5% | 19.9–23.9% | 19.6–24.3% | 18.9–25.1% |
@@ -47,15 +47,15 @@ The following table shows the probability mass function per percentage block of 
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.1% | 100% |  |
-| 18.5–19.5% | 2% | 99.9% |  |
-| 19.5–20.5% | 14% | 98% |  |
-| 20.5–21.5% | 34% | 84% |  |
-| 21.5–22.5% | 32% | 50% | Median |
-| 22.5–23.5% | 14% | 18% |  |
-| 23.5–24.5% | 4% | 4% |  |
-| 24.5–25.5% | 0.6% | 0.7% |  |
+| 16.5–17.5% | 0.1% | 100% |  |
+| 17.5–18.5% | 1.5% | 99.9% |  |
+| 18.5–19.5% | 8% | 98% |  |
+| 19.5–20.5% | 21% | 90% |  |
+| 20.5–21.5% | 30% | 69% | Median |
+| 21.5–22.5% | 24% | 39% |  |
+| 22.5–23.5% | 11% | 15% |  |
+| 23.5–24.5% | 3% | 4% |  |
+| 24.5–25.5% | 0.5% | 0.6% |  |
 | 25.5–26.5% | 0.1% | 0.1% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
@@ -103,8 +103,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 17% | 100% |  |
-| 4 | 83% | 83% | Median |
+| 3 | 26% | 100% |  |
+| 4 | 74% | 74% | Median |
 | 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
