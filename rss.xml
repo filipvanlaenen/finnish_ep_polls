@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 07 Oct 2018 10:55:06 +0200</pubDate>
+    <pubDate>Sun, 07 Oct 2018 18:17:32 +0200</pubDate>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 10 September–2 October 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-10-02-Taloustutkimus.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2018-10-07T10:55:06.111495+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 14–27 September 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-09-27-Tietoykkönen.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-09-27-Tietoykkönen-seats.png"
+        length="196636"
+        type="image/png"/>
+      <pubDate>Sun, 07 Oct 2018 18:17:32 +0200</pubDate>
+      <dc:date>2018-10-07T18:17:32.319872+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 14–27 September 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-09-27-Tietoykkönen.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-09-27-Tietoykkönen-coalitions-seats.png"
+        length="134462"
+        type="image/png"/>
+      <pubDate>Sun, 07 Oct 2018 18:17:32 +0200</pubDate>
+      <dc:date>2018-10-07T18:17:32.319872+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 14–27 September 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-09-27-Tietoykkönen.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 13.1–17.4%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 17.6–22.4%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 6.4–9.7%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 19.8–24.9%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 10.4–14.4%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 7.9–11.4%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 3.2–5.7%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (*): 1.7–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-09-27-Tietoykkönen.png"
         length="280192"
         type="image/png"/>
-      <pubDate>Thu, 04 Oct 2018 15:52:35 +0200</pubDate>
-      <dc:date>2018-10-04T15:52:35.676554+02:00</dc:date>
+      <pubDate>Sun, 07 Oct 2018 18:17:32 +0200</pubDate>
+      <dc:date>2018-10-07T18:17:32.319872+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 20 August–14 September 2018 – Seat Projections for the Parties</title>
@@ -769,6 +789,6 @@
       <pubDate>Thu, 12 Apr 2018 16:09:24 +0200</pubDate>
       <dc:date>2018-04-12T16:09:24.80096+02:00</dc:date>
     </item>
-    <dc:date>2018-10-07T10:55:06.111495+02:00</dc:date>
+    <dc:date>2018-10-07T18:17:32.319872+02:00</dc:date>
   </channel>
 </rss>
