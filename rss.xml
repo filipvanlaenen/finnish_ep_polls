@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 07 Oct 2018 18:17:32 +0200</pubDate>
+    <pubDate>Sat, 20 Oct 2018 18:24:44 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 17 September–11 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-10-11-KantarTNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 14.3–17.2%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 18.1–21.3%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 8.0–10.3%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 20.4–23.7%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 10.7–13.4%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 8.7–11.1%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 3.6–5.3%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 3.1–4.7%&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (*): 1.0–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-10-11-KantarTNS.png"
+        length="252189"
+        type="image/png"/>
+      <pubDate>Sat, 20 Oct 2018 18:24:44 +0200</pubDate>
+      <dc:date>2018-10-20T18:24:44.226309+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 10 September–2 October 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-10-02-Taloustutkimus.html#seats</link>
@@ -789,6 +799,6 @@
       <pubDate>Thu, 12 Apr 2018 16:09:24 +0200</pubDate>
       <dc:date>2018-04-12T16:09:24.80096+02:00</dc:date>
     </item>
-    <dc:date>2018-10-07T18:17:32.319872+02:00</dc:date>
+    <dc:date>2018-10-20T18:24:44.226309+02:00</dc:date>
   </channel>
 </rss>
