@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 20 Oct 2018 18:24:44 +0200</pubDate>
+    <pubDate>Sat, 20 Oct 2018 20:56:35 +0200</pubDate>
     <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 17 September–11 October 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-10-11-KantarTNS.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-10-11-KantarTNS.png"
         length="252189"
         type="image/png"/>
-      <pubDate>Sat, 20 Oct 2018 18:24:44 +0200</pubDate>
-      <dc:date>2018-10-20T18:24:44.226309+02:00</dc:date>
+      <pubDate>Sat, 20 Oct 2018 20:56:35 +0200</pubDate>
+      <dc:date>2018-10-20T20:56:35.593533+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 10 September–2 October 2018 – Seat Projections for the Parties</title>
@@ -799,6 +799,6 @@
       <pubDate>Thu, 12 Apr 2018 16:09:24 +0200</pubDate>
       <dc:date>2018-04-12T16:09:24.80096+02:00</dc:date>
     </item>
-    <dc:date>2018-10-20T18:24:44.226309+02:00</dc:date>
+    <dc:date>2018-10-20T20:56:35.593533+02:00</dc:date>
   </channel>
 </rss>
