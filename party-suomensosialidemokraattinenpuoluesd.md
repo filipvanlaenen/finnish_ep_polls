@@ -10,7 +10,7 @@ Last result: **12.3%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.2% | 20.9–23.7% | 20.5–24.1% | 20.1–24.5% | 19.4–25.3% |
+| N/A | [Poll Average](average.html) | 22.4% | 21.1–23.7% | 20.6–24.1% | 20.2–24.4% | 19.4–25.1% |
 | [15 October–12 November 2018](2018-11-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 22.4% | 21.3–23.5% | 21.0–23.9% | 20.7–24.1% | 20.2–24.7% |
 | [3 October–6 November 2018](2018-11-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 22.7% | 21.5–23.9% | 21.2–24.3% | 20.9–24.6% | 20.3–25.2% |
 | [12–30 October 2018](2018-10-30-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 22.0% | 20.5–23.7% | 20.1–24.2% | 19.7–24.6% | 19.0–25.4% |
@@ -55,14 +55,14 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0.1% | 100% |  |
-| 18.5–19.5% | 0.7% | 99.9% |  |
-| 19.5–20.5% | 5% | 99.3% |  |
-| 20.5–21.5% | 21% | 94% |  |
-| 21.5–22.5% | 36% | 74% | Median |
-| 22.5–23.5% | 26% | 38% |  |
-| 23.5–24.5% | 10% | 12% |  |
+| 18.5–19.5% | 0.6% | 99.9% |  |
+| 19.5–20.5% | 4% | 99.4% |  |
+| 20.5–21.5% | 16% | 96% |  |
+| 21.5–22.5% | 35% | 80% | Median |
+| 22.5–23.5% | 31% | 45% |  |
+| 23.5–24.5% | 11% | 13% |  |
 | 24.5–25.5% | 2% | 2% |  |
-| 25.5–26.5% | 0.3% | 0.3% |  |
+| 25.5–26.5% | 0.2% | 0.2% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
 
@@ -115,9 +115,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 9% | 100% |  |
-| 4 | 91% | 91% | Median |
-| 5 | 0.2% | 0.2% |  |
+| 3 | 6% | 100% |  |
+| 4 | 94% | 94% | Median |
+| 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
 

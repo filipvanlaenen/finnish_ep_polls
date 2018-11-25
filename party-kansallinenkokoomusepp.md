@@ -10,7 +10,7 @@ Last result: **22.6%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.5% | 18.1–20.9% | 17.7–21.3% | 17.3–21.8% | 16.6–22.6% |
+| N/A | [Poll Average](average.html) | 19.9% | 18.7–21.3% | 18.3–21.6% | 18.0–22.0% | 17.3–22.7% |
 | [15 October–12 November 2018](2018-11-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 19.7% | 18.7–20.8% | 18.4–21.1% | 18.1–21.4% | 17.6–21.9% |
 | [3 October–6 November 2018](2018-11-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 20.2% | 19.1–21.4% | 18.8–21.7% | 18.5–22.0% | 18.0–22.6% |
 | [12–30 October 2018](2018-10-30-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 19.9% | 18.4–21.5% | 18.0–21.9% | 17.6–22.3% | 16.9–23.1% |
@@ -48,15 +48,14 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.4% | 100% |  |
-| 16.5–17.5% | 4% | 99.6% |  |
-| 17.5–18.5% | 15% | 96% |  |
-| 18.5–19.5% | 33% | 81% | Median |
-| 19.5–20.5% | 31% | 47% |  |
-| 20.5–21.5% | 13% | 16% |  |
-| 21.5–22.5% | 3% | 4% |  |
-| 22.5–23.5% | 0.5% | 0.6% | Last Result |
+| 15.5–16.5% | 0.1% | 100% |  |
+| 16.5–17.5% | 0.8% | 99.9% |  |
+| 17.5–18.5% | 7% | 99.2% |  |
+| 18.5–19.5% | 27% | 92% |  |
+| 19.5–20.5% | 38% | 66% | Median |
+| 20.5–21.5% | 22% | 27% |  |
+| 21.5–22.5% | 5% | 6% |  |
+| 22.5–23.5% | 0.7% | 0.7% | Last Result |
 | 23.5–24.5% | 0.1% | 0.1% |  |
 | 24.5–25.5% | 0% | 0% |  |
 
@@ -109,9 +108,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.2% | 100% |  |
-| 3 | 82% | 99.8% | Last Result, Median |
-| 4 | 17% | 17% |  |
+| 3 | 77% | 100% | Last Result, Median |
+| 4 | 23% | 23% |  |
 | 5 | 0% | 0% |  |
 
 

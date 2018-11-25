@@ -10,7 +10,7 @@ Last result: **19.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.1% | 14.5–18.2% | 14.1–18.7% | 13.7–19.1% | 13.0–19.9% |
+| N/A | [Poll Average](average.html) | 15.7% | 14.4–17.1% | 14.0–17.5% | 13.6–17.8% | 13.0–18.4% |
 | [15 October–12 November 2018](2018-11-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 15.4% | 14.4–16.4% | 14.2–16.7% | 14.0–16.9% | 13.5–17.4% |
 | [3 October–6 November 2018](2018-11-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 16.5% | 15.5–17.6% | 15.2–17.9% | 14.9–18.2% | 14.5–18.7% |
 | [12–30 October 2018](2018-10-30-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 15.2% | 13.9–16.6% | 13.5–17.1% | 13.2–17.4% | 12.6–18.1% |
@@ -51,15 +51,13 @@ The following table shows the probability mass function per percentage block of 
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0.1% | 100% |  |
 | 12.5–13.5% | 2% | 99.9% |  |
-| 13.5–14.5% | 9% | 98% |  |
-| 14.5–15.5% | 24% | 89% |  |
-| 15.5–16.5% | 29% | 65% | Median |
-| 16.5–17.5% | 18% | 37% |  |
-| 17.5–18.5% | 12% | 18% |  |
-| 18.5–19.5% | 5% | 6% |  |
-| 19.5–20.5% | 1.0% | 1.0% | Last Result |
-| 20.5–21.5% | 0.1% | 0.1% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 13.5–14.5% | 11% | 98% |  |
+| 14.5–15.5% | 30% | 87% |  |
+| 15.5–16.5% | 34% | 56% | Median |
+| 16.5–17.5% | 18% | 22% |  |
+| 17.5–18.5% | 4% | 4% |  |
+| 18.5–19.5% | 0.3% | 0.3% |  |
+| 19.5–20.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -110,9 +108,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 33% | 100% |  |
-| 3 | 67% | 67% | Last Result, Median |
-| 4 | 0.1% | 0.1% |  |
-| 5 | 0% | 0% |  |
+| 2 | 38% | 100% |  |
+| 3 | 62% | 62% | Last Result, Median |
+| 4 | 0% | 0% |  |
 
 
