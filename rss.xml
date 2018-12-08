@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 07 Dec 2018 23:43:09 +0100</pubDate>
+    <pubDate>Sat, 08 Dec 2018 17:33:58 +0100</pubDate>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 12 November–4 December 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2018-12-04-Taloustutkimus.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2018-12-04-Taloustutkimus.png"
         length="265712"
         type="image/png"/>
-      <pubDate>Fri, 07 Dec 2018 23:43:09 +0100</pubDate>
-      <dc:date>2018-12-07T23:43:09.663261+01:00</dc:date>
+      <pubDate>Sat, 08 Dec 2018 17:33:58 +0100</pubDate>
+      <dc:date>2018-12-08T17:33:58.025369+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 14–23 November 2018 – Seat Projections for the Parties</title>
@@ -949,6 +949,6 @@
       <pubDate>Thu, 12 Apr 2018 16:09:24 +0200</pubDate>
       <dc:date>2018-04-12T16:09:24.80096+02:00</dc:date>
     </item>
-    <dc:date>2018-12-07T23:43:09.663261+01:00</dc:date>
+    <dc:date>2018-12-08T17:33:58.025369+01:00</dc:date>
   </channel>
 </rss>
