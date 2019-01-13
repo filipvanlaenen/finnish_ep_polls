@@ -33,9 +33,9 @@
 | <a href="#suomen-sosialidemokraattinen-puolue-(s&d)">Suomen Sosialidemokraattinen Puolue (S&D)</a> | 2 | 4 | 3–4 |3–4 |3–4 |3–4 |
 | <a href="#kansallinen-kokoomus-(epp)">Kansallinen Kokoomus (EPP)</a> | 3 | 3 | 3 |3–4 |3–4 |3–4 |
 | <a href="#suomen-keskusta-(alde)">Suomen Keskusta (ALDE)</a> | 3 | 3 | 2–3 |2–3 |2–3 |2–3 |
-| <a href="#vihreä-liitto-(greens/efa)">Vihreä liitto (Greens/EFA)</a> | 1 | 2 | 2 |2 |2 |2 |
+| <a href="#vihreä-liitto-(greens/efa)">Vihreä liitto (Greens/EFA)</a> | 1 | 2 | 2 |2 |2 |2–3 |
 | <a href="#perussuomalaiset-(ecr)">Perussuomalaiset (ECR)</a> | 2 | 1 | 1–2 |1–2 |1–2 |1–2 |
-| <a href="#vasemmistoliitto-(gue/ngl)">Vasemmistoliitto (GUE/NGL)</a> | 1 | 1 | 1–2 |1–2 |1–2 |1–2 |
+| <a href="#vasemmistoliitto-(gue/ngl)">Vasemmistoliitto (GUE/NGL)</a> | 1 | 1 | 1 |1–2 |1–2 |1–2 |
 | <a href="#kristillisdemokraatit-(epp)">Kristillisdemokraatit (EPP)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 | <a href="#svenska-folkpartiet-i-finland-(alde)">Svenska folkpartiet i Finland (ALDE)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#sininen-tulevaisuus-(*)">Sininen tulevaisuus (*)</a> | 0 | 0 | 0 |0 |0 |0 |
@@ -49,8 +49,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 35% | 100% |  |
-| 4 | 65% | 65% | Median |
+| 3 | 33% | 100% |  |
+| 4 | 67% | 67% | Median |
 | 5 | 0% | 0% |  |
 
 ### Kansallinen Kokoomus (EPP)
@@ -61,8 +61,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 93% | 100% | Last Result, Median |
-| 4 | 7% | 7% |  |
+| 3 | 91% | 100% | Last Result, Median |
+| 4 | 9% | 9% |  |
 | 5 | 0% | 0% |  |
 
 ### Suomen Keskusta (ALDE)
@@ -86,8 +86,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 99.5% | 100% | Median |
-| 3 | 0.5% | 0.5% |  |
+| 2 | 99.1% | 100% | Median |
+| 3 | 0.9% | 0.9% |  |
 | 4 | 0% | 0% |  |
 
 ### Perussuomalaiset (ECR)
@@ -98,8 +98,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 61% | 100% | Median |
-| 2 | 39% | 39% | Last Result |
+| 1 | 62% | 100% | Median |
+| 2 | 38% | 38% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### Vasemmistoliitto (GUE/NGL)
@@ -110,8 +110,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 87% | 100% | Last Result, Median |
-| 2 | 13% | 13% |  |
+| 1 | 91% | 100% | Last Result, Median |
+| 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
 
 ### Kristillisdemokraatit (EPP)
@@ -122,8 +122,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.4% | 100% | Last Result, Median |
-| 1 | 0.6% | 0.6% |  |
+| 0 | 98.9% | 100% | Last Result, Median |
+| 1 | 1.1% | 1.1% |  |
 | 2 | 0% | 0% |  |
 
 ### Svenska folkpartiet i Finland (ALDE)
@@ -156,12 +156,12 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Kansallinen Kokoomus (EPP) – Kristillisdemokraatit (EPP) | 3 | 3 | 0% | 3 | 3–4 | 3–4 | 3–4 |
+| Kansallinen Kokoomus (EPP) – Kristillisdemokraatit (EPP) | 3 | 3 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
 | Suomen Sosialidemokraattinen Puolue (S&D) | 2 | 4 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
 | Suomen Keskusta (ALDE) – Svenska folkpartiet i Finland (ALDE) | 4 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
-| Vihreä liitto (Greens/EFA) | 1 | 2 | 0% | 2 | 2 | 2 | 2 |
+| Vihreä liitto (Greens/EFA) | 1 | 2 | 0% | 2 | 2 | 2 | 2–3 |
 | Perussuomalaiset (ECR) | 2 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
-| Vasemmistoliitto (GUE/NGL) | 1 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
+| Vasemmistoliitto (GUE/NGL) | 1 | 1 | 0% | 1 | 1–2 | 1–2 | 1–2 |
 | Sininen tulevaisuus (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Kansallinen Kokoomus (EPP) – Kristillisdemokraatit (EPP)
@@ -170,8 +170,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 93% | 100% | Last Result, Median |
-| 4 | 7% | 7% |  |
+| 3 | 90% | 100% | Last Result, Median |
+| 4 | 10% | 10% |  |
 | 5 | 0% | 0% |  |
 
 ### Suomen Sosialidemokraattinen Puolue (S&D)
@@ -181,8 +181,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 35% | 100% |  |
-| 4 | 65% | 65% | Median |
+| 3 | 33% | 100% |  |
+| 4 | 67% | 67% | Median |
 | 5 | 0% | 0% |  |
 
 ### Suomen Keskusta (ALDE) – Svenska folkpartiet i Finland (ALDE)
@@ -202,8 +202,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 99.5% | 100% | Median |
-| 3 | 0.5% | 0.5% |  |
+| 2 | 99.1% | 100% | Median |
+| 3 | 0.9% | 0.9% |  |
 | 4 | 0% | 0% |  |
 
 ### Perussuomalaiset (ECR)
@@ -212,8 +212,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 61% | 100% | Median |
-| 2 | 39% | 39% | Last Result |
+| 1 | 62% | 100% | Median |
+| 2 | 38% | 38% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### Vasemmistoliitto (GUE/NGL)
@@ -222,8 +222,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 87% | 100% | Last Result, Median |
-| 2 | 13% | 13% |  |
+| 1 | 91% | 100% | Last Result, Median |
+| 2 | 9% | 9% |  |
 | 3 | 0% | 0% |  |
 
 ### Sininen tulevaisuus (*)
@@ -246,6 +246,6 @@
 ### Calculations
 
 + **Sample size:** 2443
-+ **Simulations done:** 131,072
-+ **Error estimate:** 1.95%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 0.91%
 
