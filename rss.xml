@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 12 Jan 2019 23:19:06 +0100</pubDate>
+    <pubDate>Fri, 18 Jan 2019 19:16:39 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 13 December 2018–11 January 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-01-11-KantarTNS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-01-11-KantarTNS-seats.png"
+        length="233803"
+        type="image/png"/>
+      <pubDate>Fri, 18 Jan 2019 19:16:39 +0100</pubDate>
+      <dc:date>2019-01-18T19:16:39.905334+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 13 December 2018–11 January 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-01-11-KantarTNS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-01-11-KantarTNS-coalitions-seats.png"
+        length="151470"
+        type="image/png"/>
+      <pubDate>Fri, 18 Jan 2019 19:16:39 +0100</pubDate>
+      <dc:date>2019-01-18T19:16:39.905334+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 13 December 2018–11 January 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-01-11-KantarTNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 14.2–17.1%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 17.9–21.2%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 8.5–11.0%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 19.3–22.6%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 11.6–14.3%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 8.3–10.7%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 3.5–5.2%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 3.2–4.9%&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (*): 0.7–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-01-11-KantarTNS.png"
+        length="260115"
+        type="image/png"/>
+      <pubDate>Fri, 18 Jan 2019 19:16:39 +0100</pubDate>
+      <dc:date>2019-01-18T19:16:39.905334+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 10 December 2018–8 January 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-01-08-Taloustutkimus.html#seats</link>
@@ -1059,6 +1089,6 @@
       <pubDate>Thu, 12 Apr 2018 16:09:24 +0200</pubDate>
       <dc:date>2018-04-12T16:09:24.80096+02:00</dc:date>
     </item>
-    <dc:date>2019-01-12T23:19:06.572618+01:00</dc:date>
+    <dc:date>2019-01-18T19:16:39.905334+01:00</dc:date>
   </channel>
 </rss>
