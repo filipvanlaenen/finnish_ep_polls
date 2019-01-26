@@ -10,7 +10,7 @@ Last result: **19.7%** (General Election of 25 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.0% | 14.7–17.6% | 14.3–18.0% | 13.9–18.4% | 13.3–19.0% |
+| N/A | [Poll Average](average.html) | 15.8% | 14.6–16.9% | 14.3–17.2% | 13.9–17.5% | 13.3–18.1% |
 | [13 December 2018–11 January 2019](2019-01-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 15.6% | 14.7–16.6% | 14.4–16.9% | 14.2–17.1% | 13.7–17.6% |
 | [10 December 2018–8 January 2019](2019-01-08-Taloustutkimus.html) | Taloustutkimus <br> Yle | 16.1% | 15.2–17.1% | 14.9–17.4% | 14.7–17.6% | 14.3–18.1% |
 | [5–18 December 2018](2018-12-18-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 15.5% | 14.2–16.9% | 13.8–17.3% | 13.5–17.7% | 12.9–18.4% |
@@ -55,15 +55,14 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0.1% | 100% |  |
-| 12.5–13.5% | 0.9% | 99.9% |  |
-| 13.5–14.5% | 7% | 99.0% |  |
-| 14.5–15.5% | 25% | 92% |  |
-| 15.5–16.5% | 33% | 66% | Median |
-| 16.5–17.5% | 22% | 33% |  |
-| 17.5–18.5% | 9% | 11% |  |
-| 18.5–19.5% | 2% | 2% |  |
-| 19.5–20.5% | 0.1% | 0.1% | Last Result |
-| 20.5–21.5% | 0% | 0% |  |
+| 12.5–13.5% | 1.0% | 99.9% |  |
+| 13.5–14.5% | 8% | 99.0% |  |
+| 14.5–15.5% | 31% | 91% |  |
+| 15.5–16.5% | 42% | 60% | Median |
+| 16.5–17.5% | 16% | 19% |  |
+| 17.5–18.5% | 2% | 2% |  |
+| 18.5–19.5% | 0.1% | 0.1% |  |
+| 19.5–20.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -120,8 +119,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 21% | 100% |  |
-| 3 | 79% | 79% | Last Result, Median |
+| 2 | 34% | 100% |  |
+| 3 | 66% | 66% | Last Result, Median |
 | 4 | 0% | 0% |  |
 
 
