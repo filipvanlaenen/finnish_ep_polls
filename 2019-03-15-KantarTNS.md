@@ -10,15 +10,15 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Suomen Sosialidemokraattinen Puolue (S&D) | 12.3% | 21.0% | 20.0–22.1% |19.7–22.4% |19.4–22.6% |19.0–23.2% |
-| Kansallinen Kokoomus (EPP) | 22.6% | 18.1% | 17.1–19.1% |16.9–19.4% |16.6–19.7% |16.2–20.2% |
-| Suomen Keskusta (ALDE) | 19.7% | 14.3% | 13.4–15.2% |13.2–15.5% |13.0–15.7% |12.6–16.2% |
-| Vihreä liitto (Greens/EFA) | 9.3% | 14.0% | 13.2–15.0% |12.9–15.2% |12.7–15.4% |12.3–15.9% |
-| Perussuomalaiset (ECR) | 12.9% | 11.1% | 10.3–11.9% |10.1–12.2% |9.9–12.4% |9.5–12.8% |
-| Vasemmistoliitto (GUE/NGL) | 9.3% | 8.9% | 8.2–9.7% |8.0–9.9% |7.8–10.1% |7.5–10.5% |
-| Svenska folkpartiet i Finland (ALDE) | 6.8% | 4.4% | 3.9–5.0% |3.8–5.2% |3.7–5.3% |3.4–5.6% |
-| Kristillisdemokraatit (EPP) | 5.2% | 4.2% | 3.7–4.8% |3.6–4.9% |3.5–5.1% |3.3–5.4% |
-| Sininen tulevaisuus (*) | 0.0% | 1.2% | 1.0–1.5% |0.9–1.6% |0.8–1.7% |0.7–1.9% |
+| Suomen Sosialidemokraattinen Puolue (S&D) | 12.3% | 21.0% | 19.7–22.3% |19.4–22.7% |19.1–23.0% |18.5–23.7% |
+| Kansallinen Kokoomus (EPP) | 22.6% | 18.1% | 16.9–19.4% |16.6–19.7% |16.3–20.0% |15.8–20.7% |
+| Suomen Keskusta (ALDE) | 19.7% | 14.3% | 13.3–15.5% |13.0–15.8% |12.7–16.1% |12.2–16.7% |
+| Vihreä liitto (Greens/EFA) | 9.3% | 14.0% | 13.0–15.2% |12.7–15.5% |12.4–15.8% |11.9–16.4% |
+| Perussuomalaiset (ECR) | 12.9% | 11.1% | 10.2–12.1% |9.9–12.4% |9.7–12.7% |9.2–13.2% |
+| Vasemmistoliitto (GUE/NGL) | 9.3% | 8.9% | 8.0–9.8% |7.8–10.1% |7.6–10.3% |7.2–10.8% |
+| Svenska folkpartiet i Finland (ALDE) | 6.8% | 4.4% | 3.8–5.1% |3.6–5.3% |3.5–5.5% |3.2–5.8% |
+| Kristillisdemokraatit (EPP) | 5.2% | 4.2% | 3.6–4.9% |3.5–5.1% |3.3–5.3% |3.1–5.6% |
+| Sininen tulevaisuus (*) | 0.0% | 1.2% | 0.9–1.6% |0.8–1.7% |0.8–1.9% |0.7–2.1% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -30,14 +30,14 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#suomen-sosialidemokraattinen-puolue-(s&d)">Suomen Sosialidemokraattinen Puolue (S&D)</a> | 2 | 4 | 4 |4 |4 |3–4 |
+| <a href="#suomen-sosialidemokraattinen-puolue-(s&d)">Suomen Sosialidemokraattinen Puolue (S&D)</a> | 2 | 4 | 3–4 |3–4 |3–4 |3–4 |
 | <a href="#kansallinen-kokoomus-(epp)">Kansallinen Kokoomus (EPP)</a> | 3 | 3 | 3 |3 |3 |3 |
-| <a href="#suomen-keskusta-(alde)">Suomen Keskusta (ALDE)</a> | 3 | 2 | 2 |2 |2–3 |2–3 |
-| <a href="#vihreä-liitto-(greens/efa)">Vihreä liitto (Greens/EFA)</a> | 1 | 2 | 2 |2 |2 |2–3 |
-| <a href="#perussuomalaiset-(ecr)">Perussuomalaiset (ECR)</a> | 2 | 2 | 2 |2 |1–2 |1–2 |
+| <a href="#suomen-keskusta-(alde)">Suomen Keskusta (ALDE)</a> | 3 | 2 | 2 |2 |2 |2–3 |
+| <a href="#vihreä-liitto-(greens/efa)">Vihreä liitto (Greens/EFA)</a> | 1 | 2 | 2–3 |2–3 |2–3 |2–3 |
+| <a href="#perussuomalaiset-(ecr)">Perussuomalaiset (ECR)</a> | 2 | 2 | 2 |2 |2 |1–2 |
 | <a href="#vasemmistoliitto-(gue/ngl)">Vasemmistoliitto (GUE/NGL)</a> | 1 | 1 | 1 |1 |1 |1 |
 | <a href="#svenska-folkpartiet-i-finland-(alde)">Svenska folkpartiet i Finland (ALDE)</a> | 1 | 0 | 0 |0 |0 |0 |
-| <a href="#kristillisdemokraatit-(epp)">Kristillisdemokraatit (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#kristillisdemokraatit-(epp)">Kristillisdemokraatit (EPP)</a> | 0 | 0 | 0 |0 |0 |0–1 |
 | <a href="#sininen-tulevaisuus-(*)">Sininen tulevaisuus (*)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Suomen Sosialidemokraattinen Puolue (S&D)
@@ -49,8 +49,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 2% | 100% |  |
-| 4 | 98% | 98% | Median |
+| 3 | 44% | 100% |  |
+| 4 | 56% | 56% | Median |
 | 5 | 0% | 0% |  |
 
 ### Kansallinen Kokoomus (EPP)
@@ -71,8 +71,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 97% | 100% | Median |
-| 3 | 3% | 3% | Last Result |
+| 2 | 98% | 100% | Median |
+| 3 | 2% | 2% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### Vihreä liitto (Greens/EFA)
@@ -84,8 +84,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 98.6% | 100% | Median |
-| 3 | 1.4% | 1.4% |  |
+| 2 | 57% | 100% | Median |
+| 3 | 43% | 43% |  |
 | 4 | 0% | 0% |  |
 
 ### Perussuomalaiset (ECR)
@@ -96,8 +96,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 3% | 100% |  |
-| 2 | 97% | 97% | Last Result, Median |
+| 1 | 2% | 100% |  |
+| 2 | 98% | 98% | Last Result, Median |
 | 3 | 0% | 0% |  |
 
 ### Vasemmistoliitto (GUE/NGL)
@@ -120,9 +120,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.6% | 100% | Median |
-| 1 | 0.4% | 0.4% | Last Result |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Median |
+| 1 | 0% | 0% | Last Result |
 
 ### Kristillisdemokraatit (EPP)
 
@@ -132,8 +131,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Last Result, Median |
-| 1 | 0.3% | 0.3% |  |
+| 0 | 99.1% | 100% | Last Result, Median |
+| 1 | 0.9% | 0.9% |  |
 | 2 | 0% | 0% |  |
 
 ### Sininen tulevaisuus (*)
@@ -155,11 +154,11 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Suomen Sosialidemokraattinen Puolue (S&D) | 2 | 4 | 0% | 4 | 4 | 4 | 3–4 |
-| Kansallinen Kokoomus (EPP) – Kristillisdemokraatit (EPP) | 3 | 3 | 0% | 3 | 3 | 3 | 3 |
-| Suomen Keskusta (ALDE) – Svenska folkpartiet i Finland (ALDE) | 4 | 2 | 0% | 2 | 2 | 2–3 | 2–3 |
-| Vihreä liitto (Greens/EFA) | 1 | 2 | 0% | 2 | 2 | 2 | 2–3 |
-| Perussuomalaiset (ECR) | 2 | 2 | 0% | 2 | 2 | 1–2 | 1–2 |
+| Suomen Sosialidemokraattinen Puolue (S&D) | 2 | 4 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
+| Kansallinen Kokoomus (EPP) – Kristillisdemokraatit (EPP) | 3 | 3 | 0% | 3 | 3 | 3 | 3–4 |
+| Vihreä liitto (Greens/EFA) | 1 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
+| Perussuomalaiset (ECR) | 2 | 2 | 0% | 2 | 2 | 2 | 1–2 |
+| Suomen Keskusta (ALDE) – Svenska folkpartiet i Finland (ALDE) | 4 | 2 | 0% | 2 | 2 | 2 | 2–3 |
 | Vasemmistoliitto (GUE/NGL) | 1 | 1 | 0% | 1 | 1 | 1 | 1 |
 | Sininen tulevaisuus (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
@@ -170,8 +169,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 2% | 100% |  |
-| 4 | 98% | 98% | Median |
+| 3 | 44% | 100% |  |
+| 4 | 56% | 56% | Median |
 | 5 | 0% | 0% |  |
 
 ### Kansallinen Kokoomus (EPP) – Kristillisdemokraatit (EPP)
@@ -180,19 +179,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 99.7% | 100% | Last Result, Median |
-| 4 | 0.3% | 0.3% |  |
+| 3 | 99.1% | 100% | Last Result, Median |
+| 4 | 0.9% | 0.9% |  |
 | 5 | 0% | 0% |  |
-
-### Suomen Keskusta (ALDE) – Svenska folkpartiet i Finland (ALDE)
-
-![Graph with seats probability mass function not yet produced](2019-03-15-KantarTNS-coalitions-seats-pmf-kesk–sfp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 97% | 100% | Median |
-| 3 | 3% | 3% |  |
-| 4 | 0% | 0% | Last Result |
 
 ### Vihreä liitto (Greens/EFA)
 
@@ -201,8 +190,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 98.6% | 100% | Median |
-| 3 | 1.4% | 1.4% |  |
+| 2 | 57% | 100% | Median |
+| 3 | 43% | 43% |  |
 | 4 | 0% | 0% |  |
 
 ### Perussuomalaiset (ECR)
@@ -211,9 +200,19 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 3% | 100% |  |
-| 2 | 97% | 97% | Last Result, Median |
+| 1 | 2% | 100% |  |
+| 2 | 98% | 98% | Last Result, Median |
 | 3 | 0% | 0% |  |
+
+### Suomen Keskusta (ALDE) – Svenska folkpartiet i Finland (ALDE)
+
+![Graph with seats probability mass function not yet produced](2019-03-15-KantarTNS-coalitions-seats-pmf-kesk–sfp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 2 | 98% | 100% | Median |
+| 3 | 2% | 2% |  |
+| 4 | 0% | 0% | Last Result |
 
 ### Vasemmistoliitto (GUE/NGL)
 
@@ -244,7 +243,7 @@
 
 ### Calculations
 
-+ **Sample size:** 2490
++ **Sample size:** 1668
 + **Simulations done:** 1,024
-+ **Error estimate:** 2.47%
++ **Error estimate:** 2.62%
 
