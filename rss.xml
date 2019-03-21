@@ -8,16 +8,16 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 20 Mar 2019 17:44:19 +0100</pubDate>
+    <pubDate>Thu, 21 Mar 2019 17:43:14 +0100</pubDate>
     <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 18 February–15 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-03-15-KantarTNS.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 13.0–15.7%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 16.6–19.7%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 9.9–12.4%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 19.4–22.6%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 12.7–15.4%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 7.8–10.1%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 3.7–5.3%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 3.5–5.1%&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (*): 0.8–1.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 12.7–16.1%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 16.3–20.0%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 9.7–12.7%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 19.1–23.0%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 12.4–15.8%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 7.6–10.3%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 3.5–5.5%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 3.3–5.3%&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (*): 0.8–1.9%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-03-15-KantarTNS.png"
-        length="262757"
+        length="274752"
         type="image/png"/>
-      <pubDate>Wed, 20 Mar 2019 17:44:19 +0100</pubDate>
-      <dc:date>2019-03-20T17:44:19.23954+01:00</dc:date>
+      <pubDate>Thu, 21 Mar 2019 17:43:14 +0100</pubDate>
+      <dc:date>2019-03-21T17:43:14.873815+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 6 February–5 March 2019 – Seat Projections for the Parties</title>
@@ -1249,6 +1249,6 @@
       <pubDate>Thu, 12 Apr 2018 16:09:24 +0200</pubDate>
       <dc:date>2018-04-12T16:09:24.80096+02:00</dc:date>
     </item>
-    <dc:date>2019-03-20T17:44:19.23954+01:00</dc:date>
+    <dc:date>2019-03-21T17:43:14.873815+01:00</dc:date>
   </channel>
 </rss>
