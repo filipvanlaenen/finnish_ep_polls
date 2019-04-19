@@ -14,11 +14,11 @@
 | Kansallinen Kokoomus (EPP) | 22.6% | 18.1% | 16.9–19.4% |16.6–19.7% |16.3–20.0% |15.8–20.7% |
 | Suomen Keskusta (ALDE) | 19.7% | 14.3% | 13.3–15.5% |13.0–15.8% |12.7–16.1% |12.2–16.7% |
 | Vihreä liitto (Greens/EFA) | 9.3% | 14.0% | 13.0–15.2% |12.7–15.5% |12.4–15.8% |11.9–16.4% |
-| Perussuomalaiset (ECR) | 12.9% | 11.1% | 10.2–12.1% |9.9–12.4% |9.7–12.7% |9.2–13.2% |
+| Perussuomalaiset (EAPN) | 12.9% | 11.1% | 10.2–12.1% |9.9–12.4% |9.7–12.7% |9.2–13.2% |
 | Vasemmistoliitto (GUE/NGL) | 9.3% | 8.9% | 8.0–9.8% |7.8–10.1% |7.6–10.3% |7.2–10.8% |
 | Svenska folkpartiet i Finland (ALDE) | 6.8% | 4.4% | 3.8–5.1% |3.6–5.3% |3.5–5.5% |3.2–5.8% |
 | Kristillisdemokraatit (EPP) | 5.2% | 4.2% | 3.6–4.9% |3.5–5.1% |3.3–5.3% |3.1–5.6% |
-| Sininen tulevaisuus (*) | 0.0% | 1.2% | 0.9–1.6% |0.8–1.7% |0.8–1.9% |0.7–2.1% |
+| Sininen tulevaisuus (ECR) | 0.0% | 1.2% | 0.9–1.6% |0.8–1.7% |0.8–1.9% |0.7–2.1% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -34,11 +34,11 @@
 | <a href="#kansallinen-kokoomus-(epp)">Kansallinen Kokoomus (EPP)</a> | 3 | 3 | 3 |3 |3 |2–3 |
 | <a href="#suomen-keskusta-(alde)">Suomen Keskusta (ALDE)</a> | 3 | 2 | 2 |2 |2 |2 |
 | <a href="#vihreä-liitto-(greens/efa)">Vihreä liitto (Greens/EFA)</a> | 1 | 2 | 2 |2 |2 |2 |
-| <a href="#perussuomalaiset-(ecr)">Perussuomalaiset (ECR)</a> | 2 | 2 | 2 |2 |2 |1–2 |
+| <a href="#perussuomalaiset-(eapn)">Perussuomalaiset (EAPN)</a> | 2 | 2 | 2 |2 |2 |1–2 |
 | <a href="#vasemmistoliitto-(gue/ngl)">Vasemmistoliitto (GUE/NGL)</a> | 1 | 1 | 1 |1 |1 |1 |
 | <a href="#svenska-folkpartiet-i-finland-(alde)">Svenska folkpartiet i Finland (ALDE)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#kristillisdemokraatit-(epp)">Kristillisdemokraatit (EPP)</a> | 0 | 0 | 0 |0 |0 |0–1 |
-| <a href="#sininen-tulevaisuus-(*)">Sininen tulevaisuus (*)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#sininen-tulevaisuus-(ecr)">Sininen tulevaisuus (ECR)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Suomen Sosialidemokraattinen Puolue (S&D)
 
@@ -89,11 +89,11 @@
 | 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
-### Perussuomalaiset (ECR)
+### Perussuomalaiset (EAPN)
 
-*For a full overview of the results for this party, see the [Perussuomalaiset (ECR)](party-perussuomalaisetecr.html) page.*
+*For a full overview of the results for this party, see the [Perussuomalaiset (EAPN)](party-perussuomalaiseteapn.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-03-15-KantarTNS-seats-pmf-perussuomalaisetecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-03-15-KantarTNS-seats-pmf-perussuomalaiseteapn.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -134,11 +134,11 @@
 | 1 | 0.5% | 0.5% |  |
 | 2 | 0% | 0% |  |
 
-### Sininen tulevaisuus (*)
+### Sininen tulevaisuus (ECR)
 
-*For a full overview of the results for this party, see the [Sininen tulevaisuus (*)](party-sininentulevaisuus.html) page.*
+*For a full overview of the results for this party, see the [Sininen tulevaisuus (ECR)](party-sininentulevaisuusecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-03-15-KantarTNS-seats-pmf-sininentulevaisuus.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-03-15-KantarTNS-seats-pmf-sininentulevaisuusecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -155,11 +155,11 @@
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Suomen Sosialidemokraattinen Puolue (S&D) | 2 | 3 | 0% | 3 | 3 | 3–4 | 3–4 |
 | Kansallinen Kokoomus (EPP) – Kristillisdemokraatit (EPP) | 3 | 3 | 0% | 3 | 3 | 3 | 2–3 |
-| Perussuomalaiset (ECR) | 2 | 2 | 0% | 2 | 2 | 2 | 1–2 |
+| Perussuomalaiset (EAPN) | 2 | 2 | 0% | 2 | 2 | 2 | 1–2 |
 | Suomen Keskusta (ALDE) – Svenska folkpartiet i Finland (ALDE) | 4 | 2 | 0% | 2 | 2 | 2 | 2 |
 | Vihreä liitto (Greens/EFA) | 1 | 2 | 0% | 2 | 2 | 2 | 2 |
 | Vasemmistoliitto (GUE/NGL) | 1 | 1 | 0% | 1 | 1 | 1 | 1 |
-| Sininen tulevaisuus (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Sininen tulevaisuus (ECR) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Suomen Sosialidemokraattinen Puolue (S&D)
 
@@ -183,7 +183,7 @@
 | 4 | 0.4% | 0.4% |  |
 | 5 | 0% | 0% |  |
 
-### Perussuomalaiset (ECR)
+### Perussuomalaiset (EAPN)
 
 ![Graph with seats probability mass function not yet produced](2019-03-15-KantarTNS-coalitions-seats-pmf-ps.png "Seats Probability Mass Function")
 
@@ -222,7 +222,7 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 100% | 100% | Last Result, Median |
 
-### Sininen tulevaisuus (*)
+### Sininen tulevaisuus (ECR)
 
 ![Graph with seats probability mass function not yet produced](2019-03-15-KantarTNS-coalitions-seats-pmf-sin.png "Seats Probability Mass Function")
 
