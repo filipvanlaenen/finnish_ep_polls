@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 19 Apr 2019 12:55:50 +0200</pubDate>
+    <pubDate>Sun, 21 Apr 2019 20:02:13 +0200</pubDate>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 1–9 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-04-09-Taloustutkimus.html#seats</link>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-04-07-KantarTNS.png"
         length="266633"
         type="image/png"/>
-      <pubDate>Fri, 19 Apr 2019 12:42:22 +0200</pubDate>
-      <dc:date>2019-04-19T12:42:22.082804+02:00</dc:date>
+      <pubDate>Sun, 21 Apr 2019 19:50:32 +0200</pubDate>
+      <dc:date>2019-04-21T19:50:32.130496+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 25 March–3 April 2019 – Voting Intentions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-04-03-Tietoykkönen.png"
         length="289624"
         type="image/png"/>
-      <pubDate>Fri, 19 Apr 2019 12:55:50 +0200</pubDate>
-      <dc:date>2019-04-19T12:55:50.329473+02:00</dc:date>
+      <pubDate>Sun, 21 Apr 2019 20:02:13 +0200</pubDate>
+      <dc:date>2019-04-21T20:02:13.154161+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 6–26 March 2019 – Voting Intentions</title>
@@ -99,6 +99,6 @@
       <pubDate>Wed, 16 Jan 2019 20:46:26 +0100</pubDate>
       <dc:date>2019-01-16T20:46:26.292313+01:00</dc:date>
     </item>
-    <dc:date>2019-04-19T12:55:50.329473+02:00</dc:date>
+    <dc:date>2019-04-21T20:02:13.154161+02:00</dc:date>
   </channel>
 </rss>
