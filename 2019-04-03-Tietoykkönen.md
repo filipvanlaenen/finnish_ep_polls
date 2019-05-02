@@ -49,7 +49,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.2% | 100% | Last Result |
-| 3 | 91% | 99.8% | Median |
+| 3 | 90% | 99.8% | Median |
 | 4 | 9% | 9% |  |
 | 5 | 0% | 0% |  |
 
@@ -61,8 +61,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 25% | 100% |  |
-| 3 | 75% | 75% | Last Result, Median |
+| 2 | 23% | 100% |  |
+| 3 | 77% | 77% | Last Result, Median |
 | 4 | 0% | 0% |  |
 
 ### Suomen Keskusta (ALDE)
@@ -73,8 +73,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 91% | 100% | Median |
-| 3 | 9% | 9% | Last Result |
+| 2 | 92% | 100% | Median |
+| 3 | 8% | 8% | Last Result |
 | 4 | 0% | 0% |  |
 
 ### Perussuomalaiset (EAPN)
@@ -86,8 +86,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.6% | 100% |  |
-| 2 | 98.9% | 99.4% | Last Result, Median |
-| 3 | 0.6% | 0.6% |  |
+| 2 | 98% | 99.4% | Last Result, Median |
+| 3 | 1.0% | 1.0% |  |
 | 4 | 0% | 0% |  |
 
 ### Vihreä liitto (Greens/EFA)
@@ -99,8 +99,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.4% | 100% | Last Result |
-| 2 | 98.9% | 99.6% | Median |
-| 3 | 0.7% | 0.7% |  |
+| 2 | 99.1% | 99.6% | Median |
+| 3 | 0.5% | 0.5% |  |
 | 4 | 0% | 0% |  |
 
 ### Vasemmistoliitto (GUE/NGL)
@@ -111,8 +111,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 95% | 100% | Last Result, Median |
-| 2 | 5% | 5% |  |
+| 1 | 96% | 100% | Last Result, Median |
+| 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 
 ### Kristillisdemokraatit (EPP)
@@ -123,8 +123,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.2% | 100% | Last Result, Median |
-| 1 | 0.8% | 0.8% |  |
+| 0 | 99.1% | 100% | Last Result, Median |
+| 1 | 0.9% | 0.9% |  |
 | 2 | 0% | 0% |  |
 
 ### Svenska folkpartiet i Finland (ALDE)
@@ -135,8 +135,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.3% | 100% | Median |
-| 1 | 0.7% | 0.7% | Last Result |
+| 0 | 99.4% | 100% | Median |
+| 1 | 0.6% | 0.6% | Last Result |
 | 2 | 0% | 0% |  |
 
 ### Sininen tulevaisuus (ECR)
@@ -173,7 +173,7 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.2% | 100% | Last Result |
-| 3 | 91% | 99.8% | Median |
+| 3 | 90% | 99.8% | Median |
 | 4 | 9% | 9% |  |
 | 5 | 0% | 0% |  |
 
@@ -183,8 +183,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 24% | 100% |  |
-| 3 | 76% | 76% | Last Result, Median |
+| 2 | 22% | 100% |  |
+| 3 | 78% | 78% | Last Result, Median |
 | 4 | 0.2% | 0.2% |  |
 | 5 | 0% | 0% |  |
 
@@ -194,8 +194,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 90% | 100% | Median |
-| 3 | 10% | 10% |  |
+| 2 | 91% | 100% | Median |
+| 3 | 9% | 9% |  |
 | 4 | 0% | 0% | Last Result |
 
 ### Perussuomalaiset (EAPN)
@@ -205,8 +205,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.6% | 100% |  |
-| 2 | 98.9% | 99.4% | Last Result, Median |
-| 3 | 0.6% | 0.6% |  |
+| 2 | 98% | 99.4% | Last Result, Median |
+| 3 | 1.0% | 1.0% |  |
 | 4 | 0% | 0% |  |
 
 ### Vihreä liitto (Greens/EFA)
@@ -216,8 +216,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.4% | 100% | Last Result |
-| 2 | 98.9% | 99.6% | Median |
-| 3 | 0.7% | 0.7% |  |
+| 2 | 99.1% | 99.6% | Median |
+| 3 | 0.5% | 0.5% |  |
 | 4 | 0% | 0% |  |
 
 ### Vasemmistoliitto (GUE/NGL)
@@ -226,8 +226,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 95% | 100% | Last Result, Median |
-| 2 | 5% | 5% |  |
+| 1 | 96% | 100% | Last Result, Median |
+| 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 
 ### Sininen tulevaisuus (ECR)
@@ -250,6 +250,6 @@
 ### Calculations
 
 + **Sample size:** 1201
-+ **Simulations done:** 524,288
-+ **Error estimate:** 1.60%
++ **Simulations done:** 1,048,576
++ **Error estimate:** 1.97%
 
