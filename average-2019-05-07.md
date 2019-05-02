@@ -11,7 +11,7 @@ The table below lists the polls on which the average is based. They are the most
 | 25 May 2014 | General Election | 22.6% <br> 3 | 19.7% <br> 3 | 12.9% <br> 2 | 12.3% <br> 2 | 9.3% <br> 1 | 9.3% <br> 1 | 6.8% <br> 1 | 5.2% <br> 0 | 0.0% <br> 0 |
 | N/A | Poll Average | 14–19% <br> 2–3 | 13–17% <br> 2–3 | 12–18% <br> 2–3 | 17–22% <br> 3–4 | 11–15% <br> 1–2 | 8–11% <br> 1–2 | 3–6% <br> 0–1 | 3–5% <br> 0 | 0–3% <br> 0 |
 | [1–9 April 2019](2019-04-09-Taloustutkimus.html) | Taloustutkimus <br> Yle | 14–18% <br> 2–3 | 13–17% <br> 2–3 | 14–18% <br> 2–3 | 17–21% <br> 3 | 11–14% <br> 1–2 | 7–10% <br> 1 | 4–6% <br> 0–1 | 3–6% <br> 0–1 | 0–1% <br> 0 |
-| [3–7 April 2019](2019-04-07-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 16–19% <br> 2–3 | 13–16% <br> 2 | 14–17% <br> 2–3 | 18–21% <br> 3 | 11–14% <br> 1–2 | 8–11% <br> 1–2 | 4–5% <br> 0 | 3–5% <br> 0 | 1–2% <br> 0 |
+| [3–7 April 2019](2019-04-07-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 16–19% <br> 2–3 | 13–16% <br> 2 | 14–17% <br> 2–3 | 18–21% <br> 3 | 11–14% <br> 1–2 | 8–11% <br> 1 | 4–5% <br> 0 | 3–5% <br> 0 | 1–2% <br> 0 |
 | [25 March–3 April 2019](2019-04-03-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 15–19% <br> 2–3 | 13–17% <br> 2–3 | 12–15% <br> 2 | 17–22% <br> 3–4 | 12–15% <br> 2 | 8–11% <br> 1–2 | 3–5% <br> 0 | 3–5% <br> 0 | 1–3% <br> 0 |
 | 25 May 2014 | General Election | 22.6% <br> 3 | 19.7% <br> 3 | 12.9% <br> 2 | 12.3% <br> 2 | 9.3% <br> 1 | 9.3% <br> 1 | 6.8% <br> 1 | 5.2% <br> 0 | 0.0% <br> 0 |
 
@@ -222,8 +222,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 36% | 100% |  |
-| 3 | 64% | 64% | Last Result, Median |
+| 2 | 35% | 100% |  |
+| 3 | 65% | 65% | Last Result, Median |
 | 4 | 0% | 0% |  |
 
 ### Suomen Keskusta (ALDE)
@@ -247,8 +247,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.2% | 100% |  |
-| 2 | 78% | 99.8% | Last Result, Median |
-| 3 | 22% | 22% |  |
+| 2 | 79% | 99.8% | Last Result, Median |
+| 3 | 21% | 21% |  |
 | 4 | 0% | 0% |  |
 
 ### Suomen Sosialidemokraattinen Puolue (S&D)
@@ -273,7 +273,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 4% | 100% | Last Result |
-| 2 | 95% | 96% | Median |
+| 2 | 96% | 96% | Median |
 | 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
@@ -357,9 +357,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 35% | 100% |  |
-| 3 | 65% | 65% | Last Result, Median |
-| 4 | 0.2% | 0.2% |  |
+| 2 | 34% | 100% |  |
+| 3 | 66% | 66% | Last Result, Median |
+| 4 | 0.1% | 0.1% |  |
 | 5 | 0% | 0% |  |
 
 ### Perussuomalaiset (EAPN)
@@ -369,8 +369,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.2% | 100% |  |
-| 2 | 78% | 99.8% | Last Result, Median |
-| 3 | 22% | 22% |  |
+| 2 | 79% | 99.8% | Last Result, Median |
+| 3 | 21% | 21% |  |
 | 4 | 0% | 0% |  |
 
 ### Suomen Keskusta (ALDE) – Svenska folkpartiet i Finland (ALDE)
@@ -401,7 +401,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 4% | 100% | Last Result |
-| 2 | 95% | 96% | Median |
+| 2 | 96% | 96% | Median |
 | 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
@@ -418,5 +418,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 3
 + **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 2,097,152
-+ **Error estimate:** 2.09%
++ **Total number of simulations done in the polls included in this average:** 2,621,440
++ **Error estimate:** 2.19%
