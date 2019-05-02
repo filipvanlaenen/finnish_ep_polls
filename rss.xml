@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 02 May 2019 15:49:10 +0200</pubDate>
+    <pubDate>Thu, 02 May 2019 17:51:38 +0200</pubDate>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 1–9 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-04-09-Taloustutkimus.html#seats</link>
@@ -70,14 +70,34 @@
       <dc:date>2019-05-02T15:49:10.408018+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 25 March–3 April 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-04-03-Tietoykkönen.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (EAPN): 2 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (ECR): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-04-03-Tietoykkönen-seats.png"
+        length="198244"
+        type="image/png"/>
+      <pubDate>Thu, 02 May 2019 17:51:38 +0200</pubDate>
+      <dc:date>2019-05-02T17:51:38.88466+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 25 March–3 April 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-04-03-Tietoykkönen.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-04-03-Tietoykkönen-coalitions-seats.png"
+        length="128036"
+        type="image/png"/>
+      <pubDate>Thu, 02 May 2019 17:51:38 +0200</pubDate>
+      <dc:date>2019-05-02T17:51:38.88466+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 25 March–3 April 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-04-03-Tietoykkönen.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 12.8–16.9%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 15.0–19.2%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (EAPN): 11.6–15.5%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 17.4–21.9%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 11.5–15.4%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 7.6–10.8%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 3.0–5.2%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 3.1–5.4%&lt;/li&gt;&lt;li&gt;Sininen tulevaisuus (ECR): 1.3–3.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-04-03-Tietoykkönen.png"
         length="289624"
         type="image/png"/>
-      <pubDate>Sun, 21 Apr 2019 20:02:13 +0200</pubDate>
-      <dc:date>2019-04-21T20:02:13.154161+02:00</dc:date>
+      <pubDate>Thu, 02 May 2019 17:51:38 +0200</pubDate>
+      <dc:date>2019-05-02T17:51:38.88466+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 6–26 March 2019 – Voting Intentions</title>
@@ -119,6 +139,6 @@
       <pubDate>Wed, 16 Jan 2019 20:46:26 +0100</pubDate>
       <dc:date>2019-01-16T20:46:26.292313+01:00</dc:date>
     </item>
-    <dc:date>2019-05-02T15:49:10.408018+02:00</dc:date>
+    <dc:date>2019-05-02T17:51:38.88466+02:00</dc:date>
   </channel>
 </rss>
