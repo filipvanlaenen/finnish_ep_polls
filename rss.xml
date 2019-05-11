@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 11 May 2019 11:15:58 +0200</pubDate>
+    <pubDate>Sat, 11 May 2019 12:35:47 +0200</pubDate>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 15 April–7 May 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-05-07-Taloustutkimus.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-05-07-Taloustutkimus.png"
         length="265940"
         type="image/png"/>
-      <pubDate>Sat, 11 May 2019 11:15:58 +0200</pubDate>
-      <dc:date>2019-05-11T11:15:58.349556+02:00</dc:date>
+      <pubDate>Sat, 11 May 2019 12:35:47 +0200</pubDate>
+      <dc:date>2019-05-11T12:35:47.046613+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 16 April–3 May 2019 – Seat Projections for the Parties</title>
@@ -179,6 +179,6 @@
       <pubDate>Wed, 16 Jan 2019 20:46:26 +0100</pubDate>
       <dc:date>2019-01-16T20:46:26.292313+01:00</dc:date>
     </item>
-    <dc:date>2019-05-11T11:15:58.349556+02:00</dc:date>
+    <dc:date>2019-05-11T12:35:47.046613+02:00</dc:date>
   </channel>
 </rss>
