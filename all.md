@@ -5,7 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | KOK | KESK | PS | SDP | VIHR | VAS | SFP | KD | SIN | LIIK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2014 | General Election | 22.6% <br> 3 | 19.7% <br> 3 | 12.9% <br> 2 | 12.3% <br> 2 | 9.3% <br> 1 | 9.3% <br> 1 | 6.8% <br> 1 | 5.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| [15 April–7 May 2019](2019-05-07-Taloustutkimus.html) | Taloustutkimus <br> Yle | 15–19% <br> 2–3 | 12–15% <br> 2 | 17–21% <br> 3 | 16–20% <br> 2–3 | 12–15% <br> 2 | 7–9% <br> 1 | 3–5% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
+| [15 April–7 May 2019](2019-05-07-Taloustutkimus.html) | Taloustutkimus <br> Yle | 15–19% <br> 2–3 | 12–15% <br> 2 | 17–21% <br> 2–3 | 16–20% <br> 2–3 | 12–15% <br> 2 | 7–9% <br> 1 | 3–5% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
 | [16 April–3 May 2019](2019-05-03-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 15–19% <br> 2–3 | 11–14% <br> 1–2 | 17–21% <br> 2–3 | 15–19% <br> 2–3 | 11–15% <br> 1–2 | 7–10% <br> 1 | 3–6% <br> 0–1 | 3–5% <br> 0 | 0–1% <br> 0 | 2–3% <br> 0 |
 | [1–9 April 2019](2019-04-09-Taloustutkimus.html) | Taloustutkimus <br> Yle | 14–18% <br> 2–3 | 13–17% <br> 2–3 | 14–18% <br> 2–3 | 17–21% <br> 3 | 11–14% <br> 1–2 | 7–10% <br> 1 | 4–6% <br> 0–1 | 3–6% <br> 0–1 | 0–1% <br> 0 | N/A <br> N/A |
 | [3–7 April 2019](2019-04-07-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 16–19% <br> 2–3 | 13–16% <br> 2 | 14–17% <br> 2–3 | 18–21% <br> 3 | 11–14% <br> 1–2 | 8–11% <br> 1 | 4–5% <br> 0 | 3–5% <br> 0 | 1–2% <br> 0 | N/A <br> N/A |
