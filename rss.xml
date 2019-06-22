@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 21 Jun 2019 07:12:13 +0200</pubDate>
+    <pubDate>Fri, 21 Jun 2019 20:59:57 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 4–14 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-06-14-Tietoykkönen.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (ALDE): 1–2 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (EAPN): 3–4 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-06-14-Tietoykkönen-seats.png"
+        length="219897"
+        type="image/png"/>
+      <pubDate>Fri, 21 Jun 2019 20:59:57 +0200</pubDate>
+      <dc:date>2019-06-21T20:59:57.917169+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 4–14 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-06-14-Tietoykkönen.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-06-14-Tietoykkönen-coalitions-seats.png"
+        length="159476"
+        type="image/png"/>
+      <pubDate>Fri, 21 Jun 2019 20:59:57 +0200</pubDate>
+      <dc:date>2019-06-21T20:59:57.917169+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 4–14 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-06-14-Tietoykkönen.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-06-14-Tietoykkönen.png"
         length="266213"
         type="image/png"/>
-      <pubDate>Fri, 21 Jun 2019 07:12:13 +0200</pubDate>
-      <dc:date>2019-06-21T07:12:13.333784+02:00</dc:date>
+      <pubDate>Fri, 21 Jun 2019 20:59:57 +0200</pubDate>
+      <dc:date>2019-06-21T20:59:57.917169+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 13 May–4 June 2019 – Seat Projections for the Parties</title>
@@ -79,6 +99,6 @@
       <pubDate>Thu, 13 Jun 2019 11:37:45 +0200</pubDate>
       <dc:date>2019-06-13T11:37:45.627016+02:00</dc:date>
     </item>
-    <dc:date>2019-06-21T07:12:13.333784+02:00</dc:date>
+    <dc:date>2019-06-21T20:59:57.917169+02:00</dc:date>
   </channel>
 </rss>
