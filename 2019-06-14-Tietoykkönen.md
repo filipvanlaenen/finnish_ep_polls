@@ -10,13 +10,13 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Perussuomalaiset (EAPN) | 12.9% | 20.1% | 18.7–21.6% |18.3–22.0% |18.0–22.4% |17.3–23.1% |
+| Perussuomalaiset (ID) | 12.9% | 20.1% | 18.7–21.6% |18.3–22.0% |18.0–22.4% |17.3–23.1% |
 | Kansallinen Kokoomus (EPP) | 22.6% | 17.2% | 15.9–18.6% |15.5–19.0% |15.2–19.4% |14.6–20.1% |
 | Suomen Sosialidemokraattinen Puolue (S&D) | 12.3% | 16.2% | 14.9–17.6% |14.6–18.0% |14.3–18.3% |13.7–19.0% |
 | Vihreä liitto (Greens/EFA) | 9.3% | 13.6% | 12.5–14.9% |12.1–15.3% |11.9–15.6% |11.3–16.3% |
-| Suomen Keskusta (ALDE) | 19.7% | 13.0% | 11.9–14.3% |11.5–14.6% |11.3–15.0% |10.7–15.6% |
+| Suomen Keskusta (RE) | 19.7% | 13.0% | 11.9–14.3% |11.5–14.6% |11.3–15.0% |10.7–15.6% |
 | Vasemmistoliitto (GUE/NGL) | 9.3% | 8.2% | 7.3–9.3% |7.0–9.5% |6.8–9.8% |6.4–10.3% |
-| Svenska folkpartiet i Finland (ALDE) | 6.8% | 4.8% | 4.1–5.7% |3.9–5.9% |3.8–6.2% |3.5–6.6% |
+| Svenska folkpartiet i Finland (RE) | 6.8% | 4.8% | 4.1–5.7% |3.9–5.9% |3.8–6.2% |3.5–6.6% |
 | Kristillisdemokraatit (EPP) | 5.2% | 3.0% | 2.5–3.7% |2.3–3.9% |2.2–4.1% |2.0–4.5% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
@@ -29,20 +29,20 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#perussuomalaiset-(eapn)">Perussuomalaiset (EAPN)</a> | 2 | 3 | 3 |3 |3–4 |2–4 |
+| <a href="#perussuomalaiset-(id)">Perussuomalaiset (ID)</a> | 2 | 3 | 3 |3 |3–4 |2–4 |
 | <a href="#kansallinen-kokoomus-(epp)">Kansallinen Kokoomus (EPP)</a> | 3 | 3 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#suomen-sosialidemokraattinen-puolue-(s&d)">Suomen Sosialidemokraattinen Puolue (S&D)</a> | 2 | 2 | 2–3 |2–3 |2–3 |2–3 |
 | <a href="#vihreä-liitto-(greens/efa)">Vihreä liitto (Greens/EFA)</a> | 1 | 2 | 2 |2 |2 |1–2 |
-| <a href="#suomen-keskusta-(alde)">Suomen Keskusta (ALDE)</a> | 3 | 2 | 2 |2 |1–2 |1–2 |
+| <a href="#suomen-keskusta-(re)">Suomen Keskusta (RE)</a> | 3 | 2 | 2 |2 |1–2 |1–2 |
 | <a href="#vasemmistoliitto-(gue/ngl)">Vasemmistoliitto (GUE/NGL)</a> | 1 | 1 | 1 |1 |1 |1 |
-| <a href="#svenska-folkpartiet-i-finland-(alde)">Svenska folkpartiet i Finland (ALDE)</a> | 1 | 0 | 0 |0–1 |0–1 |0–1 |
+| <a href="#svenska-folkpartiet-i-finland-(re)">Svenska folkpartiet i Finland (RE)</a> | 1 | 0 | 0 |0–1 |0–1 |0–1 |
 | <a href="#kristillisdemokraatit-(epp)">Kristillisdemokraatit (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
 
-### Perussuomalaiset (EAPN)
+### Perussuomalaiset (ID)
 
-*For a full overview of the results for this party, see the [Perussuomalaiset (EAPN)](party-perussuomalaiseteapn.html) page.*
+*For a full overview of the results for this party, see the [Perussuomalaiset (ID)](party-perussuomalaisetid.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-14-Tietoykkönen-seats-pmf-perussuomalaiseteapn.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-14-Tietoykkönen-seats-pmf-perussuomalaisetid.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -88,11 +88,11 @@
 | 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
-### Suomen Keskusta (ALDE)
+### Suomen Keskusta (RE)
 
-*For a full overview of the results for this party, see the [Suomen Keskusta (ALDE)](party-suomenkeskustaalde.html) page.*
+*For a full overview of the results for this party, see the [Suomen Keskusta (RE)](party-suomenkeskustare.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-14-Tietoykkönen-seats-pmf-suomenkeskustaalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-14-Tietoykkönen-seats-pmf-suomenkeskustare.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -111,11 +111,11 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 99.9% | 100% | Last Result, Median |
 
-### Svenska folkpartiet i Finland (ALDE)
+### Svenska folkpartiet i Finland (RE)
 
-*For a full overview of the results for this party, see the [Svenska folkpartiet i Finland (ALDE)](party-svenskafolkpartietifinlandalde.html) page.*
+*For a full overview of the results for this party, see the [Svenska folkpartiet i Finland (RE)](party-svenskafolkpartietifinlandre.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-14-Tietoykkönen-seats-pmf-svenskafolkpartietifinlandalde.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-14-Tietoykkönen-seats-pmf-svenskafolkpartietifinlandre.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -142,14 +142,14 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Perussuomalaiset (EAPN) | 2 | 3 | 0% | 3 | 3 | 3–4 | 2–4 |
+| Perussuomalaiset (ID) | 2 | 3 | 0% | 3 | 3 | 3–4 | 2–4 |
 | Kansallinen Kokoomus (EPP) – Kristillisdemokraatit (EPP) | 3 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
 | Suomen Sosialidemokraattinen Puolue (S&D) | 2 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
-| Suomen Keskusta (ALDE) – Svenska folkpartiet i Finland (ALDE) | 4 | 2 | 0% | 2 | 2–3 | 1–3 | 1–3 |
+| Suomen Keskusta (RE) – Svenska folkpartiet i Finland (RE) | 4 | 2 | 0% | 2 | 2–3 | 1–3 | 1–3 |
 | Vihreä liitto (Greens/EFA) | 1 | 2 | 0% | 2 | 2 | 2 | 1–2 |
 | Vasemmistoliitto (GUE/NGL) | 1 | 1 | 0% | 1 | 1 | 1 | 1 |
 
-### Perussuomalaiset (EAPN)
+### Perussuomalaiset (ID)
 
 ![Graph with seats probability mass function not yet produced](2019-06-14-Tietoykkönen-coalitions-seats-pmf-ps.png "Seats Probability Mass Function")
 
@@ -180,7 +180,7 @@
 | 3 | 24% | 24% |  |
 | 4 | 0% | 0% |  |
 
-### Suomen Keskusta (ALDE) – Svenska folkpartiet i Finland (ALDE)
+### Suomen Keskusta (RE) – Svenska folkpartiet i Finland (RE)
 
 ![Graph with seats probability mass function not yet produced](2019-06-14-Tietoykkönen-coalitions-seats-pmf-kesk–sfp.png "Seats Probability Mass Function")
 
