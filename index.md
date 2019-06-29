@@ -25,7 +25,7 @@ Only polls for which at least the sample size has been published are included in
 + **SFP:** Svenska folkpartiet i Finland (RE)
 + **KD:** Kristillisdemokraatit (EPP)
 + **SIN:** Sininen tulevaisuus (ECR)
-+ **LIIK:** Liike Nyt (EFDD)
++ **LIIK:** Liike Nyt (NI)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
