@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | KOK | KESK | PS | SDP | VIHR | VAS | SFP | KD | SIN | LIIK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 22.6% <br> 3 | 19.7% <br> 3 | 12.9% <br> 2 | 12.3% <br> 2 | 9.3% <br> 1 | 9.3% <br> 1 | 6.8% <br> 1 | 5.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 15–19% <br> 2–3 | 11–15% <br> 1–2 | 18–22% <br> 3 | 15–19% <br> 2–3 | 12–16% <br> 2 | 7–10% <br> 1 | 4–6% <br> 0–1 | 2–5% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
+| N/A | [Poll Average](average.html) | 15–19% <br> 2–3 | 11–14% <br> 1–2 | 18–22% <br> 3–4 | 14–18% <br> 2–3 | 12–16% <br> 2 | 7–10% <br> 1 | 4–6% <br> 0–1 | 2–5% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
+| [1–26 July 2019](2019-07-26-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 15–19% <br> 2–3 | 11–14% <br> 1–2 | 19–23% <br> 3–4 | 15–18% <br> 2–3 | 12–16% <br> 2 | 7–10% <br> 1 | 4–6% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
 | [5 June–2 July 2019](2019-07-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 15–19% <br> 2–3 | 10–13% <br> 1–2 | 18–22% <br> 3 | 15–18% <br> 2–3 | 13–16% <br> 2 | 8–10% <br> 1 | 4–6% <br> 0–1 | 3–5% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
-| [3–28 June 2019](2019-06-28-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 16–19% <br> 2–3 | 12–15% <br> 1–2 | 17–21% <br> 2–3 | 16–19% <br> 2–3 | 12–15% <br> 1–2 | 7–9% <br> 1 | 4–6% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
 | [4–14 June 2019](2019-06-14-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 15–19% <br> 2–3 | 11–15% <br> 1–2 | 18–22% <br> 3–4 | 14–18% <br> 2–3 | 12–16% <br> 2 | 7–10% <br> 1 | 4–6% <br> 0–1 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A |
 | 26 May 2019 | General Election | 22.6% <br> 3 | 19.7% <br> 3 | 12.9% <br> 2 | 12.3% <br> 2 | 9.3% <br> 1 | 9.3% <br> 1 | 6.8% <br> 1 | 5.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
