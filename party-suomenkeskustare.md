@@ -11,7 +11,7 @@ Last result: **19.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 12.3% | 11.1–13.7% | 10.8–14.1% | 10.6–14.5% | 10.1–15.2% |
-| [12 August–3 September 2019](2019-09-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 11.6% | N/A | N/A | N/A | N/A |
+| [12 August–3 September 2019](2019-09-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 11.6% | 10.7–12.7% | 10.4–13.0% | 10.2–13.2% | 9.7–13.7% |
 | [29 July–23 August 2019](2019-08-23-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 12.1% | 11.1–13.2% | 10.8–13.5% | 10.6–13.7% | 10.1–14.3% |
 | [8 July–6 August 2019](2019-08-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 12.6% | 11.7–13.7% | 11.4–14.0% | 11.1–14.3% | 10.7–14.8% |
 | [1–26 July 2019](2019-07-26-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 12.2% | 11.2–13.3% | 11.0–13.7% | 10.7–13.9% | 10.3–14.5% |
@@ -50,7 +50,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [12 August–3 September 2019](2019-09-03-Taloustutkimus.html) | Taloustutkimus <br> Yle |  |  |  |  |  |
+| [12 August–3 September 2019](2019-09-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29 July–23 August 2019](2019-08-23-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8 July–6 August 2019](2019-08-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2 | 2 | 2 | 1–2 |
 | [1–26 July 2019](2019-07-26-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 2 | 2 | 2 | 1–2 | 1–2 |
