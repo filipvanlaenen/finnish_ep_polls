@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 18 Sep 2019 15:41:04 +0200</pubDate>
+    <pubDate>Wed, 25 Sep 2019 19:59:38 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 26 August–22 September 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-09-22-KantarTNS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ID): 3 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 2 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 0 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Liike Nyt (NI): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-09-22-KantarTNS-seats.png"
+        length="275487"
+        type="image/png"/>
+      <pubDate>Wed, 25 Sep 2019 19:59:38 +0200</pubDate>
+      <dc:date>2019-09-25T19:59:38.37676+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 26 August–22 September 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-09-22-KantarTNS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-09-22-KantarTNS-coalitions-seats.png"
+        length="166953"
+        type="image/png"/>
+      <pubDate>Wed, 25 Sep 2019 19:59:38 +0200</pubDate>
+      <dc:date>2019-09-25T19:59:38.37676+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 26 August–22 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-09-22-KantarTNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (RE): 10.4–13.6%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 15.5–19.2%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ID): 18.0–21.8%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 15.5–19.2%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 12.6–16.0%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 7.0–9.6%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 3.5–5.5%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 2.6–4.4%&lt;/li&gt;&lt;li&gt;Liike Nyt (NI): 1.0–2.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-09-22-KantarTNS.png"
+        length="271633"
+        type="image/png"/>
+      <pubDate>Wed, 25 Sep 2019 19:59:38 +0200</pubDate>
+      <dc:date>2019-09-25T19:59:38.37676+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 12 August–3 September 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-09-03-Taloustutkimus.html</link>
@@ -259,6 +289,6 @@
       <pubDate>Thu, 13 Jun 2019 11:37:45 +0200</pubDate>
       <dc:date>2019-06-13T11:37:45.627016+02:00</dc:date>
     </item>
-    <dc:date>2019-09-18T15:41:04.659624+02:00</dc:date>
+    <dc:date>2019-09-25T19:59:38.37676+02:00</dc:date>
   </channel>
 </rss>
