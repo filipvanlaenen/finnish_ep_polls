@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Tue, 08 Oct 2019 06:52:44 +0200</pubDate>
+    <pubDate>Mon, 14 Oct 2019 17:18:43 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 17 September–8 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-10-08-Tietoykkönen.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (RE): 10.8–14.4%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 15.2–19.4%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ID): 18.2–22.7%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 15.2–19.4%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 11.4–15.2%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 6.4–9.4%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 3.2–5.5%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 2.4–4.4%&lt;/li&gt;&lt;li&gt;Liike Nyt (NI): 1.0–2.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-10-08-Tietoykkönen.png"
+        length="277679"
+        type="image/png"/>
+      <pubDate>Mon, 14 Oct 2019 17:18:43 +0200</pubDate>
+      <dc:date>2019-10-14T17:18:43.109154+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 9 September–1 October 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-10-01-Taloustutkimus.html</link>
@@ -319,6 +329,6 @@
       <pubDate>Thu, 13 Jun 2019 11:37:45 +0200</pubDate>
       <dc:date>2019-06-13T11:37:45.627016+02:00</dc:date>
     </item>
-    <dc:date>2019-10-08T06:52:44.946912+02:00</dc:date>
+    <dc:date>2019-10-14T17:18:43.109154+02:00</dc:date>
   </channel>
 </rss>
