@@ -10,7 +10,7 @@ Last result: **9.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.2% | 7.4–9.1% | 7.1–9.3% | 6.9–9.6% | 6.6–10.0% |
+| N/A | [Poll Average](average.html) | 8.0% | 7.1–8.9% | 6.8–9.2% | 6.6–9.5% | 6.2–9.9% |
 | [17 September–8 October 2019](2019-10-08-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 7.7% | 6.8–8.8% | 6.6–9.1% | 6.4–9.4% | 6.0–9.9% |
 | [9 September–1 October 2019](2019-10-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 7.9% | 7.1–8.8% | 6.9–9.0% | 6.7–9.3% | 6.3–9.7% |
 | [26 August–22 September 2019](2019-09-22-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8.2% | 7.4–9.1% | 7.2–9.4% | 7.0–9.6% | 6.6–10.1% |
@@ -31,12 +31,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.5% | 100% |  |
-| 6.5–7.5% | 16% | 99.5% |  |
-| 7.5–8.5% | 54% | 84% | Median |
-| 8.5–9.5% | 27% | 30% | Last Result |
-| 9.5–10.5% | 3% | 3% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
+| 5.5–6.5% | 2% | 100% |  |
+| 6.5–7.5% | 25% | 98% |  |
+| 7.5–8.5% | 51% | 73% | Median |
+| 8.5–9.5% | 20% | 22% | Last Result |
+| 9.5–10.5% | 2% | 2% |  |
+| 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -70,6 +70,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 100% | 100% | Last Result, Median |
+| 0 | 0.1% | 100% |  |
+| 1 | 99.9% | 99.9% | Last Result, Median |
+| 2 | 0% | 0% |  |
 
 
