@@ -10,7 +10,8 @@ Last result: **9.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.0% | 7.1–8.9% | 6.8–9.2% | 6.6–9.5% | 6.2–9.9% |
+| N/A | [Poll Average](average.html) | 7.8% | 7.0–8.8% | 6.7–9.0% | 6.5–9.3% | 6.1–9.8% |
+| [23 September–21 October 2019](2019-10-21-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8.2% | N/A | N/A | N/A | N/A |
 | [17 September–8 October 2019](2019-10-08-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 7.7% | 6.8–8.8% | 6.6–9.1% | 6.4–9.4% | 6.0–9.9% |
 | [9 September–1 October 2019](2019-10-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 7.9% | 7.1–8.8% | 6.9–9.0% | 6.7–9.3% | 6.3–9.7% |
 | [26 August–22 September 2019](2019-09-22-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8.2% | 7.4–9.1% | 7.2–9.4% | 7.0–9.6% | 6.6–10.1% |
@@ -31,13 +32,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 2% | 100% |  |
-| 6.5–7.5% | 25% | 98% |  |
-| 7.5–8.5% | 51% | 73% | Median |
-| 8.5–9.5% | 20% | 22% | Last Result |
-| 9.5–10.5% | 2% | 2% |  |
+| 5.5–6.5% | 3% | 100% |  |
+| 6.5–7.5% | 30% | 97% |  |
+| 7.5–8.5% | 50% | 67% | Median |
+| 8.5–9.5% | 15% | 16% | Last Result |
+| 9.5–10.5% | 1.1% | 1.1% |  |
 | 10.5–11.5% | 0% | 0% |  |
-| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -49,6 +49,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [23 September–21 October 2019](2019-10-21-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat |  |  |  |  |  |
 | [17 September–8 October 2019](2019-10-08-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 1 | 1 | 1 | 1 | 1 |
 | [9 September–1 October 2019](2019-10-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1 | 1 | 1 | 1 | 1 |
 | [26 August–22 September 2019](2019-09-22-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 1 | 1 | 1 | 1 | 1 |
