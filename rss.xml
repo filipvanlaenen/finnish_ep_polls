@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 28 Nov 2019 19:30:14 +0100</pubDate>
+    <pubDate>Sat, 30 Nov 2019 15:43:29 +0100</pubDate>
     <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 24 October–21 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-11-21-KantarTNS.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-11-21-KantarTNS.png"
         length="263236"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 06:46:16 +0100</pubDate>
-      <dc:date>2019-11-28T06:46:16.431504+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 15:32:29 +0100</pubDate>
+      <dc:date>2019-11-30T15:32:29.50354+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 2 October–5 November 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-11-05-Taloustutkimus.png"
         length="248791"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 19:26:40 +0100</pubDate>
-      <dc:date>2019-11-28T19:26:40.357984+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 15:43:29 +0100</pubDate>
+      <dc:date>2019-11-30T15:43:29.178544+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 23 September–21 October 2019 – Voting Intentions</title>
@@ -399,6 +399,6 @@
       <pubDate>Thu, 13 Jun 2019 11:37:45 +0200</pubDate>
       <dc:date>2019-06-13T11:37:45.627016+02:00</dc:date>
     </item>
-    <dc:date>2019-11-28T19:30:14.018306+01:00</dc:date>
+    <dc:date>2019-11-30T15:43:29.178544+01:00</dc:date>
   </channel>
 </rss>
