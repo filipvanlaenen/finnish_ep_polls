@@ -51,8 +51,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 57% | 100% | Median |
-| 4 | 43% | 43% |  |
+| 3 | 55% | 100% | Median |
+| 4 | 45% | 45% |  |
 | 5 | 0% | 0% |  |
 
 ### Kansallinen Kokoomus (EPP)
@@ -63,8 +63,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 41% | 100% |  |
-| 3 | 59% | 59% | Last Result, Median |
+| 2 | 44% | 100% |  |
+| 3 | 56% | 56% | Last Result, Median |
 | 4 | 0% | 0% |  |
 
 ### Vihreä liitto (Greens/EFA)
@@ -76,7 +76,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 100% | 100% | Median |
+| 2 | 99.8% | 100% | Median |
+| 3 | 0.2% | 0.2% |  |
+| 4 | 0% | 0% |  |
 
 ### Suomen Sosialidemokraattinen Puolue (S&D)
 
@@ -98,8 +100,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.4% | 100% |  |
-| 2 | 98.6% | 98.6% | Median |
+| 1 | 1.3% | 100% |  |
+| 2 | 98.7% | 98.7% | Median |
 | 3 | 0% | 0% | Last Result |
 
 ### Vasemmistoliitto (GUE/NGL)
@@ -168,8 +170,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 57% | 100% | Median |
-| 4 | 43% | 43% |  |
+| 3 | 55% | 100% | Median |
+| 4 | 45% | 45% |  |
 | 5 | 0% | 0% |  |
 
 ### Kansallinen Kokoomus (EPP) – Kristillisdemokraatit (EPP)
@@ -178,8 +180,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 41% | 100% |  |
-| 3 | 59% | 59% | Last Result, Median |
+| 2 | 44% | 100% |  |
+| 3 | 56% | 56% | Last Result, Median |
 | 4 | 0% | 0% |  |
 
 ### Suomen Keskusta (RE) – Svenska folkpartiet i Finland (RE)
@@ -188,8 +190,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.4% | 100% |  |
-| 2 | 98.6% | 98.6% | Median |
+| 1 | 1.3% | 100% |  |
+| 2 | 98.7% | 98.7% | Median |
 | 3 | 0.1% | 0.1% |  |
 | 4 | 0% | 0% | Last Result |
 
@@ -210,7 +212,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 100% | 100% | Median |
+| 2 | 99.8% | 100% | Median |
+| 3 | 0.2% | 0.2% |  |
+| 4 | 0% | 0% |  |
 
 ### Vasemmistoliitto (GUE/NGL)
 
@@ -240,6 +244,6 @@
 ### Calculations
 
 + **Sample size:** 2397
-+ **Simulations done:** 131,072
-+ **Error estimate:** 2.21%
++ **Simulations done:** 524,288
++ **Error estimate:** 1.13%
 
