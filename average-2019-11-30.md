@@ -229,8 +229,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 38% | 100% |  |
-| 3 | 62% | 62% | Last Result, Median |
+| 2 | 40% | 100% |  |
+| 3 | 60% | 60% | Last Result, Median |
 | 4 | 0% | 0% |  |
 
 ### Suomen Keskusta (RE)
@@ -254,8 +254,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.2% | 100% | Last Result |
-| 3 | 66% | 99.8% | Median |
-| 4 | 34% | 34% |  |
+| 3 | 64% | 99.8% | Median |
+| 4 | 35% | 35% |  |
 | 5 | 0% | 0% |  |
 
 ### Suomen Sosialidemokraattinen Puolue (S&D)
@@ -352,8 +352,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0.2% | 100% | Last Result |
-| 3 | 66% | 99.8% | Median |
-| 4 | 34% | 34% |  |
+| 3 | 64% | 99.8% | Median |
+| 4 | 35% | 35% |  |
 | 5 | 0% | 0% |  |
 
 ### Kansallinen Kokoomus (EPP) – Kristillisdemokraatit (EPP)
@@ -362,8 +362,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 38% | 100% |  |
-| 3 | 62% | 62% | Last Result, Median |
+| 2 | 40% | 100% |  |
+| 3 | 60% | 60% | Last Result, Median |
 | 4 | 0% | 0% |  |
 
 ### Suomen Sosialidemokraattinen Puolue (S&D)
@@ -428,6 +428,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 3
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 2,621,440
-+ **Error estimate:** 1.28%
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 3,145,728
++ **Error estimate:** 1.69%
