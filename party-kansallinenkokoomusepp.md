@@ -10,7 +10,7 @@ Last result: **22.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.3% | 16.1–18.5% | 15.8–18.8% | 15.5–19.2% | 14.9–19.8% |
+| N/A | [Poll Average](average.html) | 17.7% | 16.2–19.2% | 15.8–19.6% | 15.5–19.9% | 14.9–20.6% |
 | [25 November–20 December 2019](2019-12-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 17.2% | 16.1–18.5% | 15.7–18.8% | 15.5–19.2% | 14.9–19.8% |
 | [11 November–3 December 2019](2019-12-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 18.6% | 17.5–19.8% | 17.2–20.1% | 17.0–20.3% | 16.5–20.9% |
 | [24 October–21 November 2019](2019-11-21-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 17.3% | 16.2–18.5% | 15.8–18.9% | 15.6–19.2% | 15.0–19.8% |
@@ -38,12 +38,12 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0.2% | 100% |  |
 | 14.5–15.5% | 3% | 99.8% |  |
-| 15.5–16.5% | 18% | 97% |  |
-| 16.5–17.5% | 40% | 79% | Median |
-| 17.5–18.5% | 30% | 39% |  |
-| 18.5–19.5% | 8% | 9% |  |
-| 19.5–20.5% | 0.9% | 0.9% |  |
-| 20.5–21.5% | 0.1% | 0.1% |  |
+| 15.5–16.5% | 14% | 97% |  |
+| 16.5–17.5% | 28% | 83% |  |
+| 17.5–18.5% | 31% | 55% | Median |
+| 18.5–19.5% | 19% | 24% |  |
+| 19.5–20.5% | 5% | 6% |  |
+| 20.5–21.5% | 0.5% | 0.5% |  |
 | 21.5–22.5% | 0% | 0% |  |
 | 22.5–23.5% | 0% | 0% | Last Result |
 
@@ -83,8 +83,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 40% | 100% |  |
-| 3 | 60% | 60% | Last Result, Median |
+| 2 | 25% | 100% |  |
+| 3 | 75% | 75% | Last Result, Median |
 | 4 | 0% | 0% |  |
 
 
