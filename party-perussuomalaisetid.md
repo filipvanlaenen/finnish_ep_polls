@@ -66,7 +66,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | [11 November–3 December 2019](2019-12-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4 | 4 | 4 | 3–4 | 3–4 |
 | [24 October–21 November 2019](2019-11-21-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [2 October–5 November 2019](2019-11-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [23 September–21 October 2019](2019-10-21-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3 | 3 | 3 | 2–4 |
+| [23 September–21 October 2019](2019-10-21-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3 | 3 | 3–4 | 3–4 |
 | [17 September–8 October 2019](2019-10-08-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 3 | 3 | 3 | 3–4 | 2–4 |
 | [9 September–1 October 2019](2019-10-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [26 August–22 September 2019](2019-09-22-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3 | 3 | 3 | 2–4 |
