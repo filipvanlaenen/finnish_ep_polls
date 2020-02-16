@@ -10,9 +10,9 @@ Last result: **12.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.1% | 14.2–16.1% | 13.9–16.4% | 13.7–16.7% | 13.2–17.2% |
-| [21 January–10 February 2020](2020-02-10-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 16.7% | N/A | N/A | N/A | N/A |
-| [13 January–4 February 2020](2020-02-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 16.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 15.9% | 14.6–17.5% | 14.3–18.0% | 14.0–18.4% | 13.5–19.2% |
+| [21 January–10 February 2020](2020-02-10-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 16.7% | 15.4–18.2% | 15.1–18.6% | 14.7–19.0% | 14.1–19.7% |
+| [13 January–4 February 2020](2020-02-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 16.0% | 15.0–17.1% | 14.7–17.4% | 14.5–17.6% | 14.0–18.2% |
 | [23 December 2019–17 January 2020](2020-01-17-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 15.1% | 14.2–16.1% | 13.9–16.4% | 13.7–16.7% | 13.2–17.2% |
 | [9 December 2019–8 January 2020](2020-01-08-Taloustutkimus.html) | Taloustutkimus <br> Yle | 14.9% | 13.6–16.4% | 13.2–16.9% | 12.8–17.3% | 12.2–18.0% |
 | [25 November–20 December 2019](2019-12-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 15.1% | 14.0–16.3% | 13.7–16.6% | 13.4–16.9% | 12.9–17.5% |
@@ -40,13 +40,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 11.5–12.5% | 0% | 100% | Last Result |
-| 12.5–13.5% | 2% | 100% |  |
-| 13.5–14.5% | 21% | 98% |  |
-| 14.5–15.5% | 48% | 78% | Median |
-| 15.5–16.5% | 26% | 29% |  |
-| 16.5–17.5% | 3% | 3% |  |
-| 17.5–18.5% | 0.1% | 0.1% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 12.5–13.5% | 0.6% | 100% |  |
+| 13.5–14.5% | 8% | 99.4% |  |
+| 14.5–15.5% | 28% | 91% |  |
+| 15.5–16.5% | 34% | 63% | Median |
+| 16.5–17.5% | 20% | 29% |  |
+| 17.5–18.5% | 7% | 9% |  |
+| 18.5–19.5% | 2% | 2% |  |
+| 19.5–20.5% | 0.2% | 0.2% |  |
+| 20.5–21.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -57,28 +59,28 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 2–3 |
-| [21 January–10 February 2020](2020-02-10-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi |  |  |  |  |  |
-| [13 January–4 February 2020](2020-02-04-Taloustutkimus.html) | Taloustutkimus <br> Yle |  |  |  |  |  |
-| [23 December 2019–17 January 2020](2020-01-17-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 2 | 2 | 2 | 2 | 2–3 |
-| [9 December 2019–8 January 2020](2020-01-08-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2 | 2 | 2–3 | 2–3 |
-| [25 November–20 December 2019](2019-12-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [11 November–3 December 2019](2019-12-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2 | 2 | 2 | 1–2 |
-| [24 October–21 November 2019](2019-11-21-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 2 | 2 | 2 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [21 January–10 February 2020](2020-02-10-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [13 January–4 February 2020](2020-02-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [23 December 2019–17 January 2020](2020-01-17-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [9 December 2019–8 January 2020](2020-01-08-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [25 November–20 December 2019](2019-12-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [11 November–3 December 2019](2019-12-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2 | 2 | 2 | 2–3 |
+| [24 October–21 November 2019](2019-11-21-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [2 October–5 November 2019](2019-11-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2 | 2 | 2 | 2 |
-| [23 September–21 October 2019](2019-10-21-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [17 September–8 October 2019](2019-10-08-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [23 September–21 October 2019](2019-10-21-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [17 September–8 October 2019](2019-10-08-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [9 September–1 October 2019](2019-10-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [26 August–22 September 2019](2019-09-22-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [26 August–22 September 2019](2019-09-22-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [12 August–3 September 2019](2019-09-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [29 July–23 August 2019](2019-08-23-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [8 July–6 August 2019](2019-08-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [1–26 July 2019](2019-07-26-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [5 June–2 July 2019](2019-07-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [3–28 June 2019](2019-06-28-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [29 July–23 August 2019](2019-08-23-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| [8 July–6 August 2019](2019-08-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–26 July 2019](2019-07-26-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [5 June–2 July 2019](2019-07-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| [3–28 June 2019](2019-06-28-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3 | 3 | 3 | 3 |
 | [4–14 June 2019](2019-06-14-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [13 May–4 June 2019](2019-06-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [6 May–2 June 2019](2019-06-02-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [13 May–4 June 2019](2019-06-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [6 May–2 June 2019](2019-06-02-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3 | 2–3 | 2–3 | 2–3 |
 
 ### Probability Mass Function
 
@@ -88,8 +90,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 98% | 100% | Last Result, Median |
-| 3 | 2% | 2% |  |
+| 2 | 63% | 100% | Last Result, Median |
+| 3 | 37% | 37% |  |
 | 4 | 0% | 0% |  |
 
 

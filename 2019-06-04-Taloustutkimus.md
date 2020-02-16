@@ -18,7 +18,7 @@
 | Vasemmistoliitto (GUE/NGL) | 9.3% | 7.8% | 6.9–9.0% |6.6–9.3% |6.4–9.6% |6.0–10.2% |
 | Svenska folkpartiet i Finland (RE) | 6.8% | 4.5% | 3.7–5.4% |3.6–5.6% |3.4–5.9% |3.1–6.3% |
 | Kristillisdemokraatit (EPP) | 5.2% | 3.6% | 2.9–4.4% |2.8–4.6% |2.6–4.8% |2.3–5.3% |
-| Liike Nyt (EFDD) | 0.0% | 1.7% | 1.3–2.4% |1.2–2.5% |1.1–2.7% |0.9–3.0% |
+| Liike Nyt (NI) | 0.0% | 1.7% | 1.3–2.4% |1.2–2.5% |1.1–2.7% |0.9–3.0% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -26,19 +26,21 @@
 
 ![Graph with seats not yet produced](2019-06-04-Taloustutkimus-seats.png "Seats")
 
+![Graph with seating plan not yet produced](2019-06-04-Taloustutkimus-seating-plan.png "Seating Plan")
+
 ### Confidence Intervals
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#perussuomalaiset-(id)">Perussuomalaiset (ID)</a> | 2 | 3 | 3 |3 |3 |2–4 |
-| <a href="#suomen-sosialidemokraattinen-puolue-(s&d)">Suomen Sosialidemokraattinen Puolue (S&D)</a> | 2 | 3 | 2–3 |2–3 |2–3 |2–3 |
-| <a href="#kansallinen-kokoomus-(epp)">Kansallinen Kokoomus (EPP)</a> | 3 | 2 | 2–3 |2–3 |2–3 |2–3 |
-| <a href="#vihreä-liitto-(greens/efa)">Vihreä liitto (Greens/EFA)</a> | 1 | 2 | 2 |2 |2 |1–3 |
-| <a href="#suomen-keskusta-(re)">Suomen Keskusta (RE)</a> | 3 | 2 | 2 |1–2 |1–2 |1–2 |
+| <a href="#perussuomalaiset-(id)">Perussuomalaiset (ID)</a> | 2 | 3 | 3–4 |3–4 |3–4 |3–4 |
+| <a href="#suomen-sosialidemokraattinen-puolue-(s&d)">Suomen Sosialidemokraattinen Puolue (S&D)</a> | 2 | 2 | 2–3 |2–3 |2–3 |2–3 |
+| <a href="#kansallinen-kokoomus-(epp)">Kansallinen Kokoomus (EPP)</a> | 3 | 3 | 2–3 |2–3 |2–3 |2–3 |
+| <a href="#vihreä-liitto-(greens/efa)">Vihreä liitto (Greens/EFA)</a> | 1 | 2 | 2 |2 |2–3 |1–3 |
+| <a href="#suomen-keskusta-(re)">Suomen Keskusta (RE)</a> | 3 | 2 | 2 |2 |2 |2 |
 | <a href="#vasemmistoliitto-(gue/ngl)">Vasemmistoliitto (GUE/NGL)</a> | 1 | 1 | 1 |1 |1 |1 |
-| <a href="#svenska-folkpartiet-i-finland-(re)">Svenska folkpartiet i Finland (RE)</a> | 1 | 0 | 0 |0 |0–1 |0–1 |
+| <a href="#svenska-folkpartiet-i-finland-(re)">Svenska folkpartiet i Finland (RE)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#kristillisdemokraatit-(epp)">Kristillisdemokraatit (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
-| <a href="#liike-nyt-(efdd)">Liike Nyt (EFDD)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#liike-nyt-(ni)">Liike Nyt (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### Perussuomalaiset (ID)
 
@@ -48,9 +50,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 2% | 100% | Last Result |
-| 3 | 96% | 98% | Median |
-| 4 | 2% | 2% |  |
+| 2 | 0% | 100% | Last Result |
+| 3 | 77% | 100% | Median |
+| 4 | 23% | 23% |  |
 | 5 | 0% | 0% |  |
 
 ### Suomen Sosialidemokraattinen Puolue (S&D)
@@ -61,8 +63,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 32% | 100% | Last Result |
-| 3 | 68% | 68% | Median |
+| 2 | 62% | 100% | Last Result, Median |
+| 3 | 38% | 38% |  |
 | 4 | 0% | 0% |  |
 
 ### Kansallinen Kokoomus (EPP)
@@ -73,8 +75,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 62% | 100% | Median |
-| 3 | 38% | 38% | Last Result |
+| 2 | 20% | 100% |  |
+| 3 | 80% | 80% | Last Result, Median |
 | 4 | 0% | 0% |  |
 
 ### Vihreä liitto (Greens/EFA)
@@ -85,9 +87,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.8% | 100% | Last Result |
-| 2 | 98% | 99.2% | Median |
-| 3 | 0.9% | 0.9% |  |
+| 1 | 1.0% | 100% | Last Result |
+| 2 | 96% | 99.0% | Median |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
 ### Suomen Keskusta (RE)
@@ -98,8 +100,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 9% | 100% |  |
-| 2 | 91% | 91% | Median |
+| 1 | 0.4% | 100% |  |
+| 2 | 99.6% | 99.6% | Median |
 | 3 | 0% | 0% | Last Result |
 
 ### Vasemmistoliitto (GUE/NGL)
@@ -110,9 +112,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% |  |
-| 1 | 99.8% | 99.8% | Last Result, Median |
-| 2 | 0% | 0% |  |
+| 1 | 99.8% | 100% | Last Result, Median |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
 ### Svenska folkpartiet i Finland (RE)
 
@@ -122,8 +124,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 97% | 100% | Median |
-| 1 | 3% | 3% | Last Result |
+| 0 | 43% | 100% |  |
+| 1 | 57% | 57% | Last Result, Median |
 | 2 | 0% | 0% |  |
 
 ### Kristillisdemokraatit (EPP)
@@ -138,11 +140,11 @@
 | 1 | 0.1% | 0.1% |  |
 | 2 | 0% | 0% |  |
 
-### Liike Nyt (EFDD)
+### Liike Nyt (NI)
 
-*For a full overview of the results for this party, see the [Liike Nyt (EFDD)](party-liikenytefdd.html) page.*
+*For a full overview of the results for this party, see the [Liike Nyt (NI)](party-liikenytni.html) page.*
 
-![Graph with seats probability mass function not yet produced](2019-06-04-Taloustutkimus-seats-pmf-liikenytefdd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2019-06-04-Taloustutkimus-seats-pmf-liikenytni.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -157,13 +159,13 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Perussuomalaiset (ID) | 2 | 3 | 0% | 3 | 3 | 3 | 2–4 |
-| Kansallinen Kokoomus (EPP) – Kristillisdemokraatit (EPP) | 3 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
-| Suomen Sosialidemokraattinen Puolue (S&D) | 2 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
-| Vihreä liitto (Greens/EFA) | 1 | 2 | 0% | 2 | 2 | 2 | 1–3 |
-| Suomen Keskusta (RE) – Svenska folkpartiet i Finland (RE) | 4 | 2 | 0% | 2 | 1–2 | 1–2 | 1–3 |
+| Perussuomalaiset (ID) | 2 | 3 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
+| Kansallinen Kokoomus (EPP) – Kristillisdemokraatit (EPP) | 3 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
+| Suomen Keskusta (RE) – Svenska folkpartiet i Finland (RE) | 4 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
+| Suomen Sosialidemokraattinen Puolue (S&D) | 2 | 2 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
+| Vihreä liitto (Greens/EFA) | 1 | 2 | 0% | 2 | 2 | 2–3 | 1–3 |
 | Vasemmistoliitto (GUE/NGL) | 1 | 1 | 0% | 1 | 1 | 1 | 1 |
-| Liike Nyt (EFDD) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
+| Liike Nyt (NI) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### Perussuomalaiset (ID)
 
@@ -171,9 +173,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 2% | 100% | Last Result |
-| 3 | 96% | 98% | Median |
-| 4 | 2% | 2% |  |
+| 2 | 0% | 100% | Last Result |
+| 3 | 77% | 100% | Median |
+| 4 | 23% | 23% |  |
 | 5 | 0% | 0% |  |
 
 ### Kansallinen Kokoomus (EPP) – Kristillisdemokraatit (EPP)
@@ -182,9 +184,21 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 62% | 100% | Median |
-| 3 | 38% | 38% | Last Result |
-| 4 | 0% | 0% |  |
+| 2 | 20% | 100% |  |
+| 3 | 80% | 80% | Last Result, Median |
+| 4 | 0.1% | 0.1% |  |
+| 5 | 0% | 0% |  |
+
+### Suomen Keskusta (RE) – Svenska folkpartiet i Finland (RE)
+
+![Graph with seats probability mass function not yet produced](2019-06-04-Taloustutkimus-coalitions-seats-pmf-kesk–sfp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 0.3% | 100% |  |
+| 2 | 43% | 99.7% |  |
+| 3 | 57% | 57% | Median |
+| 4 | 0% | 0% | Last Result |
 
 ### Suomen Sosialidemokraattinen Puolue (S&D)
 
@@ -192,8 +206,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 32% | 100% | Last Result |
-| 3 | 68% | 68% | Median |
+| 2 | 62% | 100% | Last Result, Median |
+| 3 | 38% | 38% |  |
 | 4 | 0% | 0% |  |
 
 ### Vihreä liitto (Greens/EFA)
@@ -202,21 +216,10 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.8% | 100% | Last Result |
-| 2 | 98% | 99.2% | Median |
-| 3 | 0.9% | 0.9% |  |
+| 1 | 1.0% | 100% | Last Result |
+| 2 | 96% | 99.0% | Median |
+| 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
-
-### Suomen Keskusta (RE) – Svenska folkpartiet i Finland (RE)
-
-![Graph with seats probability mass function not yet produced](2019-06-04-Taloustutkimus-coalitions-seats-pmf-kesk–sfp.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 8% | 100% |  |
-| 2 | 89% | 92% | Median |
-| 3 | 2% | 2% |  |
-| 4 | 0% | 0% | Last Result |
 
 ### Vasemmistoliitto (GUE/NGL)
 
@@ -224,11 +227,11 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.2% | 100% |  |
-| 1 | 99.8% | 99.8% | Last Result, Median |
-| 2 | 0% | 0% |  |
+| 1 | 99.8% | 100% | Last Result, Median |
+| 2 | 0.1% | 0.1% |  |
+| 3 | 0% | 0% |  |
 
-### Liike Nyt (EFDD)
+### Liike Nyt (NI)
 
 ![Graph with seats probability mass function not yet produced](2019-06-04-Taloustutkimus-coalitions-seats-pmf-liik.png "Seats Probability Mass Function")
 
@@ -248,6 +251,6 @@
 ### Calculations
 
 + **Sample size:** 1097
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.98%
++ **Simulations done:** 1,024
++ **Error estimate:** 3.89%
 
