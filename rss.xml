@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 14 Feb 2020 06:49:54 +0100</pubDate>
+    <pubDate>Tue, 18 Feb 2020 17:50:26 +0100</pubDate>
     <item>
       <title>Opinion Poll by Tietoykkönen for Iltalehti and Uusi Suomi, 21 January–10 February 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2020-02-10-Tietoykkönen.html#seats</link>
@@ -396,8 +396,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-06-14-Tietoykkönen.png"
         length="263942"
         type="image/png"/>
-      <pubDate>Sun, 23 Jun 2019 14:39:39 +0200</pubDate>
-      <dc:date>2019-06-23T14:39:39.261414+02:00</dc:date>
+      <pubDate>Tue, 18 Feb 2020 17:50:26 +0100</pubDate>
+      <dc:date>2020-02-18T17:50:26.13444+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 13 May–4 June 2019 – Voting Intentions</title>
@@ -406,8 +406,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-06-04-Taloustutkimus.png"
         length="285695"
         type="image/png"/>
-      <pubDate>Thu, 13 Jun 2019 11:42:15 +0200</pubDate>
-      <dc:date>2019-06-13T11:42:15.831215+02:00</dc:date>
+      <pubDate>Tue, 18 Feb 2020 09:46:17 +0100</pubDate>
+      <dc:date>2020-02-18T09:46:17.598484+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 6 May–2 June 2019 – Voting Intentions</title>
@@ -416,9 +416,9 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-06-02-KantarTNS.png"
         length="267980"
         type="image/png"/>
-      <pubDate>Thu, 13 Jun 2019 11:57:46 +0200</pubDate>
-      <dc:date>2019-06-13T11:57:46.869978+02:00</dc:date>
+      <pubDate>Tue, 18 Feb 2020 09:49:10 +0100</pubDate>
+      <dc:date>2020-02-18T09:49:10.19923+01:00</dc:date>
     </item>
-    <dc:date>2020-02-14T06:49:54.982673+01:00</dc:date>
+    <dc:date>2020-02-18T17:50:26.13444+01:00</dc:date>
   </channel>
 </rss>
