@@ -74,9 +74,9 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [1–26 July 2019](2019-07-26-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5 June–2 July 2019](2019-07-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [3–28 June 2019](2019-06-28-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0 |
-| [4–14 June 2019](2019-06-14-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [13 May–4 June 2019](2019-06-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [6 May–2 June 2019](2019-06-02-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [4–14 June 2019](2019-06-14-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [13 May–4 June 2019](2019-06-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [6 May–2 June 2019](2019-06-02-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
