@@ -11,6 +11,7 @@ Last result: **22.6%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 17.4% | 16.2–18.6% | 15.9–18.9% | 15.6–19.2% | 15.0–19.9% |
+| [5 February–3 March 2020](2020-03-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 18.0% | 17.0–19.1% | 16.8–19.4% | 16.5–19.6% | 16.0–20.1% |
 | [19 January–14 February 2020](2020-02-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 17.3% | 16.3–18.4% | 16.0–18.7% | 15.8–18.9% | 15.3–19.4% |
 | [21 January–10 February 2020](2020-02-10-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 17.2% | 15.9–18.7% | 15.5–19.1% | 15.2–19.5% | 14.6–20.2% |
 | [13 January–4 February 2020](2020-02-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 17.5% | 16.4–18.6% | 16.2–18.9% | 15.9–19.2% | 15.4–19.8% |
@@ -27,7 +28,7 @@ Last result: **22.6%** (General Election of 26 May 2019)
 | [12 August–3 September 2019](2019-09-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 17.4% | 16.2–18.6% | 15.9–19.0% | 15.6–19.3% | 15.1–19.9% |
 | [29 July–23 August 2019](2019-08-23-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 17.4% | 16.2–18.7% | 15.9–19.0% | 15.6–19.3% | 15.1–19.9% |
 | [8 July–6 August 2019](2019-08-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 16.8% | 15.7–18.0% | 15.4–18.3% | 15.1–18.6% | 14.6–19.2% |
-| [1–26 July 2019](2019-07-26-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 16.7% | 15.5–17.9% | 15.2–18.3% | 14.9–18.6% | 14.4–19.2% |
+| [1–27 July 2019](2019-07-27-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 16.7% | 15.5–17.9% | 15.2–18.3% | 14.9–18.6% | 14.4–19.2% |
 | [5 June–2 July 2019](2019-07-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 16.8% | 15.7–18.0% | 15.4–18.3% | 15.2–18.6% | 14.7–19.1% |
 | [3–28 June 2019](2019-06-28-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 17.3% | 16.2–18.5% | 15.9–18.9% | 15.6–19.2% | 15.1–19.8% |
 | [4–14 June 2019](2019-06-14-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 17.2% | 15.9–18.6% | 15.5–19.0% | 15.2–19.4% | 14.6–20.1% |
@@ -62,6 +63,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [5 February–3 March 2020](2020-03-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3 | 3 | 2–3 | 2–3 |
 | [19 January–14 February 2020](2020-02-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [21 January–10 February 2020](2020-02-10-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [13 January–4 February 2020](2020-02-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3 | 2–3 | 2–3 | 2–3 |
@@ -78,7 +80,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | [12 August–3 September 2019](2019-09-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3 | 3 | 3 | 2–3 |
 | [29 July–23 August 2019](2019-08-23-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3 | 3 | 2–3 | 2–3 |
 | [8 July–6 August 2019](2019-08-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [1–26 July 2019](2019-07-26-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–27 July 2019](2019-07-27-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [5 June–2 July 2019](2019-07-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3 | 3 | 2–3 | 2–3 |
 | [3–28 June 2019](2019-06-28-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [4–14 June 2019](2019-06-14-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
