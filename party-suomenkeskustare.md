@@ -11,6 +11,7 @@ Last result: **19.7%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11.6% | 10.4–12.9% | 10.1–13.3% | 9.8–13.6% | 9.4–14.2% |
+| [15 February–13 March 2020](2020-03-13-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 12.0% | N/A | N/A | N/A | N/A |
 | [5 February–3 March 2020](2020-03-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 12.4% | 11.6–13.3% | 11.3–13.6% | 11.1–13.8% | 10.8–14.3% |
 | [19 January–14 February 2020](2020-02-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 12.0% | 11.1–12.9% | 10.9–13.2% | 10.7–13.4% | 10.3–13.9% |
 | [21 January–10 February 2020](2020-02-10-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 12.0% | 10.9–13.3% | 10.6–13.7% | 10.3–14.0% | 9.8–14.6% |
@@ -65,6 +66,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [15 February–13 March 2020](2020-03-13-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat |  |  |  |  |  |
 | [5 February–3 March 2020](2020-03-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2 | 2 | 1–2 | 1–2 |
 | [19 January–14 February 2020](2020-02-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [21 January–10 February 2020](2020-02-10-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 2 | 2 | 1–2 | 1–2 | 1–2 |
