@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 07 May 2020 21:12:20 +0200</pubDate>
+    <pubDate>Wed, 13 May 2020 19:36:17 +0200</pubDate>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 14 April–5 May 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2020-05-05-Taloustutkimus.html#seats</link>
@@ -594,10 +594,10 @@
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-09-03-Taloustutkimus.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (RE): 10.2–13.2%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 15.6–19.3%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ID): 18.7–22.6%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 15.2–18.8%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 13.0–16.4%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 6.9–9.5%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 3.0–4.8%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 2.6–4.4%&lt;/li&gt;&lt;li&gt;Liike Nyt (NI): 1.0–2.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-09-03-Taloustutkimus.png"
-        length="271574"
+        length="330197"
         type="image/png"/>
-      <pubDate>Wed, 12 Feb 2020 17:36:05 +0100</pubDate>
-      <dc:date>2020-02-12T17:36:05.422811+01:00</dc:date>
+      <pubDate>Wed, 13 May 2020 19:36:17 +0200</pubDate>
+      <dc:date>2020-05-13T19:36:17.582899+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 29 July–23 August 2019 – Seat Projections for the Parties</title>
@@ -719,6 +719,6 @@
       <pubDate>Tue, 18 Feb 2020 09:49:10 +0100</pubDate>
       <dc:date>2020-02-18T09:49:10.19923+01:00</dc:date>
     </item>
-    <dc:date>2020-05-07T21:12:20.314887+02:00</dc:date>
+    <dc:date>2020-05-13T19:36:17.582899+02:00</dc:date>
   </channel>
 </rss>
