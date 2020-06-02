@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 29 May 2020 18:33:33 +0200</pubDate>
+    <pubDate>Mon, 01 Jun 2020 21:09:31 +0200</pubDate>
     <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 20 April–14 May 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2020-05-14-KantarTNS.html#seats</link>
@@ -740,14 +740,34 @@
       <dc:date>2020-05-14T18:01:21.972683+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 5 June–2 July 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-07-02-Taloustutkimus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ID): 3–4 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 2–3 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Liike Nyt (NI): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-07-02-Taloustutkimus-seats.png"
+        length="267158"
+        type="image/png"/>
+      <pubDate>Mon, 01 Jun 2020 21:09:31 +0200</pubDate>
+      <dc:date>2020-06-01T21:09:31.606932+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 5 June–2 July 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-07-02-Taloustutkimus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-07-02-Taloustutkimus-coalitions-seats.png"
+        length="196588"
+        type="image/png"/>
+      <pubDate>Mon, 01 Jun 2020 21:09:31 +0200</pubDate>
+      <dc:date>2020-06-01T21:09:31.606932+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 5 June–2 July 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2019-07-02-Taloustutkimus.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (RE): 10.3–13.2%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 15.2–18.6%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ID): 18.0–21.5%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 14.5–17.8%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 12.8–15.9%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 7.6–10.2%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 3.7–5.7%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 3.0–4.8%&lt;/li&gt;&lt;li&gt;Liike Nyt (NI): 1.2–2.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2019-07-02-Taloustutkimus.png"
-        length="265487"
+        length="323202"
         type="image/png"/>
-      <pubDate>Tue, 18 Feb 2020 23:10:43 +0100</pubDate>
-      <dc:date>2020-02-18T23:10:43.530245+01:00</dc:date>
+      <pubDate>Mon, 01 Jun 2020 21:09:31 +0200</pubDate>
+      <dc:date>2020-06-01T21:09:31.606932+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 3–28 June 2019 – Seat Projections for the Parties</title>
@@ -829,6 +849,6 @@
       <pubDate>Tue, 18 Feb 2020 09:49:10 +0100</pubDate>
       <dc:date>2020-02-18T09:49:10.19923+01:00</dc:date>
     </item>
-    <dc:date>2020-05-29T18:33:33.906827+02:00</dc:date>
+    <dc:date>2020-06-01T21:09:31.606932+02:00</dc:date>
   </channel>
 </rss>
