@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/finnish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-06-01T21:09:31.606932+02:00</updated>
+  <updated>2020-06-05T17:17:13.26308+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Suomen Keskusta (RE): 9.3–12.3%, 1–2 seats</li><li>Kansallinen Kokoomus (EPP): 15.7–19.4%, 2–3 seats</li><li>Perussuomalaiset (ID): 16.3–20.0%, 2–3 seats</li><li>Suomen Sosialidemokraattinen Puolue (S&amp;D): 21.2–25.3%, 3–4 seats</li><li>Vihreä liitto (Greens/EFA): 10.4–13.5%, 1–2 seats</li><li>Vasemmistoliitto (GUE/NGL): 6.6–9.2%, 1 seats</li><li>Svenska folkpartiet i Finland (RE): 3.0–4.9%, 0 seats</li><li>Kristillisdemokraatit (EPP): 2.7–4.5%, 0 seats</li><li>Liike Nyt (NI): 1.6–3.1%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/finnish_ep_polls/2020-06-02-Taloustutkimus.html</id>
+    <link href="https://filipvanlaenen.github.io/finnish_ep_polls/2020-06-02-Taloustutkimus.html"/>
+    <title>Opinion Poll by Taloustutkimus for Yle, 11 May–2 June 2020</title>
+    <updated>2020-06-05T17:17:13.26308+02:00</updated>
+    <dc:date>2020-06-05T17:17:13.26308+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Suomen Keskusta (RE): 11.0–14.2%, 2 seats</li><li>Kansallinen Kokoomus (EPP): 15.6–19.2%, 2–3 seats</li><li>Perussuomalaiset (ID): 16.7–20.4%, 3 seats</li><li>Suomen Sosialidemokraattinen Puolue (S&amp;D): 18.7–22.5%, 3–4 seats</li><li>Vihreä liitto (Greens/EFA): 10.0–13.1%, 1–2 seats</li><li>Vasemmistoliitto (GUE/NGL): 6.6–9.2%, 1 seats</li><li>Svenska folkpartiet i Finland (RE): 3.4–5.4%, 0 seats</li><li>Kristillisdemokraatit (EPP): 3.0–4.8%, 0 seats</li><li>Liike Nyt (NI): 1.4–2.7%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/finnish_ep_polls/2020-05-14-KantarTNS.html</id>
@@ -223,5 +231,5 @@
     <updated>2020-05-07T21:12:20.314887+02:00</updated>
     <dc:date>2020-05-07T21:12:20.314887+02:00</dc:date>
   </entry>
-  <dc:date>2020-06-01T21:09:31.606932+02:00</dc:date>
+  <dc:date>2020-06-05T17:17:13.26308+02:00</dc:date>
 </feed>
