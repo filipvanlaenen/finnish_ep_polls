@@ -10,7 +10,8 @@ Last result: **12.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 18.4% | 17.0–19.8% | 16.6–20.2% | 16.3–20.6% | 15.7–21.2% |
+| N/A | [Poll Average](average.html) | 19.0% | 17.8–20.2% | 17.4–20.5% | 17.2–20.8% | 16.6–21.5% |
+| [13 July–14 August 2020](2020-08-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 19.0% | 17.8–20.2% | 17.5–20.5% | 17.2–20.9% | 16.7–21.4% |
 | [6 July–4 August 2020](2020-08-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 18.9% | 17.7–20.2% | 17.3–20.5% | 17.1–20.8% | 16.5–21.5% |
 | [15 June–10 July 2020](2020-07-10-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 17.9% | 16.7–19.2% | 16.3–19.5% | 16.0–19.9% | 15.5–20.5% |
 | [3–30 June 2020](2020-06-30-Taloustutkimus.html) | Taloustutkimus <br> Yle | 18.1% | 16.9–19.4% | 16.6–19.7% | 16.3–20.0% | 15.7–20.7% |
@@ -55,14 +56,14 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 12.5–13.5% | 0% | 100% | Last Result |
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.3% | 100% |  |
-| 15.5–16.5% | 4% | 99.7% |  |
-| 16.5–17.5% | 17% | 96% |  |
-| 17.5–18.5% | 33% | 78% | Median |
-| 18.5–19.5% | 30% | 45% |  |
-| 19.5–20.5% | 12% | 15% |  |
-| 20.5–21.5% | 2% | 3% |  |
-| 21.5–22.5% | 0.2% | 0.2% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.4% | 100% |  |
+| 16.5–17.5% | 6% | 99.6% |  |
+| 17.5–18.5% | 27% | 94% |  |
+| 18.5–19.5% | 40% | 67% | Median |
+| 19.5–20.5% | 21% | 26% |  |
+| 20.5–21.5% | 4% | 5% |  |
+| 21.5–22.5% | 0.4% | 0.4% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
 
@@ -74,7 +75,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 3 | 3–4 |
+| [13 July–14 August 2020](2020-08-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3 | 3 | 3 | 3–4 |
 | [6 July–4 August 2020](2020-08-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3 | 3 | 3 | 2–4 |
 | [15 June–10 July 2020](2020-07-10-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3 | 3 | 2–3 | 2–3 |
 | [3–30 June 2020](2020-06-30-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3 | 3 | 3 | 2–3 |
@@ -119,9 +121,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 2% | 100% | Last Result |
-| 3 | 97% | 98% | Median |
-| 4 | 0.6% | 0.6% |  |
+| 2 | 0.4% | 100% | Last Result |
+| 3 | 98% | 99.6% | Median |
+| 4 | 1.1% | 1.1% |  |
 | 5 | 0% | 0% |  |
 
 
