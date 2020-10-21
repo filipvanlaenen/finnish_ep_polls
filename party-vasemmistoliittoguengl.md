@@ -10,7 +10,8 @@ Last result: **9.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 6.9–8.7% | 6.7–9.0% | 6.5–9.2% | 6.2–9.7% |
+| N/A | [Poll Average](average.html) | 7.9% | 7.0–8.7% | 6.8–9.0% | 6.7–9.2% | 6.3–9.7% |
+| [14 September–16 October 2020](2020-10-16-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 7.8% | 7.0–8.6% | 6.8–8.9% | 6.6–9.1% | 6.3–9.5% |
 | [7 September–6 October 2020](2020-10-06-Taloustutkimus.html) | Taloustutkimus | 7.9% | 7.1–8.9% | 6.8–9.1% | 6.6–9.4% | 6.3–9.8% |
 | [17 August–12 September 2020](2020-09-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 7.6% | 6.8–8.5% | 6.6–8.7% | 6.4–8.9% | 6.1–9.4% |
 | [10 August–1 September 2020](2020-09-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 8.0% | 7.2–8.9% | 7.0–9.2% | 6.8–9.4% | 6.4–9.9% |
@@ -58,11 +59,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 3% | 100% |  |
-| 6.5–7.5% | 34% | 97% |  |
-| 7.5–8.5% | 50% | 63% | Median |
-| 8.5–9.5% | 13% | 13% | Last Result |
-| 9.5–10.5% | 0.7% | 0.8% |  |
+| 5.5–6.5% | 2% | 100% |  |
+| 6.5–7.5% | 29% | 98% |  |
+| 7.5–8.5% | 53% | 69% | Median |
+| 8.5–9.5% | 15% | 15% | Last Result |
+| 9.5–10.5% | 0.8% | 0.8% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -75,6 +76,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [14 September–16 October 2020](2020-10-16-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 1 | 1 | 1 | 1 | 1 |
 | [7 September–6 October 2020](2020-10-06-Taloustutkimus.html) | Taloustutkimus | 1 | 1 | 1 | 1 | 1 |
 | [17 August–12 September 2020](2020-09-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 1 | 1 | 1 | 1 | 1 |
 | [10 August–1 September 2020](2020-09-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1 | 1 | 1 | 1 | 1 |

@@ -10,7 +10,8 @@ Last result: **12.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.4% | 20.0–22.8% | 19.7–23.3% | 19.3–23.6% | 18.7–24.3% |
+| N/A | [Poll Average](average.html) | 21.4% | 20.0–22.8% | 19.7–23.2% | 19.3–23.6% | 18.8–24.3% |
+| [14 September–16 October 2020](2020-10-16-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 20.9% | 19.8–22.2% | 19.4–22.5% | 19.1–22.8% | 18.6–23.4% |
 | [7 September–6 October 2020](2020-10-06-Taloustutkimus.html) | Taloustutkimus | 21.8% | 20.5–23.2% | 20.1–23.6% | 19.8–23.9% | 19.2–24.6% |
 | [17 August–12 September 2020](2020-09-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 21.0% | 19.8–22.3% | 19.4–22.6% | 19.1–23.0% | 18.5–23.6% |
 | [10 August–1 September 2020](2020-09-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 21.4% | 20.1–22.8% | 19.8–23.1% | 19.5–23.5% | 18.9–24.1% |
@@ -63,12 +64,12 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.3% | 100% |  |
-| 18.5–19.5% | 4% | 99.7% |  |
+| 17.5–18.5% | 0.2% | 100% |  |
+| 18.5–19.5% | 4% | 99.8% |  |
 | 19.5–20.5% | 18% | 96% |  |
-| 20.5–21.5% | 34% | 78% | Median |
-| 21.5–22.5% | 29% | 44% |  |
-| 22.5–23.5% | 12% | 15% |  |
+| 20.5–21.5% | 35% | 78% | Median |
+| 21.5–22.5% | 29% | 43% |  |
+| 22.5–23.5% | 12% | 14% |  |
 | 23.5–24.5% | 3% | 3% |  |
 | 24.5–25.5% | 0.3% | 0.3% |  |
 | 25.5–26.5% | 0% | 0% |  |
@@ -83,6 +84,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [14 September–16 October 2020](2020-10-16-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7 September–6 October 2020](2020-10-06-Taloustutkimus.html) | Taloustutkimus | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [17 August–12 September 2020](2020-09-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [10 August–1 September 2020](2020-09-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
