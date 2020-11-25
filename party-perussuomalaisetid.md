@@ -10,7 +10,8 @@ Last result: **12.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.7% | 18.5–21.0% | 18.2–21.3% | 17.9–21.7% | 17.3–22.3% |
+| N/A | [Poll Average](average.html) | 19.7% | 18.5–21.0% | 18.2–21.3% | 17.9–21.6% | 17.3–22.2% |
+| [19 October–20 November 2020](2020-11-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 19.9% | 18.8–21.1% | 18.5–21.5% | 18.2–21.7% | 17.6–22.3% |
 | [12 October–3 November 2020](2020-11-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 19.5% | 18.3–20.8% | 18.0–21.2% | 17.7–21.5% | 17.1–22.1% |
 | [14 September–16 October 2020](2020-10-16-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 19.9% | 18.8–21.1% | 18.4–21.5% | 18.2–21.8% | 17.6–22.4% |
 | [7 September–6 October 2020](2020-10-06-Taloustutkimus.html) | Taloustutkimus | 19.0% | 17.7–20.3% | 17.4–20.7% | 17.1–21.0% | 16.5–21.7% |
@@ -81,7 +82,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| [19 October–20 November 2020](2020-11-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12 October–3 November 2020](2020-11-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [14 September–16 October 2020](2020-10-16-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7 September–6 October 2020](2020-10-06-Taloustutkimus.html) | Taloustutkimus | 3 | 3 | 3 | 3 | 3–4 |
@@ -133,8 +135,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 90% | 100% | Median |
-| 4 | 10% | 10% |  |
+| 3 | 91% | 100% | Median |
+| 4 | 9% | 9% |  |
 | 5 | 0% | 0% |  |
 
 
