@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 03 Dec 2020 18:01:16 +0100</pubDate>
+    <pubDate>Thu, 24 Dec 2020 10:29:07 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 23 November–18 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2020-12-18-KantarTNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (RE): 10.1–12.9%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 14.6–17.9%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ID): 18.8–22.5%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 19.6–23.3%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 8.6–11.3%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 6.6–9.0%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 3.5–5.3%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 3.0–4.8%&lt;/li&gt;&lt;li&gt;Liike Nyt (NI): 1.7–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2020-12-18-KantarTNS.png"
+        length="329192"
+        type="image/png"/>
+      <pubDate>Thu, 24 Dec 2020 10:29:07 +0100</pubDate>
+      <dc:date>2020-12-24T10:29:07.619678+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 9 November–1 December 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2020-12-01-Taloustutkimus.html#seats</link>
@@ -1299,6 +1309,6 @@
       <pubDate>Sun, 12 Jul 2020 22:34:32 +0200</pubDate>
       <dc:date>2020-07-12T22:34:32.745143+02:00</dc:date>
     </item>
-    <dc:date>2020-12-03T18:01:16.794165+01:00</dc:date>
+    <dc:date>2020-12-24T10:29:07.619678+01:00</dc:date>
   </channel>
 </rss>
