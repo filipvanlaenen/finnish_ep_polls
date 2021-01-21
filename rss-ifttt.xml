@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Fri, 17 Jul 2020 21:26:13 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 21 December 2020–15 January 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-01-15-KantarTNS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Kantar TNS for Helsingin Sanomat, 21 December 2020–15 January 2021<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2021-01-15-KantarTNS.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2021-01-15-KantarTNS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2021-01-15-KantarTNS.png" length="331569" type="image/png"/>
+      <pubDate>Thu, 21 Jan 2021 18:04:23 +0100</pubDate>
+      <dc:date>2021-01-21T18:04:23.344888+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 2 December 2020–5 January 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-01-05-Taloustutkimus.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Taloustutkimus for Yle, 2 December 2020–5 January 2021<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2021-01-05-Taloustutkimus.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2021-01-05-Taloustutkimus-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2020-09-01-Taloustutkimus.png" length="326206" type="image/png"/>
       <pubDate>Fri, 4 Sep 2020 23:05:53 +0200</pubDate>
       <dc:date>2020-09-04T23:05:53.66736+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 13 July–14 August 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2020-08-14-KantarTNS.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Kantar TNS for Helsingin Sanomat, 13 July–14 August 2020<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2020-08-14-KantarTNS.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2020-08-14-KantarTNS-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2020-08-14-KantarTNS-seating-plan.png" length="366765" type="image/png"/>
-      <pubDate>Wed, 19 Aug 2020 16:55:09 +0200</pubDate>
-      <dc:date>2020-08-19T16:55:09.002467+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 13 July–14 August 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2020-08-14-KantarTNS.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Kantar TNS for Helsingin Sanomat, 13 July–14 August 2020<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2020-08-14-KantarTNS.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2020-08-14-KantarTNS-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2020-08-14-KantarTNS-seats.png" length="246883" type="image/png"/>
-      <pubDate>Wed, 19 Aug 2020 16:55:09 +0200</pubDate>
-      <dc:date>2020-08-19T16:55:09.002467+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 13 July–14 August 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2020-08-14-KantarTNS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Kantar TNS for Helsingin Sanomat, 13 July–14 August 2020<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2020-08-14-KantarTNS.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2020-08-14-KantarTNS.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2020-08-14-KantarTNS.png" length="323967" type="image/png"/>
-      <pubDate>Wed, 19 Aug 2020 16:55:09 +0200</pubDate>
-      <dc:date>2020-08-19T16:55:09.002467+02:00</dc:date>
     </item>
   </channel>
 </rss>
