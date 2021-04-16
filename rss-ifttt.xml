@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:48 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 15 March–9 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-04-09-KantarTNS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Kantar TNS for Helsingin Sanomat, 15 March–9 April 2021<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2021-04-09-KantarTNS.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2021-04-09-KantarTNS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2021-04-09-KantarTNS.png" length="318133" type="image/png"/>
+      <pubDate>Fri, 16 Apr 2021 17:55:50 +0200</pubDate>
+      <dc:date>2021-04-16T17:55:50.008961+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 15 February–12 March 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-03-12-KantarTNS.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Kantar TNS for Helsingin Sanomat, 15 February–12 March 2021<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2021-03-12-KantarTNS.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2021-03-12-KantarTNS-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2020-10-16-KantarTNS.png" length="329029" type="image/png"/>
       <pubDate>Wed, 21 Oct 2020 18:06:41 +0200</pubDate>
       <dc:date>2020-10-21T18:06:41.731955+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Taloustutkimus, 7 September–6 October 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2020-10-06-Taloustutkimus.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Taloustutkimus, 7 September–6 October 2020<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2020-10-06-Taloustutkimus.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2020-10-06-Taloustutkimus-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2020-10-06-Taloustutkimus-seating-plan.png" length="367384" type="image/png"/>
-      <pubDate>Sat, 10 Oct 2020 22:06:08 +0200</pubDate>
-      <dc:date>2020-10-10T22:06:08.854745+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Taloustutkimus, 7 September–6 October 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2020-10-06-Taloustutkimus.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Taloustutkimus, 7 September–6 October 2020<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2020-10-06-Taloustutkimus.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2020-10-06-Taloustutkimus-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2020-10-06-Taloustutkimus-seats.png" length="284922" type="image/png"/>
-      <pubDate>Sat, 10 Oct 2020 22:06:08 +0200</pubDate>
-      <dc:date>2020-10-10T22:06:08.854745+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Taloustutkimus, 7 September–6 October 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2020-10-06-Taloustutkimus.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Taloustutkimus, 7 September–6 October 2020<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2020-10-06-Taloustutkimus.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2020-10-06-Taloustutkimus.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2020-10-06-Taloustutkimus.png" length="327549" type="image/png"/>
-      <pubDate>Sat, 10 Oct 2020 22:06:08 +0200</pubDate>
-      <dc:date>2020-10-10T22:06:08.854745+02:00</dc:date>
     </item>
   </channel>
 </rss>
