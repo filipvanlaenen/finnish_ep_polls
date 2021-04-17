@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 16 Apr 2021 17:55:50 +0200</pubDate>
+    <pubDate>Fri, 16 Apr 2021 19:57:08 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 15 March–9 April 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-04-09-KantarTNS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ID): 3–4 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 0 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Liike Nyt (NI): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2021-04-09-KantarTNS-seats.png"
+        length="267938"
+        type="image/png"/>
+      <pubDate>Fri, 16 Apr 2021 19:57:08 +0200</pubDate>
+      <dc:date>2021-04-16T19:57:08.939256+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 15 March–9 April 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-04-09-KantarTNS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2021-04-09-KantarTNS-coalitions-seats.png"
+        length="217247"
+        type="image/png"/>
+      <pubDate>Fri, 16 Apr 2021 19:57:08 +0200</pubDate>
+      <dc:date>2021-04-16T19:57:08.939256+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 15 March–9 April 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-04-09-KantarTNS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2021-04-09-KantarTNS.png"
         length="318133"
         type="image/png"/>
-      <pubDate>Fri, 16 Apr 2021 17:55:50 +0200</pubDate>
-      <dc:date>2021-04-16T17:55:50.008961+02:00</dc:date>
+      <pubDate>Fri, 16 Apr 2021 19:57:08 +0200</pubDate>
+      <dc:date>2021-04-16T19:57:08.939256+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 15 February–12 March 2021 – Seat Projections for the Parties</title>
@@ -1459,6 +1479,6 @@
       <pubDate>Sun, 12 Jul 2020 22:34:32 +0200</pubDate>
       <dc:date>2020-07-12T22:34:32.745143+02:00</dc:date>
     </item>
-    <dc:date>2021-04-16T17:55:50.008961+02:00</dc:date>
+    <dc:date>2021-04-16T19:57:08.939256+02:00</dc:date>
   </channel>
 </rss>
