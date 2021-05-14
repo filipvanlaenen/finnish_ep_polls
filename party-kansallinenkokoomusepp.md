@@ -10,7 +10,8 @@ Last result: **22.6%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.2% | 15.3–17.2% | 15.0–17.5% | 14.8–17.7% | 14.4–18.2% |
+| N/A | [Poll Average](average.html) | 17.0% | 16.1–18.0% | 15.8–18.3% | 15.6–18.6% | 15.1–19.0% |
+| [12 April–7 May 2021](2021-05-07-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 17.0% | 16.1–18.0% | 15.8–18.3% | 15.6–18.6% | 15.1–19.1% |
 | [15 March–9 April 2021](2021-04-09-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 16.2% | 15.3–17.2% | 15.0–17.5% | 14.8–17.7% | 14.4–18.2% |
 | [15 February–12 March 2021](2021-03-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 16.0% | 15.1–17.0% | 14.8–17.3% | 14.6–17.5% | 14.2–18.0% |
 | [18 January–12 February 2021](2021-02-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 16.4% | 15.5–17.4% | 15.2–17.7% | 15.0–17.9% | 14.6–18.4% |
@@ -67,14 +68,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 12.5–13.5% | 0% | 100% |  |
-| 13.5–14.5% | 1.0% | 100% |  |
-| 14.5–15.5% | 17% | 99.0% |  |
-| 15.5–16.5% | 49% | 82% | Median |
-| 16.5–17.5% | 29% | 33% |  |
-| 17.5–18.5% | 4% | 4% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
-| 19.5–20.5% | 0% | 0% |  |
+| 13.5–14.5% | 0% | 100% |  |
+| 14.5–15.5% | 2% | 100% |  |
+| 15.5–16.5% | 24% | 98% |  |
+| 16.5–17.5% | 49% | 74% | Median |
+| 17.5–18.5% | 23% | 25% |  |
+| 18.5–19.5% | 2% | 3% |  |
+| 19.5–20.5% | 0.1% | 0.1% |  |
 | 20.5–21.5% | 0% | 0% |  |
 | 21.5–22.5% | 0% | 0% |  |
 | 22.5–23.5% | 0% | 0% | Last Result |
@@ -88,7 +88,8 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 3 | 3 | 3 | 2–3 | 2–3 |
+| [12 April–7 May 2021](2021-05-07-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3 | 3 | 2–3 | 2–3 |
 | [15 March–9 April 2021](2021-04-09-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15 February–12 March 2021](2021-03-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18 January–12 February 2021](2021-02-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -147,8 +148,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 17% | 100% |  |
-| 3 | 83% | 83% | Last Result, Median |
+| 2 | 5% | 100% |  |
+| 3 | 95% | 95% | Last Result, Median |
 | 4 | 0% | 0% |  |
 
 
