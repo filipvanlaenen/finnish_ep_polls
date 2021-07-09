@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 08 Jul 2021 13:00:28 +0200</pubDate>
+    <pubDate>Thu, 08 Jul 2021 23:59:56 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 14 June–6 July 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-07-06-Taloustutkimus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (RE): 2 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ID): 3 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Liike Nyt (NI): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2021-07-06-Taloustutkimus-seats.png"
+        length="222152"
+        type="image/png"/>
+      <pubDate>Thu, 08 Jul 2021 23:59:56 +0200</pubDate>
+      <dc:date>2021-07-08T23:59:56.835236+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 14 June–6 July 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-07-06-Taloustutkimus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2021-07-06-Taloustutkimus-coalitions-seats.png"
+        length="172576"
+        type="image/png"/>
+      <pubDate>Thu, 08 Jul 2021 23:59:56 +0200</pubDate>
+      <dc:date>2021-07-08T23:59:56.835236+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 14 June–6 July 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-07-06-Taloustutkimus.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2021-07-06-Taloustutkimus.png"
         length="322110"
         type="image/png"/>
-      <pubDate>Thu, 08 Jul 2021 13:00:28 +0200</pubDate>
-      <dc:date>2021-07-08T13:00:28.937806+02:00</dc:date>
+      <pubDate>Thu, 08 Jul 2021 23:59:56 +0200</pubDate>
+      <dc:date>2021-07-08T23:59:56.835236+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 12 April–7 May 2021 – Seat Projections for the Parties</title>
@@ -1519,6 +1539,6 @@
       <pubDate>Sun, 12 Jul 2020 22:34:32 +0200</pubDate>
       <dc:date>2020-07-12T22:34:32.745143+02:00</dc:date>
     </item>
-    <dc:date>2021-07-08T13:00:28.937806+02:00</dc:date>
+    <dc:date>2021-07-08T23:59:56.835236+02:00</dc:date>
   </channel>
 </rss>
