@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | KOK | KESK | PS | SDP | VIHR | VAS | SFP | KD | SIN | LIIK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 22.6% <br> 3 | 19.7% <br> 3 | 12.9% <br> 2 | 12.3% <br> 2 | 9.3% <br> 1 | 9.3% <br> 1 | 6.8% <br> 1 | 5.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 18–22% <br> 3–4 | 11–14% <br> 2 | 16–20% <br> 3 | 17–21% <br> 3–4 | 9–12% <br> 1–2 | 7–10% <br> 1 | 4–5% <br> 0–1 | 3–4% <br> 0 | N/A <br> N/A | 1–3% <br> 0 |
+| N/A | [Poll Average](average.html) | 18–22% <br> 3–4 | 11–14% <br> 2 | 16–20% <br> 3 | 17–21% <br> 3–4 | 10–12% <br> 1–2 | 7–10% <br> 1 | 4–5% <br> 0–1 | 3–4% <br> 0 | N/A <br> N/A | 1–3% <br> 0 |
+| [26 July–20 August 2021](2021-08-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 18–22% <br> 3–4 | 11–15% <br> 2 | 15–19% <br> 3 | 17–21% <br> 3–4 | 9–12% <br> 1–2 | 7–9% <br> 1 | 4–5% <br> 0–1 | 3–5% <br> 0 | N/A <br> N/A | 2–3% <br> 0 |
 | [12 July–3 August 2021](2021-08-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 19–22% <br> 3–4 | 11–14% <br> 2 | 16–20% <br> 3 | 17–21% <br> 3–4 | 9–12% <br> 1–2 | 7–10% <br> 1 | 3–5% <br> 0 | 3–4% <br> 0 | N/A <br> N/A | 1–3% <br> 0 |
-| [21 June–20 July 2021](2021-07-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 18–22% <br> 3–4 | 11–14% <br> 2 | 16–19% <br> 3 | 18–21% <br> 3–4 | 9–11% <br> 1–2 | 7–9% <br> 1 | 4–5% <br> 0–1 | 3–5% <br> 0 | N/A <br> N/A | 2–3% <br> 0 |
 | 26 May 2019 | General Election | 22.6% <br> 3 | 19.7% <br> 3 | 12.9% <br> 2 | 12.3% <br> 2 | 9.3% <br> 1 | 9.3% <br> 1 | 6.8% <br> 1 | 5.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
