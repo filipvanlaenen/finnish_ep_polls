@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 05 Aug 2021 15:27:38 +0200</pubDate>
+    <pubDate>Fri, 27 Aug 2021 07:08:07 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 26 July–20 August 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-08-20-KantarTNS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (RE): 11.4–14.6%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 18.0–21.7%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ID): 15.5–19.0%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 17.4–21.1%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 9.4–12.3%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 6.7–9.3%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 3.5–5.5%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 2.8–4.6%&lt;/li&gt;&lt;li&gt;Liike Nyt (NI): 1.7–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2021-08-20-KantarTNS.png"
+        length="329254"
+        type="image/png"/>
+      <pubDate>Fri, 27 Aug 2021 07:08:07 +0200</pubDate>
+      <dc:date>2021-08-27T07:08:07.665318+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 12 July–3 August 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-08-03-Taloustutkimus.html#seats</link>
@@ -1599,6 +1609,6 @@
       <pubDate>Sun, 12 Jul 2020 22:34:32 +0200</pubDate>
       <dc:date>2020-07-12T22:34:32.745143+02:00</dc:date>
     </item>
-    <dc:date>2021-08-05T15:27:38.755974+02:00</dc:date>
+    <dc:date>2021-08-27T07:08:07.665318+02:00</dc:date>
   </channel>
 </rss>
