@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:48 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 4–31 August 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-08-31-Taloustutkimus.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Taloustutkimus for Yle, 4–31 August 2021<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2021-08-31-Taloustutkimus.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2021-08-31-Taloustutkimus.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2021-08-31-Taloustutkimus.png" length="323316" type="image/png"/>
+      <pubDate>Thu, 2 Sep 2021 18:53:17 +0200</pubDate>
+      <dc:date>2021-09-02T18:53:17.331519+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 26 July–20 August 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-08-20-KantarTNS.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Kantar TNS for Helsingin Sanomat, 26 July–20 August 2021<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2021-08-20-KantarTNS.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2021-08-20-KantarTNS-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2021-01-15-KantarTNS.png" length="331569" type="image/png"/>
       <pubDate>Sat, 23 Jan 2021 11:25:35 +0100</pubDate>
       <dc:date>2021-01-23T11:25:35.129429+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Taloustutkimus for Yle, 2 December 2020–5 January 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-01-05-Taloustutkimus.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Taloustutkimus for Yle, 2 December 2020–5 January 2021<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2021-01-05-Taloustutkimus.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2021-01-05-Taloustutkimus-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2021-01-05-Taloustutkimus-seating-plan.png" length="365360" type="image/png"/>
-      <pubDate>Sun, 10 Jan 2021 20:43:45 +0100</pubDate>
-      <dc:date>2021-01-10T20:43:45.873693+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Taloustutkimus for Yle, 2 December 2020–5 January 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-01-05-Taloustutkimus.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Taloustutkimus for Yle, 2 December 2020–5 January 2021<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2021-01-05-Taloustutkimus.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2021-01-05-Taloustutkimus-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2021-01-05-Taloustutkimus-seats.png" length="272907" type="image/png"/>
-      <pubDate>Sun, 10 Jan 2021 20:43:45 +0100</pubDate>
-      <dc:date>2021-01-10T20:43:45.873693+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Taloustutkimus for Yle, 2 December 2020–5 January 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-01-05-Taloustutkimus.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Taloustutkimus for Yle, 2 December 2020–5 January 2021<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2021-01-05-Taloustutkimus.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2021-01-05-Taloustutkimus.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2021-01-05-Taloustutkimus.png" length="331084" type="image/png"/>
-      <pubDate>Sun, 10 Jan 2021 20:43:45 +0100</pubDate>
-      <dc:date>2021-01-10T20:43:45.873693+01:00</dc:date>
     </item>
   </channel>
 </rss>
