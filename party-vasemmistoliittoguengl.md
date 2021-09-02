@@ -10,7 +10,8 @@ Last result: **9.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.3% | 7.3–9.3% | 7.1–9.6% | 6.9–9.8% | 6.5–10.3% |
+| N/A | [Poll Average](average.html) | 7.8% | 7.0–8.6% | 6.7–8.9% | 6.6–9.1% | 6.2–9.6% |
+| [4–31 August 2021](2021-08-31-Taloustutkimus.html) | Taloustutkimus <br> Yle | 7.6% | 6.8–8.5% | 6.6–8.8% | 6.4–9.0% | 6.1–9.4% |
 | [26 July–20 August 2021](2021-08-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 7.9% | 7.1–8.8% | 6.9–9.0% | 6.7–9.3% | 6.4–9.7% |
 | [12 July–3 August 2021](2021-08-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 8.6% | 7.8–9.6% | 7.6–9.8% | 7.4–10.1% | 7.0–10.5% |
 | [21 June–20 July 2021](2021-07-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8.2% | 7.5–8.9% | 7.3–9.2% | 7.2–9.3% | 6.9–9.7% |
@@ -73,13 +74,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.7% | 100% |  |
-| 6.5–7.5% | 16% | 99.3% |  |
-| 7.5–8.5% | 47% | 84% | Median |
-| 8.5–9.5% | 31% | 37% | Last Result |
-| 9.5–10.5% | 5% | 5% |  |
-| 10.5–11.5% | 0.2% | 0.2% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 5.5–6.5% | 2% | 100% |  |
+| 6.5–7.5% | 33% | 98% |  |
+| 7.5–8.5% | 52% | 64% | Median |
+| 8.5–9.5% | 12% | 13% | Last Result |
+| 9.5–10.5% | 0.5% | 0.5% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -91,6 +91,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [4–31 August 2021](2021-08-31-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1 | 1 | 1 | 1 | 1 |
 | [26 July–20 August 2021](2021-08-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 1 | 1 | 1 | 1 | 1 |
 | [12 July–3 August 2021](2021-08-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1 | 1 | 1 | 1 | 1 |
 | [21 June–20 July 2021](2021-07-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 1 | 1 | 1 | 1 | 1 |
@@ -154,8 +155,6 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.8% | 100% | Last Result, Median |
-| 2 | 0.2% | 0.2% |  |
-| 3 | 0% | 0% |  |
+| 1 | 100% | 100% | Last Result, Median |
 
 
