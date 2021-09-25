@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/finnish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2021-09-05T11:12:08.38916+02:00</updated>
+  <updated>2021-09-25T17:11:39.733714+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Suomen Keskusta (RE): 11.4–14.6%, 2 seats</li><li>Kansallinen Kokoomus (EPP): 19.0–22.8%, 3–4 seats</li><li>Perussuomalaiset (ID): 15.7–19.3%, 2–3 seats</li><li>Suomen Sosialidemokraattinen Puolue (S&amp;D): 16.7–20.3%, 3 seats</li><li>Vihreä liitto (Greens/EFA): 9.1–12.0%, 1–2 seats</li><li>Vasemmistoliitto (GUE/NGL): 6.7–9.2%, 1 seats</li><li>Svenska folkpartiet i Finland (RE): 3.6–5.5%, 0–1 seats</li><li>Kristillisdemokraatit (EPP): 2.9–4.6%, 0 seats</li><li>Liike Nyt (NI): 1.6–3.0%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/finnish_ep_polls/2021-09-17-KantarTNS.html</id>
+    <link href="https://filipvanlaenen.github.io/finnish_ep_polls/2021-09-17-KantarTNS.html"/>
+    <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 23 August–17 September 2021</title>
+    <updated>2021-09-25T17:11:39.733714+02:00</updated>
+    <dc:date>2021-09-25T17:11:39.733714+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Suomen Keskusta (RE): 10.7–13.8%, 1–2 seats</li><li>Kansallinen Kokoomus (EPP): 19.4–23.3%, 3–4 seats</li><li>Perussuomalaiset (ID): 15.9–19.5%, 2–3 seats</li><li>Suomen Sosialidemokraattinen Puolue (S&amp;D): 16.9–20.6%, 3 seats</li><li>Vihreä liitto (Greens/EFA): 10.0–13.0%, 1–2 seats</li><li>Vasemmistoliitto (GUE/NGL): 6.4–9.0%, 1 seats</li><li>Svenska folkpartiet i Finland (RE): 3.5–5.5%, 0–1 seats</li><li>Kristillisdemokraatit (EPP): 2.5–4.3%, 0 seats</li><li>Liike Nyt (NI): 1.9–3.4%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/finnish_ep_polls/2021-08-31-Taloustutkimus.html</id>
@@ -447,5 +455,5 @@
     <updated>2020-07-12T22:34:32.745143+02:00</updated>
     <dc:date>2020-07-12T22:34:32.745143+02:00</dc:date>
   </entry>
-  <dc:date>2021-09-05T11:12:08.38916+02:00</dc:date>
+  <dc:date>2021-09-25T17:11:39.733714+02:00</dc:date>
 </feed>
