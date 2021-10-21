@@ -96,7 +96,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [18 September–15 October 2021](2021-10-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1 September–5 October 2021](2021-10-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [23 August–17 September 2021](2021-09-17-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -164,8 +164,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 60% | 100% | Last Result, Median |
-| 4 | 40% | 40% |  |
+| 3 | 48% | 100% | Last Result |
+| 4 | 52% | 52% | Median |
 | 5 | 0% | 0% |  |
 
 
