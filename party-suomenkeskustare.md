@@ -10,13 +10,14 @@ Last result: **19.7%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.2% | 11.2–13.3% | 10.9–13.7% | 10.6–13.9% | 10.2–14.5% |
-| [6 October–2 November 2021](2021-11-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 11.9% | 11.0–13.0% | 10.7–13.3% | 10.5–13.5% | 10.0–14.0% |
-| [18 September–15 October 2021](2021-10-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 12.5% | 11.5–13.6% | 11.2–13.9% | 11.0–14.2% | 10.5–14.7% |
-| [1 September–5 October 2021](2021-10-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 12.6% | 11.6–13.7% | 11.4–14.0% | 11.1–14.2% | 10.7–14.8% |
-| [23 August–17 September 2021](2021-09-17-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 12.9% | 11.9–14.0% | 11.7–14.3% | 11.4–14.6% | 11.0–15.1% |
-| [4–31 August 2021](2021-08-31-Taloustutkimus.html) | Taloustutkimus <br> Yle | 12.2% | 11.2–13.3% | 11.0–13.6% | 10.7–13.8% | 10.3–14.4% |
-| [26 July–20 August 2021](2021-08-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 12.9% | 11.9–14.0% | 11.6–14.3% | 11.4–14.6% | 11.0–15.1% |
+| N/A | [Poll Average](average.html) | 11.9% | 11.1–12.8% | 10.9–13.0% | 10.7–13.3% | 10.3–13.7% |
+| [18 October–15 November 2021](2021-11-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 11.9% | 11.1–12.8% | 10.9–13.0% | 10.7–13.3% | 10.3–13.7% |
+| [6 October–2 November 2021](2021-11-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 11.9% | N/A | N/A | N/A | N/A |
+| [18 September–15 October 2021](2021-10-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 12.5% | N/A | N/A | N/A | N/A |
+| [1 September–5 October 2021](2021-10-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 12.6% | N/A | N/A | N/A | N/A |
+| [23 August–17 September 2021](2021-09-17-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 12.9% | N/A | N/A | N/A | N/A |
+| [4–31 August 2021](2021-08-31-Taloustutkimus.html) | Taloustutkimus <br> Yle | 12.2% | N/A | N/A | N/A | N/A |
+| [26 July–20 August 2021](2021-08-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 12.9% | N/A | N/A | N/A | N/A |
 | [12 July–3 August 2021](2021-08-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 12.3% | 11.3–13.4% | 11.0–13.7% | 10.8–13.9% | 10.4–14.4% |
 | [21 June–20 July 2021](2021-07-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 12.6% | 11.8–13.5% | 11.6–13.8% | 11.4–14.0% | 11.0–14.4% |
 | [14 June–6 July 2021](2021-07-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 13.5% | 12.5–14.6% | 12.2–14.9% | 12.0–15.1% | 11.6–15.6% |
@@ -79,11 +80,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 2% | 100% |  |
-| 10.5–11.5% | 19% | 98% |  |
-| 11.5–12.5% | 44% | 79% | Median |
-| 12.5–13.5% | 29% | 35% |  |
-| 13.5–14.5% | 6% | 6% |  |
-| 14.5–15.5% | 0.4% | 0.4% |  |
+| 10.5–11.5% | 27% | 98% |  |
+| 11.5–12.5% | 54% | 72% | Median |
+| 12.5–13.5% | 17% | 18% |  |
+| 13.5–14.5% | 0.9% | 0.9% |  |
+| 14.5–15.5% | 0% | 0% |  |
 | 15.5–16.5% | 0% | 0% |  |
 | 16.5–17.5% | 0% | 0% |  |
 | 17.5–18.5% | 0% | 0% |  |
@@ -99,13 +100,14 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [6 October–2 November 2021](2021-11-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [18 September–15 October 2021](2021-10-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 2 | 2 | 2 | 2 | 2 |
-| [1 September–5 October 2021](2021-10-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2 | 2 | 2 | 2 |
-| [23 August–17 September 2021](2021-09-17-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 2 | 2 | 2 | 2 | 2 |
-| [4–31 August 2021](2021-08-31-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [26 July–20 August 2021](2021-08-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 2 | 2 | 2 | 2 | 2 |
+| N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 1–2 |
+| [18 October–15 November 2021](2021-11-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 2 | 2 | 2 | 2 | 1–2 |
+| [6 October–2 November 2021](2021-11-02-Taloustutkimus.html) | Taloustutkimus <br> Yle |  |  |  |  |  |
+| [18 September–15 October 2021](2021-10-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat |  |  |  |  |  |
+| [1 September–5 October 2021](2021-10-05-Taloustutkimus.html) | Taloustutkimus <br> Yle |  |  |  |  |  |
+| [23 August–17 September 2021](2021-09-17-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat |  |  |  |  |  |
+| [4–31 August 2021](2021-08-31-Taloustutkimus.html) | Taloustutkimus <br> Yle |  |  |  |  |  |
+| [26 July–20 August 2021](2021-08-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat |  |  |  |  |  |
 | [12 July–3 August 2021](2021-08-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2 | 2 | 2 | 1–2 |
 | [21 June–20 July 2021](2021-07-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 2 | 2 | 2 | 2 | 2 |
 | [14 June–6 July 2021](2021-07-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2 | 2 | 2 | 2–3 |
@@ -168,8 +170,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 6% | 100% |  |
-| 2 | 94% | 94% | Median |
+| 1 | 0.9% | 100% |  |
+| 2 | 99.1% | 99.1% | Median |
 | 3 | 0% | 0% | Last Result |
 
 

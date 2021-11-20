@@ -10,13 +10,14 @@ Last result: **6.8%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.9% | 4.1–5.7% | 3.9–6.0% | 3.7–6.1% | 3.4–6.5% |
-| [6 October–2 November 2021](2021-11-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 5.2% | 4.6–5.9% | 4.4–6.1% | 4.2–6.3% | 4.0–6.7% |
-| [18 September–15 October 2021](2021-10-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4.5% | 3.9–5.2% | 3.7–5.4% | 3.6–5.6% | 3.3–5.9% |
-| [1 September–5 October 2021](2021-10-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4.1% | 3.6–4.8% | 3.4–5.0% | 3.3–5.2% | 3.0–5.5% |
-| [23 August–17 September 2021](2021-09-17-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4.5% | 3.9–5.2% | 3.7–5.4% | 3.6–5.5% | 3.4–5.9% |
-| [4–31 August 2021](2021-08-31-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4.4% | 3.8–5.1% | 3.7–5.3% | 3.5–5.5% | 3.3–5.8% |
-| [26 July–20 August 2021](2021-08-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4.4% | 3.8–5.1% | 3.7–5.3% | 3.5–5.5% | 3.3–5.8% |
+| N/A | [Poll Average](average.html) | 4.3% | 3.8–4.9% | 3.7–5.0% | 3.5–5.2% | 3.3–5.5% |
+| [18 October–15 November 2021](2021-11-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4.3% | 3.8–4.9% | 3.7–5.0% | 3.5–5.2% | 3.3–5.5% |
+| [6 October–2 November 2021](2021-11-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 5.2% | N/A | N/A | N/A | N/A |
+| [18 September–15 October 2021](2021-10-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4.5% | N/A | N/A | N/A | N/A |
+| [1 September–5 October 2021](2021-10-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4.1% | N/A | N/A | N/A | N/A |
+| [23 August–17 September 2021](2021-09-17-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4.5% | N/A | N/A | N/A | N/A |
+| [4–31 August 2021](2021-08-31-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4.4% | N/A | N/A | N/A | N/A |
+| [26 July–20 August 2021](2021-08-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4.4% | N/A | N/A | N/A | N/A |
 | [12 July–3 August 2021](2021-08-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4.3% | 3.7–5.0% | 3.6–5.2% | 3.4–5.3% | 3.2–5.7% |
 | [21 June–20 July 2021](2021-07-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4.4% | 3.9–5.0% | 3.8–5.2% | 3.7–5.3% | 3.5–5.6% |
 | [14 June–6 July 2021](2021-07-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4.5% | 3.9–5.2% | 3.8–5.4% | 3.6–5.5% | 3.4–5.9% |
@@ -78,12 +79,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.0% | 100% |  |
-| 3.5–4.5% | 30% | 99.0% |  |
-| 4.5–5.5% | 54% | 69% | Median |
-| 5.5–6.5% | 15% | 15% |  |
-| 6.5–7.5% | 0.5% | 0.5% | Last Result |
-| 7.5–8.5% | 0% | 0% |  |
+| 2.5–3.5% | 3% | 100% |  |
+| 3.5–4.5% | 69% | 97% | Median |
+| 4.5–5.5% | 28% | 28% |  |
+| 5.5–6.5% | 0.3% | 0.3% |  |
+| 6.5–7.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -94,13 +94,14 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [6 October–2 November 2021](2021-11-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [18 September–15 October 2021](2021-10-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [1 September–5 October 2021](2021-10-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0–1 |
-| [23 August–17 September 2021](2021-09-17-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [4–31 August 2021](2021-08-31-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0–1 | 0–1 |
-| [26 July–20 August 2021](2021-08-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [18 October–15 November 2021](2021-11-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0–1 |
+| [6 October–2 November 2021](2021-11-02-Taloustutkimus.html) | Taloustutkimus <br> Yle |  |  |  |  |  |
+| [18 September–15 October 2021](2021-10-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat |  |  |  |  |  |
+| [1 September–5 October 2021](2021-10-05-Taloustutkimus.html) | Taloustutkimus <br> Yle |  |  |  |  |  |
+| [23 August–17 September 2021](2021-09-17-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat |  |  |  |  |  |
+| [4–31 August 2021](2021-08-31-Taloustutkimus.html) | Taloustutkimus <br> Yle |  |  |  |  |  |
+| [26 July–20 August 2021](2021-08-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat |  |  |  |  |  |
 | [12 July–3 August 2021](2021-08-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0–1 |
 | [21 June–20 July 2021](2021-07-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0 | 0–1 | 0–1 |
 | [14 June–6 July 2021](2021-07-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0–1 | 0–1 | 0–1 |
@@ -163,8 +164,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 82% | 100% | Median |
-| 1 | 18% | 18% | Last Result |
+| 0 | 99.4% | 100% | Median |
+| 1 | 0.6% | 0.6% | Last Result |
 | 2 | 0% | 0% |  |
 
 
