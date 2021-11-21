@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 20 Nov 2021 20:58:32 +0100</pubDate>
+    <pubDate>Sun, 21 Nov 2021 10:42:34 +0100</pubDate>
     <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 18 October–15 November 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-11-15-KantarTNS.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Sat, 20 Nov 2021 20:58:32 +0100</pubDate>
       <dc:date>2021-11-20T20:58:32.118671+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 6 October–2 November 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-11-02-Taloustutkimus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ID): 2–3 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Liike Nyt (NI): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2021-11-02-Taloustutkimus-seats.png"
+        length="288549"
+        type="image/png"/>
+      <pubDate>Sun, 21 Nov 2021 10:42:34 +0100</pubDate>
+      <dc:date>2021-11-21T10:42:34.957628+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 6 October–2 November 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-11-02-Taloustutkimus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2021-11-02-Taloustutkimus-coalitions-seats.png"
+        length="225554"
+        type="image/png"/>
+      <pubDate>Sun, 21 Nov 2021 10:42:34 +0100</pubDate>
+      <dc:date>2021-11-21T10:42:34.957628+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 6 October–2 November 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-11-02-Taloustutkimus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (RE): 10.5–13.5%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 19.1–22.9%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ID): 16.2–19.8%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 16.3–20.0%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 10.0–13.0%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 7.4–10.0%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 4.2–6.3%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 2.0–3.5%&lt;/li&gt;&lt;li&gt;Liike Nyt (NI): 1.2–2.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2021-11-02-Taloustutkimus.png"
+        length="326649"
+        type="image/png"/>
+      <pubDate>Sun, 21 Nov 2021 10:42:34 +0100</pubDate>
+      <dc:date>2021-11-21T10:42:34.957628+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 12 July–3 August 2021 – Seat Projections for the Parties</title>
@@ -1629,6 +1659,6 @@
       <pubDate>Sun, 12 Jul 2020 22:34:32 +0200</pubDate>
       <dc:date>2020-07-12T22:34:32+02:00</dc:date>
     </item>
-    <dc:date>2021-11-20T20:58:32.118671+01:00</dc:date>
+    <dc:date>2021-11-21T10:42:34.957628+01:00</dc:date>
   </channel>
 </rss>
