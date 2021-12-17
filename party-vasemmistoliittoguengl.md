@@ -10,7 +10,8 @@ Last result: **9.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.9% | 7.1–8.8% | 6.9–9.1% | 6.7–9.4% | 6.4–9.9% |
+| N/A | [Poll Average](average.html) | 8.1% | 7.4–9.0% | 7.2–9.2% | 7.0–9.4% | 6.6–9.9% |
+| [16 November–10 December 2021](2021-12-10-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8.0% | 7.3–8.8% | 7.1–9.0% | 7.0–9.2% | 6.7–9.6% |
 | [3–30 November 2021](2021-11-30-Taloustutkimus.html) | Taloustutkimus <br> Yle | 8.2% | 7.4–9.1% | 7.1–9.4% | 7.0–9.6% | 6.6–10.1% |
 | [18 October–15 November 2021](2021-11-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 7.6% | 7.0–8.4% | 6.8–8.6% | 6.6–8.7% | 6.3–9.1% |
 | [6 October–2 November 2021](2021-11-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 8.6% | 7.8–9.5% | 7.6–9.8% | 7.4–10.0% | 7.0–10.5% |
@@ -80,11 +81,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.1% | 100% |  |
-| 6.5–7.5% | 28% | 98.9% |  |
-| 7.5–8.5% | 53% | 71% | Median |
-| 8.5–9.5% | 17% | 18% | Last Result |
-| 9.5–10.5% | 1.5% | 1.5% |  |
+| 5.5–6.5% | 0.3% | 100% |  |
+| 6.5–7.5% | 17% | 99.7% |  |
+| 7.5–8.5% | 58% | 83% | Median |
+| 8.5–9.5% | 23% | 25% | Last Result |
+| 9.5–10.5% | 2% | 2% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -97,6 +98,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [16 November–10 December 2021](2021-12-10-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 1 | 1 | 1 | 1 | 1 |
 | [3–30 November 2021](2021-11-30-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1 | 1 | 1 | 1 | 1 |
 | [18 October–15 November 2021](2021-11-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 1 | 1 | 1 | 1 | 1 |
 | [6 October–2 November 2021](2021-11-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1 | 1 | 1 | 1 | 1 |
