@@ -10,7 +10,8 @@ Last result: **12.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.1% | 17.9–20.3% | 17.6–20.6% | 17.3–20.9% | 16.6–21.5% |
+| N/A | [Poll Average](average.html) | 19.2% | 18.1–20.3% | 17.8–20.6% | 17.5–20.9% | 17.0–21.4% |
+| [9 January–1 February 2022](2022-02-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 19.0% | 17.9–20.2% | 17.6–20.5% | 17.3–20.8% | 16.8–21.4% |
 | [1 December 2021–4 January 2022](2022-01-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 18.9% | 17.6–20.2% | 17.3–20.6% | 17.0–20.9% | 16.4–21.6% |
 | [16 November–10 December 2021](2021-12-10-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 19.3% | 18.3–20.4% | 18.0–20.7% | 17.8–20.9% | 17.3–21.5% |
 | [3–30 November 2021](2021-11-30-Taloustutkimus.html) | Taloustutkimus <br> Yle | 18.3% | 17.1–19.6% | 16.8–20.0% | 16.5–20.3% | 16.0–20.9% |
@@ -85,13 +86,13 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.4% | 100% |  |
-| 16.5–17.5% | 4% | 99.6% |  |
-| 17.5–18.5% | 22% | 95% |  |
-| 18.5–19.5% | 41% | 73% | Median |
-| 19.5–20.5% | 26% | 32% |  |
-| 20.5–21.5% | 6% | 6% |  |
-| 21.5–22.5% | 0.4% | 0.4% |  |
+| 15.5–16.5% | 0.1% | 100% |  |
+| 16.5–17.5% | 3% | 99.9% |  |
+| 17.5–18.5% | 20% | 97% |  |
+| 18.5–19.5% | 44% | 77% | Median |
+| 19.5–20.5% | 27% | 33% |  |
+| 20.5–21.5% | 5% | 6% |  |
+| 21.5–22.5% | 0.3% | 0.3% |  |
 | 22.5–23.5% | 0% | 0% |  |
 
 
@@ -104,6 +105,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3 | 3–4 | 3–4 | 3–4 |
+| [9 January–1 February 2022](2022-02-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [1 December 2021–4 January 2022](2022-01-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [16 November–10 December 2021](2021-12-10-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3 | 3 | 3–4 | 3–4 |
 | [3–30 November 2021](2021-11-30-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3 | 3 | 3 | 2–4 |
