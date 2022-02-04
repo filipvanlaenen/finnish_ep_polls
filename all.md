@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | KOK | KESK | PS | SDP | VIHR | VAS | SFP | KD | SIN | LIIK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 22.6% <br> 3 | 19.7% <br> 3 | 12.9% <br> 2 | 12.3% <br> 2 | 9.3% <br> 1 | 9.3% <br> 1 | 6.8% <br> 1 | 5.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [9 January–1 February 2022](2022-02-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 19–23% <br> 3–4 | 11–14% <br> 2 | 13–17% <br> 2–3 | 17–21% <br> 3–4 | 8–11% <br> 1–2 | 8–10% <br> 1–2 | 4–6% <br> 0–1 | 3–4% <br> 0 | N/A <br> N/A | 2–4% <br> 0 |
 | [1 December 2021–4 January 2022](2022-01-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 19–23% <br> 3–4 | 11–14% <br> 2 | 16–20% <br> 3 | 17–21% <br> 3–4 | 9–12% <br> 1–2 | 7–9% <br> 1 | 3–5% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 1–3% <br> 0 |
 | [16 November–10 December 2021](2021-12-10-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 20–23% <br> 3–4 | 11–13% <br> 2 | 16–19% <br> 3 | 18–21% <br> 3–4 | 9–11% <br> 1–2 | 7–9% <br> 1 | 4–5% <br> 0–1 | 3–4% <br> 0 | N/A <br> N/A | 2–3% <br> 0 |
 | [3–30 November 2021](2021-11-30-Taloustutkimus.html) | Taloustutkimus <br> Yle | 20–24% <br> 3–4 | 11–14% <br> 2 | 17–21% <br> 3 | 17–20% <br> 3 | 9–12% <br> 1–2 | 7–10% <br> 1 | 4–6% <br> 0–1 | 2–4% <br> 0 | N/A <br> N/A | 1–2% <br> 0 |
