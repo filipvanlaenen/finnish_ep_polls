@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:48 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 7 April–3 May 2022 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-03-Taloustutkimus.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Taloustutkimus for Yle, 7 April–3 May 2022<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-03-Taloustutkimus.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-03-Taloustutkimus-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-03-Taloustutkimus-seating-plan.png" length="339416" type="image/png"/>
+      <pubDate>Thu, 5 May 2022 19:30:03 +0200</pubDate>
+      <dc:date>2022-05-05T19:30:03.933223+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 7 April–3 May 2022 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-03-Taloustutkimus.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Taloustutkimus for Yle, 7 April–3 May 2022<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-03-Taloustutkimus.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-03-Taloustutkimus-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-03-Taloustutkimus-seats.png" length="207852" type="image/png"/>
+      <pubDate>Thu, 5 May 2022 19:30:03 +0200</pubDate>
+      <dc:date>2022-05-05T19:30:03.933223+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 7 April–3 May 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-03-Taloustutkimus.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Taloustutkimus for Yle, 7 April–3 May 2022<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-03-Taloustutkimus.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-03-Taloustutkimus.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-03-Taloustutkimus.png" length="313880" type="image/png"/>
+      <pubDate>Thu, 5 May 2022 19:30:03 +0200</pubDate>
+      <dc:date>2022-05-05T19:30:03.933223+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 14 March–13 April 2022 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2022-04-13-KantarTNS.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Kantar TNS for Helsingin Sanomat, 14 March–13 April 2022<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2022-04-13-KantarTNS.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2022-04-13-KantarTNS-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2021-11-30-Taloustutkimus.png" length="321830" type="image/png"/>
       <pubDate>Sat, 4 Dec 2021 11:35:24 +0100</pubDate>
       <dc:date>2021-12-04T11:35:24.731268+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 18 October–15 November 2021 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-11-15-KantarTNS.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Kantar TNS for Helsingin Sanomat, 18 October–15 November 2021<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2021-11-15-KantarTNS.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2021-11-15-KantarTNS-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2021-11-15-KantarTNS-seating-plan.png" length="348600" type="image/png"/>
-      <pubDate>Sat, 20 Nov 2021 20:58:32 +0100</pubDate>
-      <dc:date>2021-11-20T20:58:32.118671+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 18 October–15 November 2021 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-11-15-KantarTNS.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Kantar TNS for Helsingin Sanomat, 18 October–15 November 2021<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2021-11-15-KantarTNS.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2021-11-15-KantarTNS-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2021-11-15-KantarTNS-seats.png" length="252216" type="image/png"/>
-      <pubDate>Sat, 20 Nov 2021 20:58:32 +0100</pubDate>
-      <dc:date>2021-11-20T20:58:32.118671+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 18 October–15 November 2021 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2021-11-15-KantarTNS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Kantar TNS for Helsingin Sanomat, 18 October–15 November 2021<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2021-11-15-KantarTNS.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2021-11-15-KantarTNS.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2021-11-15-KantarTNS.png" length="319755" type="image/png"/>
-      <pubDate>Sat, 20 Nov 2021 20:58:32 +0100</pubDate>
-      <dc:date>2021-11-20T20:58:32.118671+01:00</dc:date>
     </item>
   </channel>
 </rss>
