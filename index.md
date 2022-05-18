@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | KOK | KESK | PS | SDP | VIHR | VAS | SFP | KD | SIN | LIIK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 26 May 2019 | General Election | 22.6% <br> 3 | 19.7% <br> 3 | 12.9% <br> 2 | 12.3% <br> 2 | 9.3% <br> 1 | 9.3% <br> 1 | 6.8% <br> 1 | 5.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 22–26% <br> 4–5 | 11–15% <br> 2 | 13–16% <br> 2–3 | 17–21% <br> 3–4 | 8–10% <br> 1–2 | 7–10% <br> 1–2 | 4–5% <br> 0–1 | 3–4% <br> 0 | N/A <br> N/A | 2–3% <br> 0 |
+| N/A | [Poll Average](average.html) | 22–26% <br> 4–5 | 11–15% <br> 2 | 13–17% <br> 2–3 | 16–20% <br> 3–4 | 8–10% <br> 1–2 | 7–10% <br> 1–2 | 4–5% <br> 0–1 | 3–4% <br> 0 | N/A <br> N/A | 2–3% <br> 0 |
+| [18 April–13 May 2022](2022-05-13-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 22–26% <br> 4–5 | 11–14% <br> 2 | 14–17% <br> 2–3 | 17–21% <br> 3–4 | 8–11% <br> 1–2 | 6–9% <br> 1 | 4–5% <br> 0–1 | 3–5% <br> 0 | N/A <br> N/A | 2–3% <br> 0 |
 | [7 April–3 May 2022](2022-05-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 22–26% <br> 4–5 | 12–15% <br> 2–3 | 13–16% <br> 2–3 | 16–20% <br> 3 | 8–10% <br> 1–2 | 8–10% <br> 1–2 | 3–5% <br> 0–1 | 3–4% <br> 0 | N/A <br> N/A | 2–3% <br> 0 |
-| [14 March–13 April 2022](2022-04-13-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 22–26% <br> 4–5 | 11–14% <br> 2 | 13–16% <br> 2–3 | 18–21% <br> 3–4 | 8–10% <br> 1–2 | 7–9% <br> 1 | 4–5% <br> 0–1 | 3–4% <br> 0 | N/A <br> N/A | 2–3% <br> 0 |
 | 26 May 2019 | General Election | 22.6% <br> 3 | 19.7% <br> 3 | 12.9% <br> 2 | 12.3% <br> 2 | 9.3% <br> 1 | 9.3% <br> 1 | 6.8% <br> 1 | 5.2% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
