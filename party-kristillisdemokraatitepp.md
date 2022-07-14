@@ -10,7 +10,8 @@ Last result: **5.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 2.7–4.1% | 2.6–4.3% | 2.5–4.5% | 2.2–4.8% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.9–4.1% | 2.8–4.3% | 2.6–4.5% | 2.4–4.9% |
+| [6 June–5 July 2022](2022-07-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3.3% | 2.8–3.9% | 2.7–4.1% | 2.5–4.3% | 2.3–4.6% |
 | [16 May–10 June 2022](2022-06-10-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3.6% | 3.1–4.3% | 2.9–4.5% | 2.8–4.6% | 2.6–5.0% |
 | [4–31 May 2022](2022-05-31-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3.0% | 2.6–3.6% | 2.5–3.7% | 2.4–3.9% | 2.2–4.1% |
 | [18 April–13 May 2022](2022-05-13-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3.6% | 3.1–4.2% | 2.9–4.4% | 2.8–4.5% | 2.6–4.9% |
@@ -92,9 +93,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 62% | 96% | Median |
-| 3.5–4.5% | 32% | 34% |  |
+| 1.5–2.5% | 1.4% | 100% |  |
+| 2.5–3.5% | 54% | 98.6% | Median |
+| 3.5–4.5% | 43% | 45% |  |
 | 4.5–5.5% | 2% | 2% | Last Result |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -108,6 +109,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [6 June–5 July 2022](2022-07-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0 |
 | [16 May–10 June 2022](2022-06-10-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0 |
 | [4–31 May 2022](2022-05-31-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0 |
 | [18 April–13 May 2022](2022-05-13-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0 |
