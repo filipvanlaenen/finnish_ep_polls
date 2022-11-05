@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 28 Jan 2021 21:33:48 +0100</pubDate>
     <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 10 October–1 November 2022 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2022-11-01-Taloustutkimus.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Taloustutkimus for Yle, 10 October–1 November 2022<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2022-11-01-Taloustutkimus.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2022-11-01-Taloustutkimus-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2022-11-01-Taloustutkimus-seating-plan.png" length="345330" type="image/png"/>
+      <pubDate>Sat, 5 Nov 2022 18:23:59 +0100</pubDate>
+      <dc:date>2022-11-05T18:23:59.310182+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 10 October–1 November 2022 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2022-11-01-Taloustutkimus.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Taloustutkimus for Yle, 10 October–1 November 2022<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2022-11-01-Taloustutkimus.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2022-11-01-Taloustutkimus-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2022-11-01-Taloustutkimus-seats.png" length="243991" type="image/png"/>
+      <pubDate>Sat, 5 Nov 2022 18:23:59 +0100</pubDate>
+      <dc:date>2022-11-05T18:23:59.310182+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 10 October–1 November 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2022-11-01-Taloustutkimus.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Taloustutkimus for Yle, 10 October–1 November 2022<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2022-11-01-Taloustutkimus.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2022-11-01-Taloustutkimus.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2022-11-01-Taloustutkimus.png" length="315431" type="image/png"/>
+      <pubDate>Sat, 5 Nov 2022 18:23:59 +0100</pubDate>
+      <dc:date>2022-11-05T18:23:59.310182+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 12 September–14 October 2022 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2022-10-14-KantarTNS.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Kantar TNS for Helsingin Sanomat, 12 September–14 October 2022<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2022-10-14-KantarTNS.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2022-10-14-KantarTNS-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2022-06-10-KantarTNS.png" length="318978" type="image/png"/>
       <pubDate>Thu, 16 Jun 2022 16:34:03 +0200</pubDate>
       <dc:date>2022-06-16T16:34:03.435714+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Taloustutkimus for Yle, 4–31 May 2022 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-31-Taloustutkimus.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Taloustutkimus for Yle, 4–31 May 2022<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-31-Taloustutkimus.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-31-Taloustutkimus-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-31-Taloustutkimus-seating-plan.png" length="342119" type="image/png"/>
-      <pubDate>Mon, 6 Jun 2022 09:45:18 +0200</pubDate>
-      <dc:date>2022-06-06T09:45:18.94299+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Taloustutkimus for Yle, 4–31 May 2022 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-31-Taloustutkimus.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Taloustutkimus for Yle, 4–31 May 2022<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-31-Taloustutkimus.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-31-Taloustutkimus-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-31-Taloustutkimus-seats.png" length="219261" type="image/png"/>
-      <pubDate>Mon, 6 Jun 2022 09:45:18 +0200</pubDate>
-      <dc:date>2022-06-06T09:45:18.94299+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Taloustutkimus for Yle, 4–31 May 2022 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-31-Taloustutkimus.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Taloustutkimus for Yle, 4–31 May 2022<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-31-Taloustutkimus.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-31-Taloustutkimus.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2022-05-31-Taloustutkimus.png" length="303927" type="image/png"/>
-      <pubDate>Mon, 6 Jun 2022 09:45:18 +0200</pubDate>
-      <dc:date>2022-06-06T09:45:18.94299+02:00</dc:date>
     </item>
   </channel>
 </rss>
