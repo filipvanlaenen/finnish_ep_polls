@@ -10,7 +10,8 @@ Last result: **9.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.3% | 7.4–9.2% | 7.1–9.5% | 6.9–9.7% | 6.5–10.2% |
+| N/A | [Poll Average](average.html) | 8.5% | 7.4–9.5% | 7.2–9.8% | 6.9–10.1% | 6.5–10.5% |
+| [7 November–5 December 2022](2022-12-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 8.9% | 8.1–9.8% | 7.9–10.0% | 7.7–10.3% | 7.3–10.7% |
 | [17 October–11 November 2022](2022-11-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8.0% | 7.2–8.9% | 7.0–9.2% | 6.8–9.4% | 6.4–9.8% |
 | [10 October–1 November 2022](2022-11-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 8.5% | 7.7–9.4% | 7.5–9.7% | 7.3–9.9% | 6.9–10.4% |
 | [12 September–14 October 2022](2022-10-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8.3% | 7.5–9.2% | 7.3–9.5% | 7.1–9.7% | 6.7–10.2% |
@@ -102,12 +103,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.6% | 100% |  |
-| 6.5–7.5% | 15% | 99.4% |  |
-| 7.5–8.5% | 50% | 85% | Median |
-| 8.5–9.5% | 31% | 35% | Last Result |
-| 9.5–10.5% | 4% | 4% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
+| 5.5–6.5% | 0.5% | 100% |  |
+| 6.5–7.5% | 12% | 99.5% |  |
+| 7.5–8.5% | 41% | 87% | Median |
+| 8.5–9.5% | 37% | 47% | Last Result |
+| 9.5–10.5% | 9% | 9% |  |
+| 10.5–11.5% | 0.5% | 0.5% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -119,7 +120,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 1–2 |
+| [7 November–5 December 2022](2022-12-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [17 October–11 November 2022](2022-11-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 1 | 1 | 1 | 1 | 1 |
 | [10 October–1 November 2022](2022-11-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1 | 1 | 1 | 1 | 1 |
 | [12 September–14 October 2022](2022-10-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 1 | 1 | 1 | 1 | 1–2 |
@@ -212,8 +214,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 99.9% | 100% | Last Result, Median |
-| 2 | 0.1% | 0.1% |  |
+| 1 | 97% | 100% | Last Result, Median |
+| 2 | 3% | 3% |  |
 | 3 | 0% | 0% |  |
 
 
