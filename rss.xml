@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 18 Nov 2022 17:15:44 +0100</pubDate>
+    <pubDate>Thu, 08 Dec 2022 20:36:28 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 7 November–5 December 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2022-12-05-Taloustutkimus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ID): 3 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Liike Nyt (NI): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2022-12-05-Taloustutkimus-seats.png"
+        length="209372"
+        type="image/png"/>
+      <pubDate>Thu, 08 Dec 2022 20:36:28 +0100</pubDate>
+      <dc:date>2022-12-08T20:36:28.607067+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 7 November–5 December 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2022-12-05-Taloustutkimus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2022-12-05-Taloustutkimus-coalitions-seats.png"
+        length="147874"
+        type="image/png"/>
+      <pubDate>Thu, 08 Dec 2022 20:36:28 +0100</pubDate>
+      <dc:date>2022-12-08T20:36:28.607067+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 7 November–5 December 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2022-12-05-Taloustutkimus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (RE): 7.8–10.4%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 22.1–26.0%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ID): 15.7–19.2%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 17.2–20.7%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 8.4–11.1%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 7.7–10.3%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 3.7–5.6%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 3.2–5.0%&lt;/li&gt;&lt;li&gt;Liike Nyt (NI): 1.1–2.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2022-12-05-Taloustutkimus.png"
+        length="315186"
+        type="image/png"/>
+      <pubDate>Thu, 08 Dec 2022 20:36:28 +0100</pubDate>
+      <dc:date>2022-12-08T20:36:28.607067+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 17 October–11 November 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2022-11-11-KantarTNS.html#seats</link>
@@ -2349,6 +2379,6 @@
       <pubDate>Sun, 12 Jul 2020 22:34:32 +0200</pubDate>
       <dc:date>2020-07-12T22:34:32+02:00</dc:date>
     </item>
-    <dc:date>2022-11-18T17:15:44.516002+01:00</dc:date>
+    <dc:date>2022-12-08T20:36:28.607067+01:00</dc:date>
   </channel>
 </rss>
