@@ -11,7 +11,7 @@ Last result: **22.6%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 23.8% | 22.5–25.1% | 22.1–25.5% | 21.8–25.8% | 21.2–26.4% |
-| [14 November–6 December 2022](2022-12-06-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 23.5% | 22.3–24.8% | 21.9–25.2% | 21.6–25.5% | 21.0–26.2% |
+| [14 November–16 December 2022](2022-12-16-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 23.5% | 22.3–24.8% | 21.9–25.2% | 21.6–25.5% | 21.0–26.2% |
 | [7 November–5 December 2022](2022-12-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 24.0% | 22.8–25.3% | 22.4–25.7% | 22.1–26.0% | 21.6–26.6% |
 | [17 October–11 November 2022](2022-11-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 24.2% | 22.9–25.6% | 22.5–26.0% | 22.2–26.4% | 21.6–27.0% |
 | [10 October–1 November 2022](2022-11-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 23.9% | 22.6–25.3% | 22.3–25.7% | 22.0–26.0% | 21.4–26.6% |
@@ -123,7 +123,7 @@ Last result: **3** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [14 November–6 December 2022](2022-12-06-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4 | 4 | 4–5 | 4–5 | 3–5 |
+| [14 November–16 December 2022](2022-12-16-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [7 November–5 December 2022](2022-12-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [17 October–11 November 2022](2022-11-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [10 October–1 November 2022](2022-11-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4 | 4 | 4 | 4 | 3–5 |
