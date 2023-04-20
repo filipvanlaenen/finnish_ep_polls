@@ -107,7 +107,7 @@ Only polls for which at least the sample size has been published are included in
 + **Bottom half of each row:** Seat projections for the European Parliament (95% confidence interval)
 + **KOK:** Kansallinen Kokoomus (EPP)
 + **KESK:** Suomen Keskusta (RE)
-+ **PS:** Perussuomalaiset (ID)
++ **PS:** Perussuomalaiset (ECR)
 + **SDP:** Suomen Sosialidemokraattinen Puolue (S&D)
 + **VIHR:** Vihreä liitto (Greens/EFA)
 + **VAS:** Vasemmistoliitto (GUE/NGL)
