@@ -11,7 +11,7 @@
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Kansallinen Kokoomus (EPP) | 22.6% | 19.8% | 18.6–21.0% |18.3–21.4% |18.0–21.7% |17.5–22.3% |
-| Perussuomalaiset (ID) | 12.9% | 19.5% | 18.4–20.8% |18.0–21.1% |17.8–21.4% |17.2–22.0% |
+| Perussuomalaiset (ECR) | 12.9% | 19.5% | 18.4–20.8% |18.0–21.1% |17.8–21.4% |17.2–22.0% |
 | Suomen Sosialidemokraattinen Puolue (S&D) | 12.3% | 18.7% | 17.6–19.9% |17.3–20.3% |17.0–20.6% |16.4–21.2% |
 | Suomen Keskusta (RE) | 19.7% | 10.7% | 9.8–11.7% |9.6–12.0% |9.4–12.2% |9.0–12.7% |
 | Vihreä liitto (Greens/EFA) | 9.3% | 9.0% | 8.2–9.9% |8.0–10.2% |7.8–10.4% |7.4–10.9% |
@@ -33,7 +33,7 @@
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | <a href="#kansallinen-kokoomus-(epp)">Kansallinen Kokoomus (EPP)</a> | 3 | 3 | 3–4 |3–4 |3–4 |3–4 |
-| <a href="#perussuomalaiset-(id)">Perussuomalaiset (ID)</a> | 2 | 3 | 3–4 |3–4 |3–4 |3–4 |
+| <a href="#perussuomalaiset-(ecr)">Perussuomalaiset (ECR)</a> | 2 | 3 | 3–4 |3–4 |3–4 |3–4 |
 | <a href="#suomen-sosialidemokraattinen-puolue-(s&d)">Suomen Sosialidemokraattinen Puolue (S&D)</a> | 2 | 3 | 3–4 |3–4 |3–4 |3–4 |
 | <a href="#suomen-keskusta-(re)">Suomen Keskusta (RE)</a> | 3 | 2 | 1–2 |1–2 |1–2 |1–2 |
 | <a href="#vihreä-liitto-(greens/efa)">Vihreä liitto (Greens/EFA)</a> | 1 | 1 | 1–2 |1–2 |1–2 |1–2 |
@@ -54,11 +54,11 @@
 | 4 | 38% | 38% |  |
 | 5 | 0% | 0% |  |
 
-### Perussuomalaiset (ID)
+### Perussuomalaiset (ECR)
 
-*For a full overview of the results for this party, see the [Perussuomalaiset (ID)](party-perussuomalaisetid.html) page.*
+*For a full overview of the results for this party, see the [Perussuomalaiset (ECR)](party-perussuomalaisetecr.html) page.*
 
-![Graph with seats probability mass function not yet produced](2023-03-28-Taloustutkimus-seats-pmf-perussuomalaisetid.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2023-03-28-Taloustutkimus-seats-pmf-perussuomalaisetecr.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -160,7 +160,6 @@
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | Kansallinen Kokoomus (EPP) – Kristillisdemokraatit (EPP) | 3 | 4 | 0% | 3–4 | 3–4 | 3–4 | 3–5 |
-| Perussuomalaiset (ID) | 2 | 3 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
 | Suomen Sosialidemokraattinen Puolue (S&D) | 2 | 3 | 0% | 3–4 | 3–4 | 3–4 | 3–4 |
 | Suomen Keskusta (RE) – Svenska folkpartiet i Finland (RE) | 4 | 2 | 0% | 1–2 | 1–2 | 1–3 | 1–3 |
 | Vasemmistoliitto (GUE/NGL) | 1 | 1 | 0% | 1 | 1 | 1–2 | 1–2 |
@@ -177,17 +176,6 @@
 | 4 | 49% | 51% |  |
 | 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
-
-### Perussuomalaiset (ID)
-
-![Graph with seats probability mass function not yet produced](2023-03-28-Taloustutkimus-coalitions-seats-pmf-ps.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0% | 100% | Last Result |
-| 3 | 71% | 100% | Median |
-| 4 | 29% | 29% |  |
-| 5 | 0% | 0% |  |
 
 ### Suomen Sosialidemokraattinen Puolue (S&D)
 
