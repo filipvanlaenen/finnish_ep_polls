@@ -10,7 +10,8 @@ Last result: **9.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.8% | 7.7–9.8% | 7.4–10.0% | 7.2–10.3% | 6.7–10.8% |
+| N/A | [Poll Average](average.html) | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
+| [3 April–2 May 2023](2023-05-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 7.5% | 6.8–8.3% | 6.6–8.5% | 6.4–8.7% | 6.1–9.1% |
 | [1–28 March 2023](2023-03-28-Taloustutkimus.html) | Taloustutkimus <br> Yle | 9.0% | 8.2–9.9% | 8.0–10.2% | 7.8–10.4% | 7.4–10.9% |
 | [9–23 March 2023](2023-03-23-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8.4% | 7.5–9.4% | 7.2–9.8% | 7.0–10.0% | 6.6–10.5% |
 | [13 February–17 March 2023](2023-03-17-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8.3% | 7.5–9.2% | 7.3–9.4% | 7.1–9.6% | 6.8–10.1% |
@@ -74,7 +75,7 @@ Last result: **9.3%** (General Election of 26 May 2019)
 | [3–30 June 2020](2020-06-30-Taloustutkimus.html) | Taloustutkimus <br> Yle | 10.9% | 10.0–12.0% | 9.7–12.3% | 9.5–12.5% | 9.1–13.0% |
 | [18 May–14 June 2020](2020-06-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 10.8% | 10.0–11.7% | 9.8–12.0% | 9.6–12.2% | 9.2–12.7% |
 | [11 May–2 June 2020](2020-06-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 11.9% | 10.9–13.0% | 10.6–13.3% | 10.4–13.5% | 9.9–14.1% |
-| [20 April–14 May 2020](2020-05-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 11.4% | 10.5–12.5% | 10.2–12.8% | 10.0–13.1% | 9.6–13.6% |
+| [20 April–14 May 2020](2020-05-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 11.2% | 10.5–12.5% | 10.2–12.8% | 10.0–13.1% | 9.6–13.6% |
 | [14 April–5 May 2020](2020-05-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 11.4% | 10.5–12.5% | 10.2–12.8% | 10.0–13.1% | 9.5–13.6% |
 | [14–29 April 2020](2020-04-29-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 9.7% | 8.7–10.9% | 8.4–11.2% | 8.2–11.5% | 7.7–12.1% |
 | [16 March–15 April 2020](2020-04-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 11.2% | 10.3–12.2% | 10.0–12.5% | 9.8–12.8% | 9.4–13.3% |
@@ -112,13 +113,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.2% | 100% |  |
-| 6.5–7.5% | 6% | 99.8% |  |
-| 7.5–8.5% | 33% | 94% |  |
-| 8.5–9.5% | 45% | 60% | Last Result, Median |
-| 9.5–10.5% | 14% | 15% |  |
-| 10.5–11.5% | 1.1% | 1.1% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 5.5–6.5% | 4% | 100% |  |
+| 6.5–7.5% | 48% | 96% |  |
+| 7.5–8.5% | 43% | 47% | Median |
+| 8.5–9.5% | 4% | 4% | Last Result |
+| 9.5–10.5% | 0% | 0% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -129,7 +129,8 @@ Last result: **1** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1 |
+| [3 April–2 May 2023](2023-05-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1 | 1 | 1 | 1 | 1 |
 | [1–28 March 2023](2023-03-28-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–23 March 2023](2023-03-23-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 1 | 1 | 1 | 1–2 | 1–2 |
 | [13 February–17 March 2023](2023-03-17-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 1 | 1 | 1 | 1 | 1–2 |
@@ -232,8 +233,6 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 93% | 100% | Last Result, Median |
-| 2 | 7% | 7% |  |
-| 3 | 0% | 0% |  |
+| 1 | 100% | 100% | Last Result, Median |
 
 

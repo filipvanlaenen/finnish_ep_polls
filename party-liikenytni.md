@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.9% | 1.5–2.4% | 1.4–2.6% | 1.3–2.7% | 1.1–3.0% |
+| N/A | [Poll Average](average.html) | 2.0% | 1.7–2.4% | 1.6–2.6% | 1.5–2.7% | 1.3–2.9% |
+| [3 April–2 May 2023](2023-05-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2.0% | 1.7–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–2.9% |
 | [1–28 March 2023](2023-03-28-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1.8% | 1.5–2.3% | 1.4–2.4% | 1.3–2.5% | 1.1–2.8% |
 | [9–23 March 2023](2023-03-23-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 1.9% | 1.5–2.5% | 1.4–2.7% | 1.3–2.8% | 1.1–3.1% |
 | [13 February–17 March 2023](2023-03-17-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 2.2% | 1.8–2.7% | 1.7–2.8% | 1.6–3.0% | 1.4–3.2% |
@@ -112,9 +113,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 15% | 100% |  |
-| 1.5–2.5% | 80% | 85% | Median |
-| 2.5–3.5% | 5% | 5% |  |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 89% | 95% | Median |
+| 2.5–3.5% | 6% | 6% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -127,6 +128,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [3 April–2 May 2023](2023-05-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0 |
 | [1–28 March 2023](2023-03-28-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0 |
 | [9–23 March 2023](2023-03-23-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0 |
 | [13 February–17 March 2023](2023-03-17-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0 |

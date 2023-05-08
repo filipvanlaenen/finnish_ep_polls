@@ -10,7 +10,8 @@ Last result: **12.9%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 19.4% | 18.1–20.7% | 17.7–21.1% | 17.4–21.4% | 16.8–22.1% |
+| N/A | [Poll Average](average.html) | 20.6% | 19.5–21.7% | 19.2–22.1% | 18.9–22.4% | 18.4–22.9% |
+| [3 April–2 May 2023](2023-05-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 20.6% | 19.5–21.7% | 19.2–22.1% | 18.9–22.4% | 18.4–22.9% |
 | [1–28 March 2023](2023-03-28-Taloustutkimus.html) | Taloustutkimus <br> Yle | 19.5% | 18.4–20.8% | 18.0–21.1% | 17.8–21.4% | 17.2–22.0% |
 | [9–23 March 2023](2023-03-23-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 19.2% | 17.9–20.7% | 17.5–21.1% | 17.2–21.5% | 16.5–22.2% |
 | [13 February–17 March 2023](2023-03-17-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 19.3% | 18.1–20.5% | 17.8–20.9% | 17.5–21.2% | 17.0–21.8% |
@@ -74,7 +75,7 @@ Last result: **12.9%** (General Election of 26 May 2019)
 | [3–30 June 2020](2020-06-30-Taloustutkimus.html) | Taloustutkimus <br> Yle | 18.1% | 16.9–19.4% | 16.6–19.7% | 16.3–20.0% | 15.7–20.7% |
 | [18 May–14 June 2020](2020-06-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 17.6% | 16.6–18.7% | 16.3–19.0% | 16.0–19.3% | 15.5–19.8% |
 | [11 May–2 June 2020](2020-06-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 18.1% | 16.9–19.4% | 16.6–19.7% | 16.3–20.0% | 15.7–20.7% |
-| [20 April–14 May 2020](2020-05-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 18.5% | 17.3–19.8% | 17.0–20.1% | 16.7–20.4% | 16.1–21.0% |
+| [20 April–14 May 2020](2020-05-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 18.1% | 17.3–19.8% | 17.0–20.1% | 16.7–20.4% | 16.1–21.0% |
 | [14 April–5 May 2020](2020-05-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 17.9% | 16.7–19.1% | 16.4–19.5% | 16.1–19.8% | 15.5–20.4% |
 | [14–29 April 2020](2020-04-29-Tietoykkönen.html) | Tietoykkönen <br> Iltalehti and Uusi Suomi | 18.8% | 17.4–20.3% | 17.0–20.7% | 16.7–21.1% | 16.1–21.8% |
 | [16 March–15 April 2020](2020-04-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 20.2% | 19.0–21.5% | 18.7–21.8% | 18.4–22.2% | 17.8–22.8% |
@@ -114,15 +115,16 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0% | 100% | Last Result |
 | 13.5–14.5% | 0% | 100% |  |
 | 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.3% | 100% |  |
-| 16.5–17.5% | 3% | 99.7% |  |
-| 17.5–18.5% | 16% | 97% |  |
-| 18.5–19.5% | 36% | 80% | Median |
-| 19.5–20.5% | 31% | 44% |  |
-| 20.5–21.5% | 11% | 13% |  |
-| 21.5–22.5% | 2% | 2% |  |
-| 22.5–23.5% | 0.1% | 0.1% |  |
-| 23.5–24.5% | 0% | 0% |  |
+| 15.5–16.5% | 0% | 100% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.8% | 100% |  |
+| 18.5–19.5% | 11% | 99.2% |  |
+| 19.5–20.5% | 36% | 88% |  |
+| 20.5–21.5% | 38% | 52% | Median |
+| 21.5–22.5% | 13% | 14% |  |
+| 22.5–23.5% | 1.4% | 1.5% |  |
+| 23.5–24.5% | 0.1% | 0.1% |  |
+| 24.5–25.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -133,7 +135,8 @@ Last result: **2** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [3 April–2 May 2023](2023-05-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [1–28 March 2023](2023-03-28-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [9–23 March 2023](2023-03-23-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [13 February–17 March 2023](2023-03-17-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -237,8 +240,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 2 | 0% | 100% | Last Result |
-| 3 | 77% | 100% | Median |
-| 4 | 23% | 23% |  |
+| 3 | 49% | 100% |  |
+| 4 | 51% | 51% | Median |
 | 5 | 0% | 0% |  |
 
 
