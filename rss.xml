@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 25 May 2023 21:36:55 +0200</pubDate>
+    <pubDate>Sun, 11 Jun 2023 15:03:42 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 3 May–6 June 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2023-06-06-Taloustutkimus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Liike Nyt (NI): 0 seats&lt;/li&gt;&lt;li&gt;Suomen Keskusta (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 3–4 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2023-06-06-Taloustutkimus-seats.png"
+        length="245725"
+        type="image/png"/>
+      <pubDate>Sun, 11 Jun 2023 15:03:42 +0200</pubDate>
+      <dc:date>2023-06-11T15:03:42.735694+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 3 May–6 June 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2023-06-06-Taloustutkimus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2023-06-06-Taloustutkimus-coalitions-seats.png"
+        length="194362"
+        type="image/png"/>
+      <pubDate>Sun, 11 Jun 2023 15:03:42 +0200</pubDate>
+      <dc:date>2023-06-11T15:03:42.735694+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 3 May–6 June 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2023-06-06-Taloustutkimus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 3.2–4.9%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 20.8–24.3%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 6.4–8.7%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 18.0–21.3%&lt;/li&gt;&lt;li&gt;Liike Nyt (NI): 1.2–2.3%&lt;/li&gt;&lt;li&gt;Suomen Keskusta (RE): 8.5–11.0%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 19.3–22.8%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 6.3–8.5%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 3.7–5.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2023-06-06-Taloustutkimus.png"
+        length="312771"
+        type="image/png"/>
+      <pubDate>Sun, 11 Jun 2023 15:03:42 +0200</pubDate>
+      <dc:date>2023-06-11T15:03:42.735694+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 3 April–12 May 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2023-05-12-KantarTNS.html#seats</link>
@@ -1450,7 +1480,7 @@
       <dc:date>2020-10-21T18:06:41+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Taloustutkimus, 7 September–6 October 2020 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Taloustutkimus for Yle, 7 September–6 October 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2020-10-06-Taloustutkimus.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 3 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Liike Nyt (NI): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2020-10-06-Taloustutkimus-seats.png"
@@ -1460,7 +1490,7 @@
       <dc:date>2020-10-10T22:06:08+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Taloustutkimus, 7 September–6 October 2020 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Taloustutkimus for Yle, 7 September–6 October 2020 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2020-10-06-Taloustutkimus.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2020-10-06-Taloustutkimus-coalitions-seats.png"
@@ -1470,7 +1500,7 @@
       <dc:date>2020-10-10T22:06:08+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Taloustutkimus, 7 September–6 October 2020 – Voting Intentions</title>
+      <title>Opinion Poll by Taloustutkimus for Yle, 7 September–6 October 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2020-10-06-Taloustutkimus.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Suomen Keskusta (RE): 10.0–13.2%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 15.9–19.7%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 17.1–21.0%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 19.8–23.9%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 9.4–12.6%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 6.6–9.4%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 3.6–5.7%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 2.5–4.4%&lt;/li&gt;&lt;li&gt;Liike Nyt (NI): 1.3–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2020-10-06-Taloustutkimus.png"
@@ -2619,6 +2649,6 @@
       <pubDate>Sun, 12 Jul 2020 22:34:32 +0200</pubDate>
       <dc:date>2020-07-12T22:34:32+02:00</dc:date>
     </item>
-    <dc:date>2023-05-25T21:36:55.98118+02:00</dc:date>
+    <dc:date>2023-06-11T15:03:42.735694+02:00</dc:date>
   </channel>
 </rss>
