@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.0% | 1.6–2.4% | 1.5–2.5% | 1.4–2.6% | 1.3–2.9% |
+| N/A | [Poll Average](average.html) | 1.8% | 1.5–2.2% | 1.4–2.4% | 1.3–2.5% | 1.1–2.7% |
+| [3 May–6 June 2023](2023-06-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1.7% | 1.4–2.1% | 1.3–2.2% | 1.2–2.3% | 1.1–2.6% |
 | [3 April–12 May 2023](2023-05-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 1.9% | 1.6–2.3% | 1.5–2.4% | 1.4–2.5% | 1.2–2.8% |
 | [3 April–2 May 2023](2023-05-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2.0% | 1.7–2.5% | 1.6–2.6% | 1.5–2.7% | 1.3–2.9% |
 | [1–28 March 2023](2023-03-28-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1.8% | 1.5–2.3% | 1.4–2.4% | 1.3–2.5% | 1.1–2.8% |
@@ -67,7 +68,7 @@ Last result: **0.0%** (General Election of 26 May 2019)
 | [19 October–20 November 2020](2020-11-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 2.2% | 1.8–2.7% | 1.7–2.9% | 1.6–3.0% | 1.5–3.2% |
 | [12 October–3 November 2020](2020-11-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1.6% | 1.3–2.1% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% |
 | [14 September–16 October 2020](2020-10-16-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 2.1% | 1.7–2.6% | 1.6–2.7% | 1.5–2.8% | 1.4–3.1% |
-| [7 September–6 October 2020](2020-10-06-Taloustutkimus.html) | Taloustutkimus | 1.8% | 1.4–2.3% | 1.3–2.5% | 1.3–2.6% | 1.1–2.9% |
+| [7 September–6 October 2020](2020-10-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1.8% | 1.4–2.3% | 1.3–2.5% | 1.3–2.6% | 1.1–2.9% |
 | [17 August–12 September 2020](2020-09-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 2.0% | 1.6–2.5% | 1.5–2.7% | 1.4–2.8% | 1.3–3.0% |
 | [10 August–1 September 2020](2020-09-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1.3% | 1.0–1.8% | 0.9–1.9% | 0.9–2.0% | 0.7–2.2% |
 | [13 July–14 August 2020](2020-08-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 1.7% | 1.4–2.2% | 1.3–2.3% | 1.2–2.4% | 1.1–2.6% |
@@ -114,9 +115,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 7% | 100% |  |
-| 1.5–2.5% | 89% | 93% | Median |
-| 2.5–3.5% | 4% | 4% |  |
+| 0.5–1.5% | 18% | 100% |  |
+| 1.5–2.5% | 81% | 82% | Median |
+| 2.5–3.5% | 1.4% | 1.4% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -129,6 +130,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [3 May–6 June 2023](2023-06-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0 |
 | [3 April–12 May 2023](2023-05-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0 |
 | [3 April–2 May 2023](2023-05-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0 |
 | [1–28 March 2023](2023-03-28-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0 |
@@ -185,7 +187,7 @@ Last result: **0** seats (General Election of 26 May 2019)
 | [19 October–20 November 2020](2020-11-20-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0 |
 | [12 October–3 November 2020](2020-11-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0 |
 | [14 September–16 October 2020](2020-10-16-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0 |
-| [7 September–6 October 2020](2020-10-06-Taloustutkimus.html) | Taloustutkimus | 0 | 0 | 0 | 0 | 0 |
+| [7 September–6 October 2020](2020-10-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0 |
 | [17 August–12 September 2020](2020-09-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0 |
 | [10 August–1 September 2020](2020-09-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0 |
 | [13 July–14 August 2020](2020-08-14-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0 |
