@@ -11,7 +11,7 @@ Last result: **12.3%** (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22.2% | 20.7–23.6% | 20.3–24.1% | 20.0–24.4% | 19.4–25.1% |
-| [17 July–11 August 2023](2023-08-11-KantarTNS.html) | Kantar TNS | 21.5% | 20.3–22.8% | 20.0–23.1% | 19.7–23.4% | 19.1–24.0% |
+| [17 July–11 August 2023](2023-08-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 21.5% | 20.3–22.8% | 20.0–23.1% | 19.7–23.4% | 19.1–24.0% |
 | [5 July–1 August 2023](2023-08-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 22.8% | 21.6–24.0% | 21.3–24.4% | 21.0–24.7% | 20.4–25.3% |
 | [19 June–15 July 2023](2023-07-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 19.4% | 18.2–20.6% | 17.9–21.0% | 17.6–21.3% | 17.1–21.9% |
 | [12 June–4 July 2023](2023-07-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 20.6% | 19.4–21.8% | 19.1–22.1% | 18.8–22.5% | 18.3–23.0% |
@@ -146,7 +146,7 @@ Last result: **2** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4 | 3–4 | 3–4 | 3–5 |
-| [17 July–11 August 2023](2023-08-11-KantarTNS.html) | Kantar TNS | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [17 July–11 August 2023](2023-08-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [5 July–1 August 2023](2023-08-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4 | 4 | 4 | 4 | 3–5 |
 | [19 June–15 July 2023](2023-07-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12 June–4 July 2023](2023-07-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
