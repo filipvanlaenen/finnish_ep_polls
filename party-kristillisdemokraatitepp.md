@@ -137,13 +137,13 @@ Last result: **0** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
-| [14 August–8 September 2023](2023-09-08-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0–1 |
-| [2 August–5 September 2023](2023-09-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0–1 |
-| [17 July–11 August 2023](2023-08-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| [14 August–8 September 2023](2023-09-08-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [2 August–5 September 2023](2023-09-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0–1 | 0–1 |
+| [17 July–11 August 2023](2023-08-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0–1 |
 | [5 July–1 August 2023](2023-08-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0–1 |
-| [19 June–15 July 2023](2023-07-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0–1 |
-| [12 June–4 July 2023](2023-07-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0 |
+| [19 June–15 July 2023](2023-07-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0 | 0–1 | 0–1 |
+| [12 June–4 July 2023](2023-07-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0–1 |
 | [15 May–15 June 2023](2023-06-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0–1 |
 | [3 May–6 June 2023](2023-06-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0–1 |
 | [3 April–12 May 2023](2023-05-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0 |
@@ -250,8 +250,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.7% | 100% | Last Result, Median |
-| 1 | 1.3% | 1.3% |  |
+| 0 | 95% | 100% | Last Result, Median |
+| 1 | 5% | 5% |  |
 | 2 | 0% | 0% |  |
 
 

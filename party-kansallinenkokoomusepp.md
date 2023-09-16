@@ -140,13 +140,13 @@ Last result: **3** seats (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [14 August–8 September 2023](2023-09-08-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [2 August–5 September 2023](2023-09-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [17 July–11 August 2023](2023-08-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [5 July–1 August 2023](2023-08-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [19 June–15 July 2023](2023-07-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4 | 4 | 4 | 3–4 | 3–4 |
-| [12 June–4 July 2023](2023-07-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 3–4 | 3–4 | 3–4 |
+| [14 August–8 September 2023](2023-09-08-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4 | 4 | 4 | 3–4 | 3–4 |
+| [2 August–5 September 2023](2023-09-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [17 July–11 August 2023](2023-08-11-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4 | 4 | 4 | 4 | 3–5 |
+| [5 July–1 August 2023](2023-08-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [19 June–15 July 2023](2023-07-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4 | 4 | 4 | 4 | 3–5 |
+| [12 June–4 July 2023](2023-07-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4 | 4 | 4 | 3–4 | 3–5 |
 | [15 May–15 June 2023](2023-06-15-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [3 May–6 June 2023](2023-06-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4 | 4 | 4 | 3–4 | 3–4 |
 | [3 April–12 May 2023](2023-05-12-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -253,8 +253,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 37% | 100% | Last Result |
-| 4 | 63% | 63% | Median |
-| 5 | 0% | 0% |  |
+| 3 | 8% | 100% | Last Result |
+| 4 | 92% | 92% | Median |
+| 5 | 0.2% | 0.2% |  |
+| 6 | 0% | 0% |  |
 
 
