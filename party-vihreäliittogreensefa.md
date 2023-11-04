@@ -10,7 +10,8 @@ Last result: **9.3%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.8% | 7.8–9.8% | 7.6–10.1% | 7.4–10.3% | 7.0–10.8% |
+| N/A | [Poll Average](average.html) | 8.6% | 7.8–9.5% | 7.5–9.7% | 7.3–10.0% | 6.9–10.4% |
+| [4–31 October 2023](2023-10-31-Taloustutkimus.html) | Taloustutkimus <br> Yle | 8.7% | 7.9–9.6% | 7.7–9.9% | 7.5–10.1% | 7.1–10.6% |
 | [11 September–6 October 2023](2023-10-06-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8.4% | 7.6–9.3% | 7.4–9.6% | 7.2–9.8% | 6.8–10.3% |
 | [6 September–3 October 2023](2023-10-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 9.1% | 8.3–10.0% | 8.1–10.3% | 7.9–10.5% | 7.5–11.0% |
 | [14 August–8 September 2023](2023-09-08-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 8.6% | 7.8–9.5% | 7.6–9.8% | 7.4–10.0% | 7.0–10.4% |
@@ -124,11 +125,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 4% | 99.9% |  |
-| 7.5–8.5% | 33% | 96% |  |
-| 8.5–9.5% | 47% | 63% | Last Result, Median |
-| 9.5–10.5% | 15% | 16% |  |
-| 10.5–11.5% | 1.1% | 1.1% |  |
+| 6.5–7.5% | 5% | 99.9% |  |
+| 7.5–8.5% | 42% | 95% |  |
+| 8.5–9.5% | 44% | 53% | Last Result, Median |
+| 9.5–10.5% | 8% | 8% |  |
+| 10.5–11.5% | 0.3% | 0.3% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -141,6 +142,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [4–31 October 2023](2023-10-31-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [11 September–6 October 2023](2023-10-06-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 1 | 1 | 1 | 1–2 | 1–2 |
 | [6 September–3 October 2023](2023-10-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [14 August–8 September 2023](2023-09-08-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 1 | 1 | 1–2 | 1–2 | 1–2 |
