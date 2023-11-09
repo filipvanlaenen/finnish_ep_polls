@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Sat, 5 Aug 2023 14:49:35 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 9 October–3 November 2023 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2023-11-03-KantarTNS.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Kantar TNS for Helsingin Sanomat, 9 October–3 November 2023<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2023-11-03-KantarTNS.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2023-11-03-KantarTNS-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2023-11-03-KantarTNS-seating-plan.png" length="350176" type="image/png"/>
+      <pubDate>Thu, 9 Nov 2023 22:02:59 +0100</pubDate>
+      <dc:date>2023-11-09T22:02:59.940621112+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 9 October–3 November 2023 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2023-11-03-KantarTNS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Kantar TNS for Helsingin Sanomat, 9 October–3 November 2023<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2023-11-03-KantarTNS.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2023-11-03-KantarTNS-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2023-11-03-KantarTNS-seats.png" length="278137" type="image/png"/>
+      <pubDate>Thu, 9 Nov 2023 22:02:59 +0100</pubDate>
+      <dc:date>2023-11-09T22:02:59.940621112+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 9 October–3 November 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2023-11-03-KantarTNS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Kantar TNS for Helsingin Sanomat, 9 October–3 November 2023<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2023-11-03-KantarTNS.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2023-11-03-KantarTNS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2023-11-03-KantarTNS.png" length="331883" type="image/png"/>
+      <pubDate>Thu, 9 Nov 2023 22:02:59 +0100</pubDate>
+      <dc:date>2023-11-09T22:02:59.940621112+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 4–31 October 2023 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2023-10-31-Taloustutkimus.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Taloustutkimus for Yle, 4–31 October 2023<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2023-10-31-Taloustutkimus.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2023-10-31-Taloustutkimus-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2023-07-04-Taloustutkimus.png" length="315761" type="image/png"/>
       <pubDate>Sat, 22 Jul 2023 13:14:40 +0200</pubDate>
       <dc:date>2023-07-22T13:14:40.471261704+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 15 May–15 June 2023 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2023-06-15-KantarTNS.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Kantar TNS for Helsingin Sanomat, 15 May–15 June 2023<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2023-06-15-KantarTNS.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2023-06-15-KantarTNS-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2023-06-15-KantarTNS-seating-plan.png" length="345542" type="image/png"/>
-      <pubDate>Sat, 22 Jul 2023 14:10:34 +0200</pubDate>
-      <dc:date>2023-07-22T14:10:34.682441786+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 15 May–15 June 2023 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2023-06-15-KantarTNS.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Kantar TNS for Helsingin Sanomat, 15 May–15 June 2023<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2023-06-15-KantarTNS.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2023-06-15-KantarTNS-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2023-06-15-KantarTNS-seats.png" length="249003" type="image/png"/>
-      <pubDate>Sat, 22 Jul 2023 14:10:34 +0200</pubDate>
-      <dc:date>2023-07-22T14:10:34.682441786+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Kantar TNS for Helsingin Sanomat, 15 May–15 June 2023 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2023-06-15-KantarTNS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Kantar TNS for Helsingin Sanomat, 15 May–15 June 2023<br/>Details on https://filipvanlaenen.github.io/finnish_ep_polls/2023-06-15-KantarTNS.html<br/><img src="https://filipvanlaenen.github.io/finnish_ep_polls/2023-06-15-KantarTNS.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2023-06-15-KantarTNS.png" length="319701" type="image/png"/>
-      <pubDate>Sat, 22 Jul 2023 14:10:34 +0200</pubDate>
-      <dc:date>2023-07-22T14:10:34.682441786+02:00</dc:date>
     </item>
   </channel>
 </rss>
