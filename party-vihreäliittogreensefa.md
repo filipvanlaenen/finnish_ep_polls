@@ -153,7 +153,7 @@ Last result: **1** seats (General Election of 26 May 2019)
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11 December 2023–12 January 2024](2024-01-12-Verian.html) | Verian <br> Helsingin Sanomat | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [29 November 2023–2 January 2024](2024-01-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1 | 1 | 1 | 1 | 1 |
-| [6 November–10 December 2023](2023-12-10-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [6 November–10 December 2023](2023-12-10-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 1 | 1 | 1 | 1–2 | 1–2 |
 | [1–28 November 2023](2023-11-28-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1 | 1 | 1 | 1 | 1–2 |
 | [9 October–3 November 2023](2023-11-03-KantarTNS.html) | Kantar TNS <br> Helsingin Sanomat | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [4–31 October 2023](2023-10-31-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1 | 1 | 1–2 | 1–2 | 1–2 |
