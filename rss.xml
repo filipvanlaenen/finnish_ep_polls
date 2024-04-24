@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 20 Apr 2024 14:30:45 +0200</pubDate>
+    <pubDate>Wed, 24 Apr 2024 17:12:37 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Verian, 18–25 March 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2024-03-25-Verian.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Suomen Keskusta (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 2–3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-03-25-Verian-seats.png"
+        length="302635"
+        type="image/png"/>
+      <pubDate>Wed, 24 Apr 2024 17:12:37 +0200</pubDate>
+      <dc:date>2024-04-24T17:12:37.73443+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian, 18–25 March 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2024-03-25-Verian.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-03-25-Verian-coalitions-seats.png"
+        length="212378"
+        type="image/png"/>
+      <pubDate>Wed, 24 Apr 2024 17:12:37 +0200</pubDate>
+      <dc:date>2024-04-24T17:12:37.73443+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian, 18–25 March 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2024-03-25-Verian.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 15.1–19.1%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 7.6–10.6%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 4.0–6.3%&lt;/li&gt;&lt;li&gt;Suomen Keskusta (RE): 10.4–13.9%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 4.8–7.4%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 19.9–24.3%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 9.4–12.8%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 12.3–15.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-03-25-Verian.png"
+        length="307131"
+        type="image/png"/>
+      <pubDate>Wed, 24 Apr 2024 17:12:37 +0200</pubDate>
+      <dc:date>2024-04-24T17:12:37.73443+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Euronews, 23 February–5 March 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2024-03-05-Ipsos.html#seats</link>
@@ -3129,6 +3159,6 @@
       <pubDate>Sun, 12 Jul 2020 22:34:32 +0200</pubDate>
       <dc:date>2020-07-12T22:34:32+02:00</dc:date>
     </item>
-    <dc:date>2024-04-20T14:30:45.81468+02:00</dc:date>
+    <dc:date>2024-04-24T17:12:37.73443+02:00</dc:date>
   </channel>
 </rss>
