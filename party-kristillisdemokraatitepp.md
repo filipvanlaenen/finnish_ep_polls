@@ -10,7 +10,9 @@ Last result: **5.2%** (General Election of 26 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.9% | 4.2–5.8% | 4.0–6.0% | 3.8–6.3% | 3.5–6.7% |
+| N/A | [Poll Average](average.html) | 4.7% | 3.7–5.6% | 3.5–5.8% | 3.3–6.0% | 3.0–6.5% |
+| [29 May–4 June 2024](2024-06-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4.0% | 3.4–4.7% | 3.2–4.9% | 3.1–5.1% | 2.9–5.5% |
+| [29 May–3 June 2024](2024-06-03-ÅboAkademi.html) | Åbo Akademi <br> MTV | 4.9% | 4.3–5.6% | 4.1–5.8% | 3.9–6.0% | 3.7–6.4% |
 | [20 May–1 June 2024](2024-06-01-Verian.html) | Verian <br> Helsingin Sanomat | 4.9% | 4.2–5.8% | 4.0–6.1% | 3.8–6.3% | 3.5–6.7% |
 | [23–29 April 2024](2024-04-29-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2.9% | 2.4–3.6% | 2.3–3.7% | 2.2–3.9% | 2.0–4.2% |
 | [18–25 March 2024](2024-03-25-Verian.html) | Verian | 6.0% | 5.2–6.9% | 5.0–7.1% | 4.8–7.4% | 4.5–7.8% |
@@ -134,11 +136,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.7% | 100% |  |
-| 3.5–4.5% | 25% | 99.3% |  |
-| 4.5–5.5% | 56% | 74% | Last Result, Median |
-| 5.5–6.5% | 17% | 18% |  |
-| 6.5–7.5% | 0.9% | 0.9% |  |
+| 2.5–3.5% | 6% | 100% |  |
+| 3.5–4.5% | 39% | 94% |  |
+| 4.5–5.5% | 45% | 55% | Last Result, Median |
+| 5.5–6.5% | 10% | 10% |  |
+| 6.5–7.5% | 0.4% | 0.4% |  |
 | 7.5–8.5% | 0% | 0% |  |
 
 
@@ -151,6 +153,8 @@ Last result: **0** seats (General Election of 26 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [29 May–4 June 2024](2024-06-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0–1 | 0–1 |
+| [29 May–3 June 2024](2024-06-03-ÅboAkademi.html) | Åbo Akademi <br> MTV | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20 May–1 June 2024](2024-06-01-Verian.html) | Verian <br> Helsingin Sanomat | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [23–29 April 2024](2024-04-29-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0 |
 | [18–25 March 2024](2024-03-25-Verian.html) | Verian | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -275,8 +279,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 60% | 100% | Last Result, Median |
-| 1 | 40% | 40% |  |
+| 0 | 78% | 100% | Last Result, Median |
+| 1 | 22% | 22% |  |
 | 2 | 0% | 0% |  |
 
 
