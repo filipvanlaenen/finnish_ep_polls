@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 07 Jun 2024 19:29:23 +0200</pubDate>
+    <pubDate>Sat, 08 Jun 2024 10:50:58 +0200</pubDate>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 29 May–4 June 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2024-06-04-Taloustutkimus.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-06-04-Taloustutkimus-seats.png"
         length="272487"
         type="image/png"/>
-      <pubDate>Fri, 07 Jun 2024 19:00:11 +0200</pubDate>
-      <dc:date>2024-06-07T19:00:11.547003+02:00</dc:date>
+      <pubDate>Sat, 08 Jun 2024 10:44:34 +0200</pubDate>
+      <dc:date>2024-06-08T10:44:34.474541+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 29 May–4 June 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-06-04-Taloustutkimus-coalitions-seats.png"
         length="234232"
         type="image/png"/>
-      <pubDate>Fri, 07 Jun 2024 19:00:11 +0200</pubDate>
-      <dc:date>2024-06-07T19:00:11.547003+02:00</dc:date>
+      <pubDate>Sat, 08 Jun 2024 10:44:34 +0200</pubDate>
+      <dc:date>2024-06-08T10:44:34.474541+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 29 May–4 June 2024 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-06-04-Taloustutkimus.png"
         length="328065"
         type="image/png"/>
-      <pubDate>Fri, 07 Jun 2024 19:00:11 +0200</pubDate>
-      <dc:date>2024-06-07T19:00:11.547003+02:00</dc:date>
+      <pubDate>Sat, 08 Jun 2024 10:44:34 +0200</pubDate>
+      <dc:date>2024-06-08T10:44:34.474541+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Åbo Akademi for MTV, 29 May–3 June 2024 – Seat Projections for the Parties</title>
@@ -46,8 +46,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-06-03-ÅboAkademi-seats.png"
         length="306068"
         type="image/png"/>
-      <pubDate>Fri, 07 Jun 2024 19:29:23 +0200</pubDate>
-      <dc:date>2024-06-07T19:29:23.119562+02:00</dc:date>
+      <pubDate>Sat, 08 Jun 2024 10:50:58 +0200</pubDate>
+      <dc:date>2024-06-08T10:50:58.587492+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Åbo Akademi for MTV, 29 May–3 June 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-06-03-ÅboAkademi-coalitions-seats.png"
         length="230713"
         type="image/png"/>
-      <pubDate>Fri, 07 Jun 2024 19:29:23 +0200</pubDate>
-      <dc:date>2024-06-07T19:29:23.119562+02:00</dc:date>
+      <pubDate>Sat, 08 Jun 2024 10:50:58 +0200</pubDate>
+      <dc:date>2024-06-08T10:50:58.587492+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Åbo Akademi for MTV, 29 May–3 June 2024 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-06-03-ÅboAkademi.png"
         length="322092"
         type="image/png"/>
-      <pubDate>Fri, 07 Jun 2024 19:29:23 +0200</pubDate>
-      <dc:date>2024-06-07T19:29:23.119562+02:00</dc:date>
+      <pubDate>Sat, 08 Jun 2024 10:50:58 +0200</pubDate>
+      <dc:date>2024-06-08T10:50:58.587492+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for Helsingin Sanomat, 20 May–1 June 2024 – Seat Projections for the Parties</title>
@@ -3279,6 +3279,6 @@
       <pubDate>Sun, 12 Jul 2020 22:34:32 +0200</pubDate>
       <dc:date>2020-07-12T22:34:32+02:00</dc:date>
     </item>
-    <dc:date>2024-06-07T19:29:23.119562+02:00</dc:date>
+    <dc:date>2024-06-08T10:50:58.587492+02:00</dc:date>
   </channel>
 </rss>
