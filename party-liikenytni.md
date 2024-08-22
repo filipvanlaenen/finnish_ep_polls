@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 0.8–2.5% | 0.8–2.7% | 0.7–2.8% | 0.6–3.0% |
+| N/A | [Poll Average](average.html) | 1.6% | 0.8–2.5% | 0.8–2.6% | 0.7–2.7% | 0.6–3.0% |
+| [15 July–16 August 2024](2024-08-16-Verian.html) | Verian <br> Helsingin Sanomat | 2.2% | 1.9–2.6% | 1.8–2.7% | 1.7–2.9% | 1.6–3.1% |
 | [8 July–6 August 2024](2024-08-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1.0% | 0.7–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
 | [17 June–12 July 2024](2024-07-12-Verian.html) | Verian <br> Helsingin Sanomat | 2.2% | 1.9–2.7% | 1.8–2.8% | 1.7–2.9% | 1.5–3.1% |
 | [7 June–2 July 2024](2024-07-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1.9% | 1.5–2.4% | 1.4–2.5% | 1.4–2.6% | 1.2–2.9% |
@@ -24,8 +25,8 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.4% | 100% | Last Result |
 | 0.5–1.5% | 49% | 99.6% |  |
-| 1.5–2.5% | 42% | 51% | Median |
-| 2.5–3.5% | 9% | 9% |  |
+| 1.5–2.5% | 43% | 51% | Median |
+| 2.5–3.5% | 7% | 7% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -38,6 +39,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [15 July–16 August 2024](2024-08-16-Verian.html) | Verian <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0 |
 | [8 July–6 August 2024](2024-08-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0 |
 | [17 June–12 July 2024](2024-07-12-Verian.html) | Verian <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0 |
 | [7 June–2 July 2024](2024-07-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0 |
