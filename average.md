@@ -317,8 +317,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 6% | 100% |  |
-| 4 | 93% | 94% | Median |
+| 3 | 7% | 100% |  |
+| 4 | 92% | 93% | Median |
 | 5 | 0.9% | 0.9% |  |
 | 6 | 0% | 0% |  |
 
@@ -333,7 +333,7 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 7% | 100% |  |
 | 2 | 93% | 93% | Median |
-| 3 | 0.2% | 0.2% |  |
+| 3 | 0.3% | 0.3% |  |
 | 4 | 0% | 0% |  |
 
 ### Svenska folkpartiet i Finland (RE)
@@ -359,8 +359,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 17% | 100% |  |
-| 4 | 83% | 83% | Median |
+| 3 | 16% | 100% |  |
+| 4 | 84% | 84% | Median |
 | 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
@@ -386,8 +386,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 22% | 100% |  |
-| 3 | 78% | 78% | Median |
+| 2 | 23% | 100% |  |
+| 3 | 77% | 77% | Median |
 | 4 | 0% | 0% |  |
 
 ### Sininen tulevaisuus (ECR)
@@ -421,7 +421,7 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| Kansallinen Kokoomus (EPP) – Kristillisdemokraatit (EPP) | 0 | 4 | 0% | 3–4 | 3–4 | 3–5 | 3–5 |
+| Kansallinen Kokoomus (EPP) – Kristillisdemokraatit (EPP) | 0 | 4 | 0% | 3–4 | 3–4 | 3–4 | 3–5 |
 | Suomen Sosialidemokraattinen Puolue (S&D) | 0 | 4 | 0% | 4 | 3–4 | 3–4 | 3–5 |
 | Perussuomalaiset (ECR) – Sininen tulevaisuus (ECR) | 0 | 3 | 0% | 2–3 | 2–3 | 2–3 | 2–3 |
 | Suomen Keskusta (RE) – Svenska folkpartiet i Finland (RE) | 0 | 2 | 0% | 2 | 1–2 | 1–3 | 1–3 |
@@ -439,9 +439,9 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 16% | 100% |  |
-| 4 | 82% | 84% | Median |
-| 5 | 3% | 3% |  |
+| 3 | 14% | 100% |  |
+| 4 | 83% | 86% | Median |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
 ### Suomen Sosialidemokraattinen Puolue (S&D)
@@ -453,8 +453,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 6% | 100% |  |
-| 4 | 93% | 94% | Median |
+| 3 | 7% | 100% |  |
+| 4 | 92% | 93% | Median |
 | 5 | 0.9% | 0.9% |  |
 | 6 | 0% | 0% |  |
 
@@ -466,8 +466,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 22% | 100% |  |
-| 3 | 78% | 78% | Median |
+| 2 | 23% | 100% |  |
+| 3 | 77% | 77% | Median |
 | 4 | 0% | 0% |  |
 
 ### Suomen Keskusta (RE) – Svenska folkpartiet i Finland (RE)
@@ -478,7 +478,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 6% | 100% |  |
-| 2 | 90% | 94% | Median |
+| 2 | 89% | 94% | Median |
 | 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
 
@@ -524,6 +524,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 3,145,728
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 4,194,304
 + **Error estimate:** 1.62%
