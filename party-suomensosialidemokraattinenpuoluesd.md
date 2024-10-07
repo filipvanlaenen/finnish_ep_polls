@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.6% | 21.4–23.9% | 21.1–24.2% | 20.8–24.5% | 20.2–25.1% |
+| N/A | [Poll Average](average.html) | 22.3% | 21.1–23.6% | 20.8–23.9% | 20.6–24.3% | 20.0–24.9% |
 | [4 September–1 October 2024](2024-10-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 22.6% | 21.4–23.9% | 21.1–24.2% | 20.8–24.5% | 20.2–25.1% |
-| [19 August–13 September 2024](2024-09-13-Verian.html) | Verian <br> Helsingin Sanomat | 22.0% | N/A | N/A | N/A | N/A |
+| [19 August–13 September 2024](2024-09-13-Verian.html) | Verian <br> Helsingin Sanomat | 22.0% | 21.0–23.1% | 20.7–23.4% | 20.4–23.7% | 19.9–24.3% |
 | [12 August–3 September 2024](2024-09-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 22.3% | 21.0–23.7% | 20.7–24.0% | 20.4–24.4% | 19.8–25.0% |
 | [15 July–16 August 2024](2024-08-16-Verian.html) | Verian <br> Helsingin Sanomat | 20.9% | 19.9–22.0% | 19.6–22.3% | 19.3–22.5% | 18.9–23.0% |
 | [8 July–6 August 2024](2024-08-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 20.4% | 19.2–21.7% | 18.9–22.0% | 18.6–22.3% | 18.1–22.9% |
@@ -45,13 +45,13 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
-| 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 1.3% | 100% |  |
-| 20.5–21.5% | 12% | 98.6% |  |
-| 21.5–22.5% | 35% | 87% |  |
-| 22.5–23.5% | 36% | 52% | Median |
-| 23.5–24.5% | 14% | 17% |  |
-| 24.5–25.5% | 2% | 2% |  |
+| 18.5–19.5% | 0.1% | 100% |  |
+| 19.5–20.5% | 2% | 99.9% |  |
+| 20.5–21.5% | 18% | 98% |  |
+| 21.5–22.5% | 40% | 79% | Median |
+| 22.5–23.5% | 29% | 40% |  |
+| 23.5–24.5% | 9% | 10% |  |
+| 24.5–25.5% | 1.2% | 1.3% |  |
 | 25.5–26.5% | 0.1% | 0.1% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
@@ -64,9 +64,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4 | 4 | 4–5 | 4–5 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 4 | 4 | 4–5 |
 | [4 September–1 October 2024](2024-10-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4 | 4 | 4 | 4–5 | 4–5 |
-| [19 August–13 September 2024](2024-09-13-Verian.html) | Verian <br> Helsingin Sanomat |  |  |  |  |  |
+| [19 August–13 September 2024](2024-09-13-Verian.html) | Verian <br> Helsingin Sanomat | 4 | 4 | 4 | 4 | 4–5 |
 | [12 August–3 September 2024](2024-09-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4 | 4 | 4 | 3–4 | 3–5 |
 | [15 July–16 August 2024](2024-08-16-Verian.html) | Verian <br> Helsingin Sanomat | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [8 July–6 August 2024](2024-08-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -86,8 +86,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0.3% | 100% |  |
-| 4 | 97% | 99.7% | Median |
-| 5 | 3% | 3% |  |
+| 4 | 98% | 99.7% | Median |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
 
