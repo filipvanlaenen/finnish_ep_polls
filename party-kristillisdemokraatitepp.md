@@ -46,7 +46,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
-| [16 September–11 October 2024](2024-10-11-Verian.html) | Verian <br> Helsingin Sanomat | 0 | 0 | 0 | 0–1 | 0–1 |
+| [16 September–11 October 2024](2024-10-11-Verian.html) | Verian <br> Helsingin Sanomat | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [4 September–1 October 2024](2024-10-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0 |
 | [19 August–13 September 2024](2024-09-13-Verian.html) | Verian <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0–1 |
 | [12 August–3 September 2024](2024-09-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0–1 | 0–1 |
