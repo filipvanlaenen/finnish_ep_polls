@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 24 Oct 2024 18:10:22 +0200</pubDate>
+    <pubDate>Fri, 25 Oct 2024 20:16:49 +0200</pubDate>
     <item>
       <title>Opinion Poll by Verian for Helsingin Sanomat, 16 September–11 October 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2024-10-11-Verian.html#seats</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-09-13-Verian-seats.png"
         length="238954"
         type="image/png"/>
-      <pubDate>Mon, 07 Oct 2024 18:44:33 +0200</pubDate>
-      <dc:date>2024-10-07T18:44:33.027629+02:00</dc:date>
+      <pubDate>Fri, 25 Oct 2024 20:16:49 +0200</pubDate>
+      <dc:date>2024-10-25T20:16:49.885245+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for Helsingin Sanomat, 19 August–13 September 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-09-13-Verian-coalitions-seats.png"
         length="183004"
         type="image/png"/>
-      <pubDate>Mon, 07 Oct 2024 18:44:33 +0200</pubDate>
-      <dc:date>2024-10-07T18:44:33.027629+02:00</dc:date>
+      <pubDate>Fri, 25 Oct 2024 20:16:49 +0200</pubDate>
+      <dc:date>2024-10-25T20:16:49.885245+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for Helsingin Sanomat, 19 August–13 September 2024 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-09-13-Verian.png"
         length="307129"
         type="image/png"/>
-      <pubDate>Mon, 07 Oct 2024 18:44:33 +0200</pubDate>
-      <dc:date>2024-10-07T18:44:33.027629+02:00</dc:date>
+      <pubDate>Fri, 25 Oct 2024 20:16:49 +0200</pubDate>
+      <dc:date>2024-10-25T20:16:49.885245+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 12 August–3 September 2024 – Seat Projections for the Parties</title>
@@ -279,6 +279,6 @@
       <pubDate>Tue, 16 Jul 2024 19:20:37 +0200</pubDate>
       <dc:date>2024-07-16T19:20:37.575449+02:00</dc:date>
     </item>
-    <dc:date>2024-10-24T18:10:22.709728+02:00</dc:date>
+    <dc:date>2024-10-25T20:16:49.885245+02:00</dc:date>
   </channel>
 </rss>
