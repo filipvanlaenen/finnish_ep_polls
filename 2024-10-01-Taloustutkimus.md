@@ -69,8 +69,8 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 27% | 100% |  |
-| 4 | 73% | 73% | Median |
+| 3 | 25% | 100% |  |
+| 4 | 75% | 75% | Median |
 | 5 | 0% | 0% |  |
 
 ### Perussuomalaiset (ECR)
@@ -85,7 +85,7 @@
 | 1 | 0% | 100% |  |
 | 2 | 1.4% | 100% |  |
 | 3 | 98% | 98.6% | Median |
-| 4 | 0.2% | 0.2% |  |
+| 4 | 0.3% | 0.3% |  |
 | 5 | 0% | 0% |  |
 
 ### Suomen Keskusta (RE)
@@ -111,8 +111,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 77% | 100% | Median |
-| 2 | 23% | 23% |  |
+| 1 | 80% | 100% | Median |
+| 2 | 20% | 20% |  |
 | 3 | 0% | 0% |  |
 
 ### Vihreä liitto (Greens/EFA)
@@ -199,8 +199,8 @@
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 27% | 100% |  |
-| 4 | 73% | 73% | Median |
+| 3 | 25% | 100% |  |
+| 4 | 75% | 75% | Median |
 | 5 | 0% | 0% |  |
 
 ### Suomen Keskusta (RE) – Svenska folkpartiet i Finland (RE)
@@ -211,8 +211,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 97% | 100% | Median |
-| 3 | 3% | 3% |  |
+| 2 | 96% | 100% | Median |
+| 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
 
 ### Vasemmistoliitto (GUE/NGL)
@@ -222,8 +222,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 77% | 100% | Median |
-| 2 | 23% | 23% |  |
+| 1 | 80% | 100% | Median |
+| 2 | 20% | 20% |  |
 | 3 | 0% | 0% |  |
 
 ### Vihreä liitto (Greens/EFA)
@@ -255,6 +255,6 @@
 ### Calculations
 
 + **Sample size:** 1903
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.28%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 0.90%
 
