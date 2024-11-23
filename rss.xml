@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 20 Nov 2024 21:50:36 +0100</pubDate>
+    <pubDate>Sat, 23 Nov 2024 11:13:34 +0100</pubDate>
     <item>
       <title>Opinion Poll by Verian for Helsingin Sanomat, 14 October–15 November 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2024-11-15-Verian.html#seats</link>
@@ -16,18 +16,18 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-11-15-Verian-seats.png"
         length="216281"
         type="image/png"/>
-      <pubDate>Wed, 20 Nov 2024 21:50:36 +0100</pubDate>
-      <dc:date>2024-11-20T21:50:36.462984+01:00</dc:date>
+      <pubDate>Sat, 23 Nov 2024 11:13:34 +0100</pubDate>
+      <dc:date>2024-11-23T11:13:34.043193+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for Helsingin Sanomat, 14 October–15 November 2024 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2024-11-15-Verian.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-11-15-Verian-coalitions-seats.png"
-        length="154785"
+        length="144503"
         type="image/png"/>
-      <pubDate>Wed, 20 Nov 2024 21:50:36 +0100</pubDate>
-      <dc:date>2024-11-20T21:50:36.462984+01:00</dc:date>
+      <pubDate>Sat, 23 Nov 2024 11:13:34 +0100</pubDate>
+      <dc:date>2024-11-23T11:13:34.043193+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for Helsingin Sanomat, 14 October–15 November 2024 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-11-15-Verian.png"
         length="311801"
         type="image/png"/>
-      <pubDate>Wed, 20 Nov 2024 21:50:36 +0100</pubDate>
-      <dc:date>2024-11-20T21:50:36.462984+01:00</dc:date>
+      <pubDate>Sat, 23 Nov 2024 11:13:34 +0100</pubDate>
+      <dc:date>2024-11-23T11:13:34.043193+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 7 October–5 November 2024 – Seat Projections for the Parties</title>
@@ -339,6 +339,6 @@
       <pubDate>Tue, 16 Jul 2024 19:20:37 +0200</pubDate>
       <dc:date>2024-07-16T19:20:37.575449+02:00</dc:date>
     </item>
-    <dc:date>2024-11-20T21:50:36.462984+01:00</dc:date>
+    <dc:date>2024-11-23T11:13:34.043193+01:00</dc:date>
   </channel>
 </rss>
