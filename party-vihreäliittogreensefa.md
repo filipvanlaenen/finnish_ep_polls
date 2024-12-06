@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.9% | 7.1–8.8% | 6.9–9.0% | 6.7–9.3% | 6.4–9.7% |
+| N/A | [Poll Average](average.html) | 8.0% | 7.2–8.9% | 7.0–9.2% | 6.8–9.4% | 6.5–9.9% |
+| [6 November–3 December 2024](2024-12-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 8.2% | 7.4–9.1% | 7.2–9.4% | 7.0–9.6% | 6.7–10.0% |
 | [14 October–15 November 2024](2024-11-15-Verian.html) | Verian <br> Helsingin Sanomat | 7.8% | 7.0–8.6% | 6.8–8.8% | 6.7–9.1% | 6.3–9.5% |
 | [7 October–5 November 2024](2024-11-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 8.0% | 7.2–8.9% | 7.0–9.2% | 6.8–9.4% | 6.4–9.9% |
 | [16 September–11 October 2024](2024-10-11-Verian.html) | Verian <br> Helsingin Sanomat | 8.0% | 7.2–8.9% | 7.0–9.1% | 6.8–9.4% | 6.4–9.8% |
@@ -35,11 +36,11 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.1% | 100% |  |
-| 6.5–7.5% | 26% | 98.9% |  |
-| 7.5–8.5% | 55% | 72% | Median |
-| 8.5–9.5% | 16% | 17% |  |
-| 9.5–10.5% | 0.9% | 0.9% |  |
+| 5.5–6.5% | 0.8% | 100% |  |
+| 6.5–7.5% | 22% | 99.2% |  |
+| 7.5–8.5% | 55% | 77% | Median |
+| 8.5–9.5% | 20% | 22% |  |
+| 9.5–10.5% | 1.4% | 1.4% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -52,6 +53,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1–2 |
+| [6 November–3 December 2024](2024-12-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1 | 1 | 1 | 1–2 | 1–2 |
 | [14 October–15 November 2024](2024-11-15-Verian.html) | Verian <br> Helsingin Sanomat | 1 | 1 | 1 | 1 | 1 |
 | [7 October–5 November 2024](2024-11-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1 | 1 | 1 | 1 | 1–2 |
 | [16 September–11 October 2024](2024-10-11-Verian.html) | Verian <br> Helsingin Sanomat | 1 | 1 | 1 | 1 | 1–2 |
@@ -73,8 +75,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.4% | 100% | Median |
-| 2 | 0.6% | 0.6% |  |
+| 1 | 98% | 100% | Median |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 
