@@ -8,26 +8,26 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 06 Dec 2024 21:06:24 +0100</pubDate>
+    <pubDate>Sat, 07 Dec 2024 12:32:11 +0100</pubDate>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 6 November–3 December 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2024-12-03-Taloustutkimus.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Liike Nyt (NI): 0 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 0 seats&lt;/li&gt;&lt;li&gt;Suomen Keskusta (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-12-03-Taloustutkimus-seats.png"
-        length="226907"
+        length="240321"
         type="image/png"/>
-      <pubDate>Fri, 06 Dec 2024 21:06:24 +0100</pubDate>
-      <dc:date>2024-12-06T21:06:24.971157+01:00</dc:date>
+      <pubDate>Sat, 07 Dec 2024 12:32:11 +0100</pubDate>
+      <dc:date>2024-12-07T12:32:11.870025+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 6 November–3 December 2024 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2024-12-03-Taloustutkimus.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-12-03-Taloustutkimus-coalitions-seats.png"
-        length="165179"
+        length="185266"
         type="image/png"/>
-      <pubDate>Fri, 06 Dec 2024 21:06:24 +0100</pubDate>
-      <dc:date>2024-12-06T21:06:24.971157+01:00</dc:date>
+      <pubDate>Sat, 07 Dec 2024 12:32:11 +0100</pubDate>
+      <dc:date>2024-12-07T12:32:11.870025+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 6 November–3 December 2024 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-12-03-Taloustutkimus.png"
         length="307686"
         type="image/png"/>
-      <pubDate>Fri, 06 Dec 2024 21:06:24 +0100</pubDate>
-      <dc:date>2024-12-06T21:06:24.971157+01:00</dc:date>
+      <pubDate>Sat, 07 Dec 2024 12:32:11 +0100</pubDate>
+      <dc:date>2024-12-07T12:32:11.870025+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for Helsingin Sanomat, 14 October–15 November 2024 – Seat Projections for the Parties</title>
@@ -369,6 +369,6 @@
       <pubDate>Tue, 16 Jul 2024 19:20:37 +0200</pubDate>
       <dc:date>2024-07-16T19:20:37.575449+02:00</dc:date>
     </item>
-    <dc:date>2024-12-06T21:06:24.971157+01:00</dc:date>
+    <dc:date>2024-12-07T12:32:11.870025+01:00</dc:date>
   </channel>
 </rss>
