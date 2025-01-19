@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 19 Jan 2025 18:44:15 +0100</pubDate>
+    <pubDate>Sun, 19 Jan 2025 19:18:44 +0100</pubDate>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 9 December 2024–7 January 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2025-01-07-Taloustutkimus.html#seats</link>
@@ -44,10 +44,10 @@
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2024-12-31-Verian.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Liike Nyt (NI): 0 seats&lt;/li&gt;&lt;li&gt;Suomen Keskusta (RE): 2 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-12-31-Verian-seats.png"
-        length="224927"
+        length="237701"
         type="image/png"/>
-      <pubDate>Sat, 18 Jan 2025 22:43:56 +0100</pubDate>
-      <dc:date>2025-01-18T22:43:56.979617+01:00</dc:date>
+      <pubDate>Sun, 19 Jan 2025 19:18:44 +0100</pubDate>
+      <dc:date>2025-01-19T19:18:44.286588+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for Helsingin Sanomat, 1 November–31 December 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -56,8 +56,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-12-31-Verian-coalitions-seats.png"
         length="174702"
         type="image/png"/>
-      <pubDate>Sat, 18 Jan 2025 22:43:56 +0100</pubDate>
-      <dc:date>2025-01-18T22:43:56.979617+01:00</dc:date>
+      <pubDate>Sun, 19 Jan 2025 19:18:44 +0100</pubDate>
+      <dc:date>2025-01-19T19:18:44.286588+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for Helsingin Sanomat, 1 November–31 December 2024 – Voting Intentions</title>
@@ -66,8 +66,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-12-31-Verian.png"
         length="326998"
         type="image/png"/>
-      <pubDate>Sat, 18 Jan 2025 22:43:56 +0100</pubDate>
-      <dc:date>2025-01-18T22:43:56.979617+01:00</dc:date>
+      <pubDate>Sun, 19 Jan 2025 19:18:44 +0100</pubDate>
+      <dc:date>2025-01-19T19:18:44.286588+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 6 November–3 December 2024 – Seat Projections for the Parties</title>
@@ -429,6 +429,6 @@
       <pubDate>Tue, 16 Jul 2024 19:20:37 +0200</pubDate>
       <dc:date>2024-07-16T19:20:37.575449+02:00</dc:date>
     </item>
-    <dc:date>2025-01-19T18:44:15.772083+01:00</dc:date>
+    <dc:date>2025-01-19T19:18:44.286588+01:00</dc:date>
   </channel>
 </rss>
