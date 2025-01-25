@@ -329,8 +329,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 0% | 100% |  |
-| 2 | 97% | 100% | Median |
+| 1 | 0.1% | 100% |  |
+| 2 | 97% | 99.9% | Median |
 | 3 | 3% | 3% |  |
 | 4 | 0% | 0% |  |
 
@@ -357,8 +357,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 37% | 100% |  |
-| 4 | 63% | 63% | Median |
+| 3 | 35% | 100% |  |
+| 4 | 65% | 65% | Median |
 | 5 | 0% | 0% |  |
 
 ### Kristillisdemokraatit (EPP)
@@ -383,8 +383,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 21% | 100% |  |
-| 3 | 79% | 79% | Median |
+| 2 | 24% | 100% |  |
+| 3 | 76% | 76% | Median |
 | 4 | 0% | 0% |  |
 
 ### Sininen tulevaisuus (ECR)
@@ -450,9 +450,9 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 34% | 100% |  |
-| 4 | 64% | 66% | Median |
-| 5 | 1.2% | 1.2% |  |
+| 3 | 32% | 100% |  |
+| 4 | 67% | 68% | Median |
+| 5 | 1.1% | 1.1% |  |
 | 6 | 0% | 0% |  |
 
 ### Perussuomalaiset (ECR) – Sininen tulevaisuus (ECR)
@@ -463,8 +463,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 21% | 100% |  |
-| 3 | 79% | 79% | Median |
+| 2 | 24% | 100% |  |
+| 3 | 76% | 76% | Median |
 | 4 | 0% | 0% |  |
 
 ### Suomen Keskusta (RE) – Svenska folkpartiet i Finland (RE)
@@ -475,8 +475,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 93% | 100% | Median |
-| 3 | 7% | 7% |  |
+| 2 | 94% | 100% | Median |
+| 3 | 6% | 6% |  |
 | 4 | 0% | 0% |  |
 
 ### Vasemmistoliitto (GUE/NGL)
@@ -521,6 +521,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 3,145,728
-+ **Error estimate:** 1.28%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 0.94%

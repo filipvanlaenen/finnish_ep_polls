@@ -54,7 +54,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
 | [16 December 2024–17 January 2025](2025-01-17-Verian.html) | Verian <br> Helsingin Sanomat | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [9 December 2024–7 January 2025](2025-01-07-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0–1 |
-| [18 November–13 December 2024](2024-12-13-Verian.html) | Verian <br> Helsingin Sanomat | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [18 November–13 December 2024](2024-12-13-Verian.html) | Verian <br> Helsingin Sanomat | 0 | 0 | 0 | 0–1 | 0–1 |
 | [6 November–3 December 2024](2024-12-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0 |
 | [14 October–15 November 2024](2024-11-15-Verian.html) | Verian <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0–1 |
 | [7 October–5 November 2024](2024-11-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0–1 | 0–1 |
