@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 19.7% | 18.4–21.0% | 18.1–21.3% | 17.8–21.7% | 17.2–22.3% |
 | [16 December 2024–17 January 2025](2025-01-17-Verian.html) | Verian <br> Helsingin Sanomat | 19.3% | 18.1–20.5% | 17.8–20.9% | 17.5–21.2% | 17.0–21.7% |
 | [9 December 2024–7 January 2025](2025-01-07-Taloustutkimus.html) | Taloustutkimus <br> Yle | 20.0% | 18.8–21.3% | 18.5–21.6% | 18.2–21.9% | 17.7–22.5% |
-| [18 November–13 December 2024](2024-12-13-Verian.html) | Verian <br> Helsingin Sanomat | 19.5% | N/A | N/A | N/A | N/A |
+| [18 November–13 December 2024](2024-12-13-Verian.html) | Verian <br> Helsingin Sanomat | 19.5% | 18.3–20.7% | 18.0–21.1% | 17.7–21.4% | 17.2–22.0% |
 | [6 November–3 December 2024](2024-12-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 18.8% | 17.6–20.0% | 17.3–20.3% | 17.1–20.7% | 16.5–21.2% |
 | [14 October–15 November 2024](2024-11-15-Verian.html) | Verian <br> Helsingin Sanomat | 19.8% | 18.7–21.0% | 18.3–21.3% | 18.1–21.6% | 17.5–22.2% |
 | [7 October–5 November 2024](2024-11-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 18.8% | 17.6–20.1% | 17.3–20.5% | 17.0–20.8% | 16.5–21.4% |
@@ -71,7 +71,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [16 December 2024–17 January 2025](2025-01-17-Verian.html) | Verian <br> Helsingin Sanomat | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [9 December 2024–7 January 2025](2025-01-07-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [18 November–13 December 2024](2024-12-13-Verian.html) | Verian <br> Helsingin Sanomat |  |  |  |  |  |
+| [18 November–13 December 2024](2024-12-13-Verian.html) | Verian <br> Helsingin Sanomat | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [6 November–3 December 2024](2024-12-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [14 October–15 November 2024](2024-11-15-Verian.html) | Verian <br> Helsingin Sanomat | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [7 October–5 November 2024](2024-11-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
