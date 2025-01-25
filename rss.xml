@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 25 Jan 2025 11:06:19 +0100</pubDate>
+    <pubDate>Sat, 25 Jan 2025 15:15:43 +0100</pubDate>
     <item>
       <title>Opinion Poll by Verian for Helsingin Sanomat, 16 December 2024–17 January 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2025-01-17-Verian.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2025-01-17-Verian-seats.png"
         length="239325"
         type="image/png"/>
-      <pubDate>Fri, 24 Jan 2025 22:47:32 +0100</pubDate>
-      <dc:date>2025-01-24T22:47:32.005296+01:00</dc:date>
+      <pubDate>Sat, 25 Jan 2025 12:50:21 +0100</pubDate>
+      <dc:date>2025-01-25T12:50:21.351302+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for Helsingin Sanomat, 16 December 2024–17 January 2025 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2025-01-17-Verian-coalitions-seats.png"
         length="184055"
         type="image/png"/>
-      <pubDate>Fri, 24 Jan 2025 22:47:32 +0100</pubDate>
-      <dc:date>2025-01-24T22:47:32.005296+01:00</dc:date>
+      <pubDate>Sat, 25 Jan 2025 12:50:21 +0100</pubDate>
+      <dc:date>2025-01-25T12:50:21.351302+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for Helsingin Sanomat, 16 December 2024–17 January 2025 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2025-01-17-Verian.png"
         length="310766"
         type="image/png"/>
-      <pubDate>Fri, 24 Jan 2025 22:47:32 +0100</pubDate>
-      <dc:date>2025-01-24T22:47:32.005296+01:00</dc:date>
+      <pubDate>Sat, 25 Jan 2025 12:50:21 +0100</pubDate>
+      <dc:date>2025-01-25T12:50:21.351302+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 9 December 2024–7 January 2025 – Seat Projections for the Parties</title>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-12-13-Verian-seats.png"
         length="238236"
         type="image/png"/>
-      <pubDate>Sat, 25 Jan 2025 11:06:19 +0100</pubDate>
-      <dc:date>2025-01-25T11:06:19.965027+01:00</dc:date>
+      <pubDate>Sat, 25 Jan 2025 15:15:43 +0100</pubDate>
+      <dc:date>2025-01-25T15:15:43.997738+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for Helsingin Sanomat, 18 November–13 December 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-12-13-Verian-coalitions-seats.png"
         length="175333"
         type="image/png"/>
-      <pubDate>Sat, 25 Jan 2025 11:06:19 +0100</pubDate>
-      <dc:date>2025-01-25T11:06:19.965027+01:00</dc:date>
+      <pubDate>Sat, 25 Jan 2025 15:15:43 +0100</pubDate>
+      <dc:date>2025-01-25T15:15:43.997738+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for Helsingin Sanomat, 18 November–13 December 2024 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2024-12-13-Verian.png"
         length="310554"
         type="image/png"/>
-      <pubDate>Sat, 25 Jan 2025 11:06:19 +0100</pubDate>
-      <dc:date>2025-01-25T11:06:19.965027+01:00</dc:date>
+      <pubDate>Sat, 25 Jan 2025 15:15:43 +0100</pubDate>
+      <dc:date>2025-01-25T15:15:43.997738+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 6 November–3 December 2024 – Seat Projections for the Parties</title>
@@ -459,6 +459,6 @@
       <pubDate>Tue, 16 Jul 2024 19:20:37 +0200</pubDate>
       <dc:date>2024-07-16T19:20:37.575449+02:00</dc:date>
     </item>
-    <dc:date>2025-01-25T11:06:19.965027+01:00</dc:date>
+    <dc:date>2025-01-25T15:15:43.997738+01:00</dc:date>
   </channel>
 </rss>
