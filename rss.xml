@@ -8,9 +8,39 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 19 Feb 2025 20:23:09 +0100</pubDate>
+    <pubDate>Sat, 22 Mar 2025 10:15:34 +0100</pubDate>
     <item>
-      <title>Opinion Poll by Verian, 21 January–16 February 2025 – Seat Projections for the Parties</title>
+      <title>Opinion Poll by Verian for Helsingin Sanomat, 18 February–16 March 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2025-03-16-Verian.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liike Nyt (NI): 0 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 0–1 seats&lt;/li&gt;&lt;li&gt;Suomen Keskusta (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2025-03-16-Verian-seats.png"
+        length="238678"
+        type="image/png"/>
+      <pubDate>Sat, 22 Mar 2025 10:15:34 +0100</pubDate>
+      <dc:date>2025-03-22T10:15:34.426188+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for Helsingin Sanomat, 18 February–16 March 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2025-03-16-Verian.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2025-03-16-Verian-coalitions-seats.png"
+        length="182655"
+        type="image/png"/>
+      <pubDate>Sat, 22 Mar 2025 10:15:34 +0100</pubDate>
+      <dc:date>2025-03-22T10:15:34.426188+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for Helsingin Sanomat, 18 February–16 March 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2025-03-16-Verian.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liike Nyt (NI): 1.5–2.6%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 3.4–5.0%&lt;/li&gt;&lt;li&gt;Suomen Keskusta (RE): 11.9–14.6%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 17.8–20.9%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 6.8–8.9%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 12.9–15.7%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 22.5–25.9%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 8.3–10.6%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 2.7–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2025-03-16-Verian.png"
+        length="301607"
+        type="image/png"/>
+      <pubDate>Sat, 22 Mar 2025 10:15:34 +0100</pubDate>
+      <dc:date>2025-03-22T10:15:34.426188+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for Helsingin Sanomat, 21 January–16 February 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2025-02-16-Verian.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Liike Nyt (NI): 0 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 0 seats&lt;/li&gt;&lt;li&gt;Suomen Keskusta (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2025-02-16-Verian-seats.png"
@@ -20,7 +50,7 @@
       <dc:date>2025-02-19T20:23:09.437959+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Verian, 21 January–16 February 2025 – Seat Projections for a Selection of Coalitions</title>
+      <title>Opinion Poll by Verian for Helsingin Sanomat, 21 January–16 February 2025 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2025-02-16-Verian.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2025-02-16-Verian-coalitions-seats.png"
@@ -30,7 +60,7 @@
       <dc:date>2025-02-19T20:23:09.437959+01:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by Verian, 21 January–16 February 2025 – Voting Intentions</title>
+      <title>Opinion Poll by Verian for Helsingin Sanomat, 21 January–16 February 2025 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2025-02-16-Verian.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Liike Nyt (NI): 1.5–2.5%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 3.1–4.5%&lt;/li&gt;&lt;li&gt;Suomen Keskusta (RE): 12.0–14.5%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 17.7–20.6%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 7.2–9.2%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 13.1–15.6%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 23.0–26.1%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 8.1–10.2%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 3.0–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2025-02-16-Verian.png"
@@ -519,6 +549,6 @@
       <pubDate>Tue, 16 Jul 2024 19:20:37 +0200</pubDate>
       <dc:date>2024-07-16T19:20:37.575449+02:00</dc:date>
     </item>
-    <dc:date>2025-02-19T20:23:09.437959+01:00</dc:date>
+    <dc:date>2025-03-22T10:15:34.426188+01:00</dc:date>
   </channel>
 </rss>
