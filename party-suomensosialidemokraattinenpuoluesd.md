@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.6% | 22.0–25.0% | 21.6–25.4% | 21.3–25.7% | 20.6–26.3% |
+| N/A | [Poll Average](average.html) | 23.8% | 22.5–25.1% | 22.1–25.5% | 21.8–25.8% | 21.1–26.3% |
+| [10 March–7 April 2025](2025-04-07-Taloustutkimus.html) | Taloustutkimus <br> Yle | 23.4% | 22.1–24.7% | 21.8–25.1% | 21.5–25.4% | 20.9–26.1% |
 | [18 February–16 March 2025](2025-03-16-Verian.html) | Verian <br> Helsingin Sanomat | 24.2% | 23.1–25.3% | 22.8–25.7% | 22.5–25.9% | 22.0–26.5% |
-| [10 February–4 March 2025](2025-03-04-Taloustutkimus.html) | Taloustutkimus | 22.8% | 21.6–24.1% | 21.3–24.4% | 21.0–24.8% | 20.4–25.4% |
+| [10 February–4 March 2025](2025-03-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 22.8% | 21.6–24.1% | 21.3–24.4% | 21.0–24.8% | 20.4–25.4% |
 | [21 January–16 February 2025](2025-02-16-Verian.html) | Verian <br> Helsingin Sanomat | 24.5% | 23.5–25.5% | 23.2–25.8% | 23.0–26.1% | 22.5–26.6% |
 | [13 January–3 February 2025](2025-02-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 24.4% | 23.2–25.7% | 22.8–26.0% | 22.5–26.4% | 22.0–27.0% |
 | [16 December 2024–17 January 2025](2025-01-17-Verian.html) | Verian <br> Helsingin Sanomat | 24.4% | 23.2–25.7% | 22.8–26.1% | 22.5–26.4% | 21.9–27.1% |
@@ -57,14 +58,14 @@ The following table shows the probability mass function per percentage block of 
 | 16.5–17.5% | 0% | 100% |  |
 | 17.5–18.5% | 0% | 100% |  |
 | 18.5–19.5% | 0% | 100% |  |
-| 19.5–20.5% | 0.4% | 100% |  |
-| 20.5–21.5% | 4% | 99.6% |  |
-| 21.5–22.5% | 16% | 95% |  |
-| 22.5–23.5% | 29% | 79% |  |
-| 23.5–24.5% | 31% | 51% | Median |
-| 24.5–25.5% | 16% | 19% |  |
-| 25.5–26.5% | 3% | 3% |  |
-| 26.5–27.5% | 0.2% | 0.2% |  |
+| 19.5–20.5% | 0.1% | 100% |  |
+| 20.5–21.5% | 1.4% | 99.9% |  |
+| 21.5–22.5% | 9% | 98.5% |  |
+| 22.5–23.5% | 28% | 89% |  |
+| 23.5–24.5% | 38% | 62% | Median |
+| 24.5–25.5% | 20% | 24% |  |
+| 25.5–26.5% | 4% | 4% |  |
+| 26.5–27.5% | 0.3% | 0.3% |  |
 | 27.5–28.5% | 0% | 0% |  |
 
 
@@ -77,8 +78,9 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [10 March–7 April 2025](2025-04-07-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [18 February–16 March 2025](2025-03-16-Verian.html) | Verian <br> Helsingin Sanomat | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [10 February–4 March 2025](2025-03-04-Taloustutkimus.html) | Taloustutkimus | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| [10 February–4 March 2025](2025-03-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4 | 4 | 4–5 | 4–5 | 4–5 |
 | [21 January–16 February 2025](2025-02-16-Verian.html) | Verian <br> Helsingin Sanomat | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [13 January–3 February 2025](2025-02-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [16 December 2024–17 January 2025](2025-01-17-Verian.html) | Verian <br> Helsingin Sanomat | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -108,9 +110,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.2% | 100% |  |
-| 4 | 66% | 99.8% | Median |
-| 5 | 34% | 34% |  |
+| 3 | 0% | 100% |  |
+| 4 | 60% | 100% | Median |
+| 5 | 40% | 40% |  |
 | 6 | 0% | 0% |  |
 
 
