@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.8–1.4% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.8–1.5% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% |
+| [19 May–16 June 2025](2025-06-16-Verian.html) | Verian <br> Helsingin Sanomat | 1.3% | 1.1–1.6% | 1.0–1.7% | 1.0–1.8% | 0.9–1.9% |
 | [12 May–2 June 2025](2025-06-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0.9% | 0.7–1.3% | 0.6–1.4% | 0.6–1.5% | 0.5–1.7% |
 | [16 April–18 May 2025](2025-05-18-Verian.html) | Verian <br> Helsingin Sanomat | 1.2% | 1.0–1.5% | 0.9–1.6% | 0.9–1.6% | 0.8–1.8% |
 | [14 April–6 May 2025](2025-05-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0.9% | 0.7–1.3% | 0.6–1.4% | 0.6–1.5% | 0.5–1.7% |
@@ -42,8 +43,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.8% | 100% | Last Result |
-| 0.5–1.5% | 96% | 99.2% | Median |
-| 1.5–2.5% | 4% | 4% |  |
+| 0.5–1.5% | 91% | 99.2% | Median |
+| 1.5–2.5% | 8% | 8% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -56,6 +57,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [19 May–16 June 2025](2025-06-16-Verian.html) | Verian <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0 |
 | [12 May–2 June 2025](2025-06-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0 |
 | [16 April–18 May 2025](2025-05-18-Verian.html) | Verian <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0 |
 | [14 April–6 May 2025](2025-05-06-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0 |
