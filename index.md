@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | VAS | VIHR | SDP | KESK | SFP | KOK | KD | PS | SIN | LIIK | VKK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 8–11% <br> 1–2 | 7–10% <br> 1–2 | 23–27% <br> 4–5 | 13–17% <br> 2–3 | 3–5% <br> 0–1 | 19–23% <br> 3–4 | 3–4% <br> 0 | 9–12% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 9–11% <br> 1–2 | 7–9% <br> 1 | 23–27% <br> 4–5 | 13–17% <br> 2–3 | 3–5% <br> 0–1 | 19–22% <br> 3–4 | 3–5% <br> 0 | 9–13% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A |
+| [9–30 June 2025](2025-06-30-Taloustutkimus.html) | Taloustutkimus <br> Yle | 8–11% <br> 1–2 | 6–9% <br> 1 | 23–27% <br> 4–5 | 12–16% <br> 2–3 | 3–5% <br> 0–1 | 19–23% <br> 3–4 | 3–5% <br> 0 | 10–13% <br> 2 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A |
 | [19 May–16 June 2025](2025-06-16-Verian.html) | Verian <br> Helsingin Sanomat | 9–11% <br> 1–2 | 7–9% <br> 1 | 24–27% <br> 4–5 | 15–17% <br> 2–3 | 4–5% <br> 0–1 | 18–21% <br> 3–4 | 3–4% <br> 0 | 9–11% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A |
-| [12 May–2 June 2025](2025-06-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 8–11% <br> 1–2 | 7–10% <br> 1–2 | 23–27% <br> 4–5 | 13–16% <br> 2–3 | 3–5% <br> 0 | 20–23% <br> 3–4 | 3–5% <br> 0 | 9–12% <br> 1–2 | N/A <br> N/A | 1% <br> 0 | N/A <br> N/A |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
