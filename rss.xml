@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 22 Aug 2025 20:52:15 +0200</pubDate>
+    <pubDate>Fri, 22 Aug 2025 20:55:34 +0200</pubDate>
     <item>
       <title>Opinion Poll by Verian for Helsingin Sanomat, 15 July–17 August 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2025-08-17-Verian.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2025-08-22T20:28:02.420125+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 7 July–5 August 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2025-08-05-Taloustutkimus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liike Nyt (NI): 0 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 0 seats&lt;/li&gt;&lt;li&gt;Suomen Keskusta (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 1–2 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 2 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2025-08-05-Taloustutkimus-seats.png"
+        length="235329"
+        type="image/png"/>
+      <pubDate>Fri, 22 Aug 2025 20:55:34 +0200</pubDate>
+      <dc:date>2025-08-22T20:55:34.640902+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 7 July–5 August 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2025-08-05-Taloustutkimus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2025-08-05-Taloustutkimus-coalitions-seats.png"
+        length="176955"
+        type="image/png"/>
+      <pubDate>Fri, 22 Aug 2025 20:55:34 +0200</pubDate>
+      <dc:date>2025-08-22T20:55:34.640902+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 7 July–5 August 2025 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2025-08-05-Taloustutkimus.html</link>
       <description>&lt;ul&gt;&lt;li&gt;Liike Nyt (NI): 0.5–1.4%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 3.1–4.8%&lt;/li&gt;&lt;li&gt;Suomen Keskusta (RE): 13.6–16.7%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 17.4–20.9%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 7.5–9.9%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 10.9–13.8%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 22.9–26.6%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 8.9–11.5%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 2.8–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2025-08-05-Taloustutkimus.png"
         length="297573"
         type="image/png"/>
-      <pubDate>Fri, 22 Aug 2025 20:52:15 +0200</pubDate>
-      <dc:date>2025-08-22T20:52:15.998903+02:00</dc:date>
+      <pubDate>Fri, 22 Aug 2025 20:55:34 +0200</pubDate>
+      <dc:date>2025-08-22T20:55:34.640902+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 9–30 June 2025 – Seat Projections for the Parties</title>
@@ -799,6 +819,6 @@
       <pubDate>Tue, 16 Jul 2024 19:20:37 +0200</pubDate>
       <dc:date>2024-07-16T19:20:37.575449+02:00</dc:date>
     </item>
-    <dc:date>2025-08-22T20:52:15.998903+02:00</dc:date>
+    <dc:date>2025-08-22T20:55:34.640902+02:00</dc:date>
   </channel>
 </rss>
