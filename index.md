@@ -7,7 +7,7 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 9–11% <br> 1–2 | 7–10% <br> 1 | 23–27% <br> 4–5 | 14–18% <br> 2–3 | 3–5% <br> 0 | 17–21% <br> 3–4 | 3–4% <br> 0 | 10–14% <br> 2 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A |
 | [15 July–17 August 2025](2025-08-17-Verian.html) | Verian <br> Helsingin Sanomat | 9–11% <br> 1–2 | 7–9% <br> 1 | 24–27% <br> 4–5 | 15–18% <br> 2–3 | 3–5% <br> 0 | 17–20% <br> 3–4 | 3–4% <br> 0 | 10–12% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A |
-| [7 July–5 August 2025](2025-08-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 9–11% <br> 1–2 | 7–10% <br> 1 | 23–27% <br> 4–5 | 14–17% <br> 2–3 | 3–5% <br> 0 | 17–21% <br> 3–4 | 3–4% <br> 0 | 11–14% <br> 2 | N/A <br> N/A | 1% <br> 0 | N/A <br> N/A |
+| [7 July–5 August 2025](2025-08-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 9–11% <br> 1–2 | 7–10% <br> 1–2 | 23–27% <br> 4–5 | 14–17% <br> 2–3 | 3–5% <br> 0 | 17–21% <br> 3–4 | 3–4% <br> 0 | 11–14% <br> 2 | N/A <br> N/A | 1% <br> 0 | N/A <br> N/A |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
