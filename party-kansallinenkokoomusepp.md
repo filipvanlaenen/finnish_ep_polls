@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 19.0% | 17.9–20.1% | 17.6–20.4% | 17.4–20.7% | 16.9–21.2% |
 | [15 July–17 August 2025](2025-08-17-Verian.html) | Verian <br> Helsingin Sanomat | 18.8% | 17.8–19.9% | 17.5–20.2% | 17.3–20.4% | 16.8–20.9% |
 | [7 July–5 August 2025](2025-08-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 19.1% | 18.0–20.2% | 17.7–20.6% | 17.4–20.9% | 16.9–21.4% |
-| [16 June–14 July 2025](2025-07-14-Verian.html) | Verian <br> Helsingin Sanomat | 19.8% | N/A | N/A | N/A | N/A |
+| [16 June–14 July 2025](2025-07-14-Verian.html) | Verian <br> Helsingin Sanomat | 19.8% | 18.8–20.9% | 18.5–21.2% | 18.3–21.4% | 17.8–21.9% |
 | [9–30 June 2025](2025-06-30-Taloustutkimus.html) | Taloustutkimus <br> Yle | 20.8% | 19.6–22.1% | 19.3–22.4% | 19.0–22.7% | 18.4–23.4% |
 | [19 May–16 June 2025](2025-06-16-Verian.html) | Verian <br> Helsingin Sanomat | 19.8% | 18.9–20.7% | 18.7–21.0% | 18.5–21.2% | 18.1–21.6% |
 | [12 May–2 June 2025](2025-06-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 21.5% | 20.3–22.8% | 20.0–23.1% | 19.7–23.4% | 19.1–24.0% |
@@ -83,7 +83,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [15 July–17 August 2025](2025-08-17-Verian.html) | Verian <br> Helsingin Sanomat | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [7 July–5 August 2025](2025-08-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [16 June–14 July 2025](2025-07-14-Verian.html) | Verian <br> Helsingin Sanomat |  |  |  |  |  |
+| [16 June–14 July 2025](2025-07-14-Verian.html) | Verian <br> Helsingin Sanomat | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [9–30 June 2025](2025-06-30-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [19 May–16 June 2025](2025-06-16-Verian.html) | Verian <br> Helsingin Sanomat | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12 May–2 June 2025](2025-06-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 4 | 4 | 3–4 | 3–4 | 3–4 |

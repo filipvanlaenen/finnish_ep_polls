@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 11.6% | 10.5–12.9% | 10.2–13.3% | 10.0–13.6% | 9.6–14.1% |
 | [15 July–17 August 2025](2025-08-17-Verian.html) | Verian <br> Helsingin Sanomat | 11.0% | 10.2–11.8% | 10.0–12.1% | 9.8–12.3% | 9.4–12.7% |
 | [7 July–5 August 2025](2025-08-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 12.3% | 11.4–13.3% | 11.2–13.6% | 10.9–13.8% | 10.5–14.3% |
-| [16 June–14 July 2025](2025-07-14-Verian.html) | Verian <br> Helsingin Sanomat | 10.6% | N/A | N/A | N/A | N/A |
+| [16 June–14 July 2025](2025-07-14-Verian.html) | Verian <br> Helsingin Sanomat | 10.6% | 9.8–11.4% | 9.6–11.7% | 9.4–11.9% | 9.1–12.3% |
 | [9–30 June 2025](2025-06-30-Taloustutkimus.html) | Taloustutkimus <br> Yle | 11.8% | 10.9–12.8% | 10.6–13.1% | 10.4–13.4% | 9.9–13.9% |
 | [19 May–16 June 2025](2025-06-16-Verian.html) | Verian <br> Helsingin Sanomat | 10.0% | 9.4–10.7% | 9.2–10.9% | 9.0–11.1% | 8.7–11.4% |
 | [12 May–2 June 2025](2025-06-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 10.8% | 9.9–11.8% | 9.7–12.1% | 9.5–12.3% | 9.1–12.8% |
@@ -76,7 +76,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 1–2 |
 | [15 July–17 August 2025](2025-08-17-Verian.html) | Verian <br> Helsingin Sanomat | 2 | 2 | 2 | 1–2 | 1–2 |
 | [7 July–5 August 2025](2025-08-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2 | 2 | 2 | 2 |
-| [16 June–14 July 2025](2025-07-14-Verian.html) | Verian <br> Helsingin Sanomat |  |  |  |  |  |
+| [16 June–14 July 2025](2025-07-14-Verian.html) | Verian <br> Helsingin Sanomat | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–30 June 2025](2025-06-30-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2 | 2 | 2 | 1–2 |
 | [19 May–16 June 2025](2025-06-16-Verian.html) | Verian <br> Helsingin Sanomat | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12 May–2 June 2025](2025-06-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
