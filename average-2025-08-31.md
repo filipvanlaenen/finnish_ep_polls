@@ -285,8 +285,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 41% | 100% |  |
-| 2 | 59% | 59% | Median |
+| 1 | 43% | 100% |  |
+| 2 | 57% | 57% | Median |
 | 3 | 0% | 0% |  |
 
 ### Vihreä liitto (Greens/EFA)
@@ -328,8 +328,8 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 19% | 100% |  |
-| 3 | 81% | 81% | Median |
+| 2 | 18% | 100% |  |
+| 3 | 82% | 82% | Median |
 | 4 | 0% | 0% |  |
 
 ### Svenska folkpartiet i Finland (RE)
@@ -340,8 +340,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98.7% | 100% | Last Result, Median |
-| 1 | 1.3% | 1.3% |  |
+| 0 | 98.6% | 100% | Last Result, Median |
+| 1 | 1.4% | 1.4% |  |
 | 2 | 0% | 0% |  |
 
 ### Kansallinen Kokoomus (EPP)
@@ -355,8 +355,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 90% | 100% | Median |
-| 4 | 10% | 10% |  |
+| 3 | 89% | 100% | Median |
+| 4 | 11% | 11% |  |
 | 5 | 0% | 0% |  |
 
 ### Kristillisdemokraatit (EPP)
@@ -448,8 +448,8 @@ Only polls for which at least the sample size has been published are included in
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 90% | 100% | Median |
-| 4 | 10% | 10% |  |
+| 3 | 89% | 100% | Median |
+| 4 | 11% | 11% |  |
 | 5 | 0% | 0% |  |
 
 ### Suomen Keskusta (RE) – Svenska folkpartiet i Finland (RE)
@@ -460,9 +460,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 19% | 100% |  |
-| 3 | 80% | 81% | Median |
-| 4 | 0.7% | 0.7% |  |
+| 2 | 17% | 100% |  |
+| 3 | 82% | 83% | Median |
+| 4 | 0.8% | 0.8% |  |
 | 5 | 0% | 0% |  |
 
 ### Perussuomalaiset (ECR) – Sininen tulevaisuus (ECR)
@@ -484,8 +484,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 41% | 100% |  |
-| 2 | 59% | 59% | Median |
+| 1 | 43% | 100% |  |
+| 2 | 57% | 57% | Median |
 | 3 | 0% | 0% |  |
 
 ### Vihreä liitto (Greens/EFA)
@@ -519,6 +519,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 3,145,728
-+ **Error estimate:** 0.94%
++ **Lowest number of simulations done in a poll included in this average:** 2,097,152
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 0.66%
