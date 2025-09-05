@@ -6,7 +6,15 @@
   </author>
   <id>https://filipvanlaenen.github.io/finnish_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2025-08-24T15:14:35.859431+02:00</updated>
+  <updated>2025-09-05T07:57:30.495111+02:00</updated>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Liike Nyt (NI): 0.5–1.4%, 0 seats</li><li>Svenska folkpartiet i Finland (RE): 2.7–4.5%, 0 seats</li><li>Suomen Keskusta (RE): 13.1–16.5%, 2–3 seats</li><li>Kansallinen Kokoomus (EPP): 17.4–21.2%, 3–4 seats</li><li>Vihreä liitto (Greens/EFA): 6.5–9.1%, 1 seats</li><li>Perussuomalaiset (ECR): 11.3–14.5%, 2 seats</li><li>Suomen Sosialidemokraattinen Puolue (S&amp;D): 23.7–28.0%, 4–5 seats</li><li>Vasemmistoliitto (GUE/NGL): 8.2–11.0%, 1–2 seats</li><li>Kristillisdemokraatit (EPP): 3.0–4.9%, 0 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/finnish_ep_polls/2025-09-02-Taloustutkimus.html</id>
+    <link href="https://filipvanlaenen.github.io/finnish_ep_polls/2025-09-02-Taloustutkimus.html"/>
+    <title>Opinion Poll by Taloustutkimus for Yle, 11 August–2 September 2025</title>
+    <updated>2025-09-05T07:57:30.495111+02:00</updated>
+    <dc:date>2025-09-05T07:57:30.495111+02:00</dc:date>
+  </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Liike Nyt (NI): 0.8–1.7%, 0 seats</li><li>Svenska folkpartiet i Finland (RE): 3.3–4.9%, 0 seats</li><li>Suomen Keskusta (RE): 14.9–17.8%, 2–3 seats</li><li>Kansallinen Kokoomus (EPP): 17.3–20.4%, 3–4 seats</li><li>Vihreä liitto (Greens/EFA): 7.3–9.5%, 1 seats</li><li>Perussuomalaiset (ECR): 9.8–12.3%, 1–2 seats</li><li>Suomen Sosialidemokraattinen Puolue (S&amp;D): 23.5–27.0%, 4–5 seats</li><li>Vasemmistoliitto (GUE/NGL): 8.9–11.3%, 1–2 seats</li><li>Kristillisdemokraatit (EPP): 2.6–4.0%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/finnish_ep_polls/2025-08-17-Verian.html</id>
@@ -231,5 +239,5 @@
     <updated>2024-07-16T19:20:37.575449+02:00</updated>
     <dc:date>2024-07-16T19:20:37.575449+02:00</dc:date>
   </entry>
-  <dc:date>2025-08-24T15:14:35.859431+02:00</dc:date>
+  <dc:date>2025-09-05T07:57:30.495111+02:00</dc:date>
 </feed>
