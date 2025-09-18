@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | VAS | VIHR | SDP | KESK | SFP | KOK | KD | PS | SIN | LIIK | VKK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 8–11% <br> 1–2 | 7–9% <br> 1 | 24–28% <br> 4–5 | 13–18% <br> 2–3 | 3–5% <br> 0 | 17–21% <br> 3–4 | 3–5% <br> 0 | 10–14% <br> 2 | N/A <br> N/A | 0–2% <br> 0 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 8–11% <br> 1–2 | 7–9% <br> 1 | 24–28% <br> 4–5 | 13–17% <br> 2–3 | 3–5% <br> 0 | 17–21% <br> 3–4 | 3–5% <br> 0 | 11–14% <br> 2 | N/A <br> N/A | 0–2% <br> 0 | N/A <br> N/A |
+| [18 August–14 September 2025](2025-09-14-Verian.html) | Verian <br> Helsingin Sanomat | 9–11% <br> 1–2 | 8–10% <br> 1 | 24–27% <br> 4–5 | 15–17% <br> 2–3 | 3–5% <br> 0 | 17–20% <br> 3 | 3–4% <br> 0 | 10–12% <br> 2 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A |
 | [11 August–2 September 2025](2025-09-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 8–11% <br> 1–2 | 7–9% <br> 1 | 24–28% <br> 4–5 | 13–17% <br> 2–3 | 3–5% <br> 0 | 17–21% <br> 3–4 | 3–5% <br> 0 | 11–15% <br> 2 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A |
-| [15 July–17 August 2025](2025-08-17-Verian.html) | Verian <br> Helsingin Sanomat | 9–11% <br> 1–2 | 7–9% <br> 1 | 24–27% <br> 4–5 | 15–18% <br> 2–3 | 3–5% <br> 0 | 17–20% <br> 3–4 | 3–4% <br> 0 | 10–12% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
