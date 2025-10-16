@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 03 Oct 2025 18:32:28 +0200</pubDate>
+    <pubDate>Thu, 16 Oct 2025 17:51:44 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Verian for Helsingin Sanomat, 15 September–12 October 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2025-10-12-Verian.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liike Nyt (NI): 0 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 0 seats&lt;/li&gt;&lt;li&gt;Suomen Keskusta (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 2 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 1–2 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2025-10-12-Verian-seats.png"
+        length="234369"
+        type="image/png"/>
+      <pubDate>Thu, 16 Oct 2025 17:51:44 +0200</pubDate>
+      <dc:date>2025-10-16T17:51:44.491351+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for Helsingin Sanomat, 15 September–12 October 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2025-10-12-Verian.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2025-10-12-Verian-coalitions-seats.png"
+        length="176899"
+        type="image/png"/>
+      <pubDate>Thu, 16 Oct 2025 17:51:44 +0200</pubDate>
+      <dc:date>2025-10-16T17:51:44.491351+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Verian for Helsingin Sanomat, 15 September–12 October 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2025-10-12-Verian.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liike Nyt (NI): 1.1–2.0%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 3.2–4.5%&lt;/li&gt;&lt;li&gt;Suomen Keskusta (RE): 14.5–16.9%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 17.0–19.5%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 7.9–9.8%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 11.8–13.9%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 23.4–26.2%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 8.5–10.4%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 2.5–3.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2025-10-12-Verian.png"
+        length="294109"
+        type="image/png"/>
+      <pubDate>Thu, 16 Oct 2025 17:51:44 +0200</pubDate>
+      <dc:date>2025-10-16T17:51:44.491351+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 3–30 September 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2025-09-30-Taloustutkimus.html#seats</link>
@@ -939,6 +969,6 @@
       <pubDate>Tue, 16 Jul 2024 19:20:37 +0200</pubDate>
       <dc:date>2024-07-16T19:20:37.575449+02:00</dc:date>
     </item>
-    <dc:date>2025-10-03T18:32:28.216338+02:00</dc:date>
+    <dc:date>2025-10-16T17:51:44.491351+02:00</dc:date>
   </channel>
 </rss>
