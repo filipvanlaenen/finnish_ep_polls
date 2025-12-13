@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | VAS | VIHR | SDP | KESK | SFP | KOK | KD | PS | SIN | LIIK | VKK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 8–11% <br> 1–2 | 6–9% <br> 1 | 23–27% <br> 4–5 | 12–16% <br> 2–3 | 3–5% <br> 0 | 17–20% <br> 3–4 | 3–4% <br> 0 | 12–16% <br> 2–3 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A |
-| [13 October–16 November 2025](2025-11-16-Verian.html) | Verian | 8–10% <br> 1–2 | 8–9% <br> 1 | 23–26% <br> 4–5 | 14–16% <br> 2–3 | 3–5% <br> 0 | 17–20% <br> 3–4 | 3–4% <br> 0 | 12–14% <br> 2 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A |
-| [6 October–4 November 2025](2025-11-04-Taloustutkimus.html) | Taloustutkimus <br> Yle | 8–11% <br> 1–2 | 6–9% <br> 1 | 23–27% <br> 4–5 | 12–15% <br> 2–3 | 3–5% <br> 0–1 | 17–21% <br> 3–4 | 3–4% <br> 0 | 13–16% <br> 2–3 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A |
+| N/A | [Poll Average](average.html) | 8–11% <br> 1–2 | 7–9% <br> 1 | 23–26% <br> 4–5 | 13–16% <br> 2–3 | 3–5% <br> 0 | 17–20% <br> 3–4 | 3–4% <br> 0 | 12–16% <br> 2–3 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A |
+| [10 November–2 December 2025](2025-12-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 9–12% <br> 1–2 | 6–9% <br> 1 | 23–27% <br> 4–5 | 12–16% <br> 2–3 | 3–5% <br> 0 | 17–21% <br> 3–4 | 3–4% <br> 0 | 13–16% <br> 2–3 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A |
+| [13 October–16 November 2025](2025-11-16-Verian.html) | Verian <br> Helsingin Sanomat | 8–10% <br> 1–2 | 8–9% <br> 1 | 23–26% <br> 4–5 | 14–16% <br> 2–3 | 3–5% <br> 0 | 17–20% <br> 3–4 | 3–4% <br> 0 | 12–14% <br> 2 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
