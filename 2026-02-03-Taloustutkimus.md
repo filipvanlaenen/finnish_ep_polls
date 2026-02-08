@@ -54,8 +54,8 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 47% | 100% |  |
-| 5 | 53% | 53% | Median |
+| 4 | 38% | 100% |  |
+| 5 | 62% | 62% | Median |
 | 6 | 0% | 0% |  |
 
 ### Kansallinen Kokoomus (EPP)
@@ -83,8 +83,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 70% | 100% | Median |
-| 3 | 30% | 30% |  |
+| 2 | 77% | 100% | Median |
+| 3 | 23% | 23% |  |
 | 4 | 0% | 0% |  |
 
 ### Perussuomalaiset (ECR)
@@ -123,8 +123,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.8% | 100% | Median |
-| 2 | 0.2% | 0.2% |  |
+| 1 | 99.7% | 100% | Median |
+| 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
 ### Svenska folkpartiet i Finland (RE)
@@ -135,8 +135,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 98.6% | 100% | Last Result, Median |
+| 1 | 1.4% | 1.4% |  |
 | 2 | 0% | 0% |  |
 
 ### Kristillisdemokraatit (EPP)
@@ -187,8 +187,8 @@
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 0% | 100% |  |
-| 4 | 47% | 100% |  |
-| 5 | 53% | 53% | Median |
+| 4 | 38% | 100% |  |
+| 5 | 62% | 62% | Median |
 | 6 | 0% | 0% |  |
 
 ### Kansallinen Kokoomus (EPP) – Kristillisdemokraatit (EPP)
@@ -212,8 +212,8 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 68% | 100% | Median |
-| 3 | 32% | 32% |  |
+| 2 | 75% | 100% | Median |
+| 3 | 25% | 25% |  |
 | 4 | 0% | 0% |  |
 
 ### Vasemmistoliitto (GUE/NGL)
@@ -234,8 +234,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 99.8% | 100% | Median |
-| 2 | 0.2% | 0.2% |  |
+| 1 | 99.7% | 100% | Median |
+| 2 | 0.3% | 0.3% |  |
 | 3 | 0% | 0% |  |
 
 ### Liike Nyt (NI)
@@ -258,6 +258,6 @@
 ### Calculations
 
 + **Sample size:** 1830
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 1.59%
++ **Simulations done:** 2,097,152
++ **Error estimate:** 1.20%
 
