@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.2% | 2.8–3.8% | 2.7–4.0% | 2.6–4.2% | 2.4–4.5% |
+| N/A | [Poll Average](average.html) | 3.3% | 2.9–3.8% | 2.8–4.0% | 2.7–4.2% | 2.5–4.5% |
+| [20 January–16 February 2026](2026-02-16-Verian.html) | Verian <br> Helsingin Sanomat | 3.3% | 3.0–3.7% | 2.9–3.8% | 2.8–3.9% | 2.6–4.1% |
 | [12 January–3 February 2026](2026-02-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3.4% | 2.9–4.0% | 2.8–4.2% | 2.7–4.3% | 2.4–4.6% |
 | [5 December 2025–19 January 2026](2026-01-19-Verian.html) | Verian <br> Helsingin Sanomat | 3.0% | 2.7–3.4% | 2.6–3.5% | 2.5–3.6% | 2.4–3.8% |
 | [8 December 2025–2 January 2026](2026-01-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3.1% | 2.6–3.8% | 2.5–3.9% | 2.4–4.1% | 2.1–4.4% |
@@ -59,9 +60,9 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 77% | 98% | Median |
-| 3.5–4.5% | 20% | 21% |  |
+| 1.5–2.5% | 0.7% | 100% |  |
+| 2.5–3.5% | 70% | 99.3% | Median |
+| 3.5–4.5% | 28% | 29% |  |
 | 4.5–5.5% | 0.4% | 0.4% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
@@ -75,6 +76,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [20 January–16 February 2026](2026-02-16-Verian.html) | Verian <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0 |
 | [12 January–3 February 2026](2026-02-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0 |
 | [5 December 2025–19 January 2026](2026-01-19-Verian.html) | Verian <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0 |
 | [8 December 2025–2 January 2026](2026-01-02-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0 |
