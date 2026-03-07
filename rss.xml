@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 06 Mar 2026 20:15:28 +0100</pubDate>
+    <pubDate>Sat, 07 Mar 2026 12:58:00 +0100</pubDate>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 9 February–3 March 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2026-03-03-Taloustutkimus.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2026-03-03-Taloustutkimus-seats.png"
         length="229196"
         type="image/png"/>
-      <pubDate>Fri, 06 Mar 2026 20:15:28 +0100</pubDate>
-      <dc:date>2026-03-06T20:15:28.382+01:00</dc:date>
+      <pubDate>Sat, 07 Mar 2026 12:58:00 +0100</pubDate>
+      <dc:date>2026-03-07T12:58:00.633451+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 9 February–3 March 2026 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2026-03-03-Taloustutkimus-coalitions-seats.png"
         length="171958"
         type="image/png"/>
-      <pubDate>Fri, 06 Mar 2026 20:15:28 +0100</pubDate>
-      <dc:date>2026-03-06T20:15:28.382+01:00</dc:date>
+      <pubDate>Sat, 07 Mar 2026 12:58:00 +0100</pubDate>
+      <dc:date>2026-03-07T12:58:00.633451+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Taloustutkimus for Yle, 9 February–3 March 2026 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2026-03-03-Taloustutkimus.png"
         length="301761"
         type="image/png"/>
-      <pubDate>Fri, 06 Mar 2026 20:15:28 +0100</pubDate>
-      <dc:date>2026-03-06T20:15:28.382+01:00</dc:date>
+      <pubDate>Sat, 07 Mar 2026 12:58:00 +0100</pubDate>
+      <dc:date>2026-03-07T12:58:00.633451+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Verian for Helsingin Sanomat, 20 January–16 February 2026 – Seat Projections for the Parties</title>
@@ -1239,6 +1239,6 @@
       <pubDate>Tue, 16 Jul 2024 19:20:37 +0200</pubDate>
       <dc:date>2024-07-16T19:20:37.575449+02:00</dc:date>
     </item>
-    <dc:date>2026-03-06T20:15:28.382+01:00</dc:date>
+    <dc:date>2026-03-07T12:58:00.633451+01:00</dc:date>
   </channel>
 </rss>
