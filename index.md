@@ -6,8 +6,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | N/A | [Poll Average](average.html) | 10–12% <br> 1–2 | 7–10% <br> 1 | 23–27% <br> 4–5 | 12–15% <br> 2–3 | 3–5% <br> 0 | 16–20% <br> 3 | 3–4% <br> 0 | 12–16% <br> 2–3 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A |
+| [17 February–16 March 2026](2026-03-16-Verian.html) | Verian <br> Helsingin Sanomat | 9–11% <br> 1–2 | 8–10% <br> 1–2 | 23–26% <br> 4–5 | 13–15% <br> 2–3 | 3–5% <br> 0 | 17–19% <br> 3 | 3–4% <br> 0 | 12–14% <br> 2–3 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A |
 | [9 February–3 March 2026](2026-03-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 10–13% <br> 1–2 | 7–10% <br> 1 | 23–27% <br> 4–5 | 12–15% <br> 2 | 3–4% <br> 0 | 16–20% <br> 3 | 3–4% <br> 0 | 13–17% <br> 2–3 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A |
-| [20 January–16 February 2026](2026-02-16-Verian.html) | Verian <br> Helsingin Sanomat | 9–11% <br> 1–2 | 8–9% <br> 1 | 24–26% <br> 4–5 | 13–15% <br> 2–3 | 3–5% <br> 0 | 17–19% <br> 3 | 3–4% <br> 0 | 12–14% <br> 2 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A |
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
