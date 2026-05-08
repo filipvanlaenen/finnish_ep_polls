@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 10.9% | 10.1–12.0% | 9.9–12.3% | 9.8–12.6% | 9.5–13.1% |
+| [13 April–5 May 2026](2026-05-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 10.9% | 10.0–11.9% | 9.8–12.2% | 9.6–12.5% | 9.1–12.9% |
 | [18 March–20 April 2026](2026-04-20-Verian.html) | Verian <br> Helsingin Sanomat | 10.6% | 10.0–11.2% | 9.8–11.4% | 9.7–11.6% | 9.4–11.9% |
 | [4 March–7 April 2026](2026-04-07-Taloustutkimus.html) | Taloustutkimus <br> Yle | 11.3% | 10.4–12.3% | 10.2–12.6% | 9.9–12.8% | 9.5–13.3% |
 | [17 February–16 March 2026](2026-03-16-Verian.html) | Verian <br> Helsingin Sanomat | 10.4% | 9.8–11.1% | 9.6–11.2% | 9.5–11.4% | 9.2–11.7% |
@@ -89,6 +90,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 1–2 |
+| [13 April–5 May 2026](2026-05-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2 | 2 | 1–2 | 1–2 |
 | [18 March–20 April 2026](2026-04-20-Verian.html) | Verian <br> Helsingin Sanomat | 2 | 2 | 2 | 2 | 1–2 |
 | [4 March–7 April 2026](2026-04-07-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2 | 2 | 2 | 1–2 |
 | [17 February–16 March 2026](2026-03-16-Verian.html) | Verian <br> Helsingin Sanomat | 2 | 2 | 2 | 1–2 | 1–2 |
