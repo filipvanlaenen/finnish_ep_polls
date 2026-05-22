@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | VAS | VIHR | SDP | KESK | SFP | KOK | KD | PS | SIN | LIIK | VKK |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 9 June 2024 | General Election | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [21 April–18 May 2026](2026-05-18-Verian.html) | Verian <br> Helsingin Sanomat | 10–12% <br> 2 | 8–10% <br> 1–2 | 23–26% <br> 4–5 | 13–15% <br> 2–3 | 3–4% <br> 0 | 16–19% <br> 3 | 3–4% <br> 0 | 12–14% <br> 2–3 | N/A <br> N/A | 2% <br> 0 | N/A <br> N/A |
 | [13 April–5 May 2026](2026-05-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 10–12% <br> 1–2 | 8–11% <br> 1–2 | 22–26% <br> 4–5 | 13–16% <br> 2–3 | 2–4% <br> 0 | 16–19% <br> 3–4 | 3–5% <br> 0–1 | 12–16% <br> 2–3 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A |
 | [18 March–20 April 2026](2026-04-20-Verian.html) | Verian <br> Helsingin Sanomat | 10–12% <br> 2 | 8–10% <br> 1–2 | 23–26% <br> 4–5 | 13–15% <br> 2–3 | 3–5% <br> 0 | 16–19% <br> 3 | 3–4% <br> 0 | 12–14% <br> 2 | N/A <br> N/A | 2% <br> 0 | N/A <br> N/A |
 | [4 March–7 April 2026](2026-04-07-Taloustutkimus.html) | Taloustutkimus <br> Yle | 10–13% <br> 2 | 7–10% <br> 1–2 | 22–26% <br> 4–5 | 13–16% <br> 2–3 | 3–5% <br> 0 | 16–19% <br> 3–4 | 2–4% <br> 0 | 12–15% <br> 2–3 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A |
