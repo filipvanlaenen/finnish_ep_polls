@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.9% | 13.1–15.0% | 12.9–15.3% | 12.7–15.6% | 12.3–16.2% |
+| N/A | [Poll Average](average.html) | 13.8% | 13.0–15.0% | 12.8–15.3% | 12.6–15.6% | 12.2–16.2% |
+| [21 April–18 May 2026](2026-05-18-Verian.html) | Verian <br> Helsingin Sanomat | 13.6% | 12.9–14.3% | 12.7–14.5% | 12.6–14.7% | 12.3–15.0% |
 | [13 April–5 May 2026](2026-05-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 14.2% | 13.2–15.3% | 12.9–15.6% | 12.7–15.9% | 12.2–16.4% |
 | [18 March–20 April 2026](2026-04-20-Verian.html) | Verian <br> Helsingin Sanomat | 13.7% | 13.0–14.4% | 12.9–14.6% | 12.7–14.8% | 12.4–15.1% |
 | [4 March–7 April 2026](2026-04-07-Taloustutkimus.html) | Taloustutkimus <br> Yle | 14.5% | 13.5–15.6% | 13.2–15.9% | 12.9–16.2% | 12.5–16.7% |
@@ -75,10 +76,10 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 1.3% | 100% |  |
-| 12.5–13.5% | 27% | 98.6% |  |
-| 13.5–14.5% | 51% | 71% | Median |
-| 14.5–15.5% | 17% | 20% |  |
+| 11.5–12.5% | 2% | 100% |  |
+| 12.5–13.5% | 31% | 98% |  |
+| 13.5–14.5% | 48% | 67% | Median |
+| 14.5–15.5% | 16% | 19% |  |
 | 15.5–16.5% | 3% | 3% |  |
 | 16.5–17.5% | 0.2% | 0.2% |  |
 | 17.5–18.5% | 0% | 0% |  |
@@ -93,6 +94,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [21 April–18 May 2026](2026-05-18-Verian.html) | Verian <br> Helsingin Sanomat | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [13 April–5 May 2026](2026-05-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18 March–20 April 2026](2026-04-20-Verian.html) | Verian <br> Helsingin Sanomat | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [4 March–7 April 2026](2026-04-07-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
