@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.6% | 12.8–14.6% | 12.5–15.0% | 12.3–15.3% | 11.9–15.9% |
+| N/A | [Poll Average](average.html) | 13.7% | 12.9–14.7% | 12.6–15.0% | 12.4–15.3% | 11.9–15.9% |
+| [18 May–15 June 2026](2026-06-15-Verian.html) | Verian <br> Helsingin Sanomat | 13.6% | 12.9–14.3% | 12.7–14.5% | 12.6–14.7% | 12.3–15.0% |
 | [11 May–1 June 2026](2026-06-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 13.8% | 12.8–15.0% | 12.5–15.3% | 12.2–15.6% | 11.8–16.1% |
 | [21 April–18 May 2026](2026-05-18-Verian.html) | Verian <br> Helsingin Sanomat | 13.4% | 12.7–14.1% | 12.5–14.3% | 12.4–14.5% | 12.1–14.8% |
 | [13 April–5 May 2026](2026-05-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 13.9% | 12.9–15.0% | 12.6–15.3% | 12.4–15.6% | 11.9–16.2% |
@@ -77,10 +78,10 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 0% | 100% |  |
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 5% | 99.9% |  |
-| 12.5–13.5% | 43% | 95% |  |
-| 13.5–14.5% | 41% | 52% | Median |
-| 14.5–15.5% | 10% | 11% |  |
+| 11.5–12.5% | 4% | 99.9% |  |
+| 12.5–13.5% | 37% | 96% |  |
+| 13.5–14.5% | 47% | 59% | Median |
+| 14.5–15.5% | 11% | 12% |  |
 | 15.5–16.5% | 1.3% | 1.3% |  |
 | 16.5–17.5% | 0.1% | 0.1% |  |
 | 17.5–18.5% | 0% | 0% |  |
@@ -95,6 +96,7 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [18 May–15 June 2026](2026-06-15-Verian.html) | Verian <br> Helsingin Sanomat | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [11 May–1 June 2026](2026-06-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [21 April–18 May 2026](2026-05-18-Verian.html) | Verian <br> Helsingin Sanomat | 2 | 2 | 2 | 2–3 | 2–3 |
 | [13 April–5 May 2026](2026-05-05-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -153,8 +155,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 89% | 100% | Median |
-| 3 | 11% | 11% |  |
+| 2 | 87% | 100% | Median |
+| 3 | 13% | 13% |  |
 | 4 | 0% | 0% |  |
 
 
