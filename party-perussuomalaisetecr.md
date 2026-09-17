@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.0% | 14.0–16.4% | 13.7–16.8% | 13.5–17.2% | 13.1–17.9% |
+| N/A | [Poll Average](average.html) | 15.6% | 14.4–17.0% | 14.1–17.4% | 13.8–17.7% | 13.3–18.4% |
+| [18 August–14 September 2026](2026-09-14-Verian.html) | Verian <br> Helsingin Sanomat | 15.0% | 14.1–16.0% | 13.8–16.3% | 13.6–16.6% | 13.2–17.0% |
+| [10 August–1 September 2026](2026-09-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 16.3% | 15.2–17.4% | 14.9–17.8% | 14.7–18.0% | 14.2–18.6% |
 | [14 July–17 August 2026](2026-08-17-Verian.html) | Verian <br> Helsingin Sanomat | 14.6% | 13.8–15.5% | 13.5–15.7% | 13.4–15.9% | 13.0–16.4% |
 | [6 July–3 August 2026](2026-08-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 15.6% | 14.4–16.8% | 14.1–17.2% | 13.8–17.5% | 13.3–18.1% |
 | [15 June–13 July 2026](2026-07-13-Verian.html) | Verian <br> Helsingin Sanomat | 14.2% | 13.5–15.0% | 13.3–15.2% | 13.1–15.4% | 12.7–15.8% |
@@ -83,13 +85,13 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0% | 100% |  |
-| 12.5–13.5% | 3% | 100% |  |
-| 13.5–14.5% | 27% | 97% |  |
-| 14.5–15.5% | 40% | 70% | Median |
-| 15.5–16.5% | 22% | 30% |  |
-| 16.5–17.5% | 7% | 8% |  |
-| 17.5–18.5% | 1.1% | 1.1% |  |
-| 18.5–19.5% | 0.1% | 0.1% |  |
+| 12.5–13.5% | 1.0% | 100% |  |
+| 13.5–14.5% | 13% | 99.0% |  |
+| 14.5–15.5% | 33% | 86% |  |
+| 15.5–16.5% | 33% | 53% | Median |
+| 16.5–17.5% | 17% | 21% |  |
+| 17.5–18.5% | 4% | 4% |  |
+| 18.5–19.5% | 0.3% | 0.3% |  |
 | 19.5–20.5% | 0% | 0% |  |
 
 
@@ -102,6 +104,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [18 August–14 September 2026](2026-09-14-Verian.html) | Verian <br> Helsingin Sanomat | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [10 August–1 September 2026](2026-09-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 3 | 3 | 3 | 2–3 |
 | [14 July–17 August 2026](2026-08-17-Verian.html) | Verian <br> Helsingin Sanomat | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [6 July–3 August 2026](2026-08-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15 June–13 July 2026](2026-07-13-Verian.html) | Verian <br> Helsingin Sanomat | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -165,8 +169,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 30% | 100% |  |
-| 3 | 70% | 70% | Median |
+| 2 | 14% | 100% |  |
+| 3 | 86% | 86% | Median |
 | 4 | 0% | 0% |  |
 
 

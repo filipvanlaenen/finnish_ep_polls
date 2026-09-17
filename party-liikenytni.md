@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 9 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.9–2.7% | 1.8–2.9% | 1.7–3.0% | 1.5–3.3% |
+| N/A | [Poll Average](average.html) | 2.1% | 1.7–2.6% | 1.6–2.7% | 1.5–2.8% | 1.3–3.0% |
+| [18 August–14 September 2026](2026-09-14-Verian.html) | Verian <br> Helsingin Sanomat | 2.2% | 1.8–2.7% | 1.7–2.8% | 1.7–2.9% | 1.5–3.1% |
+| [10 August–1 September 2026](2026-09-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 1.9% | 1.6–2.4% | 1.5–2.5% | 1.4–2.7% | 1.2–2.9% |
 | [14 July–17 August 2026](2026-08-17-Verian.html) | Verian <br> Helsingin Sanomat | 2.3% | 2.0–2.7% | 1.9–2.8% | 1.8–2.9% | 1.7–3.1% |
 | [6 July–3 August 2026](2026-08-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 2.2% | 1.8–2.8% | 1.7–2.9% | 1.6–3.1% | 1.4–3.4% |
 | [15 June–13 July 2026](2026-07-13-Verian.html) | Verian <br> Helsingin Sanomat | 2.1% | 1.8–2.5% | 1.7–2.6% | 1.7–2.6% | 1.6–2.8% |
@@ -71,11 +73,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 1.1% | 100% |  |
-| 1.5–2.5% | 77% | 98.9% | Median |
-| 2.5–3.5% | 22% | 22% |  |
-| 3.5–4.5% | 0.1% | 0.1% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 85% | 95% | Median |
+| 2.5–3.5% | 10% | 10% |  |
+| 3.5–4.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -87,6 +88,8 @@ Last result: **0** seats (General Election of 9 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [18 August–14 September 2026](2026-09-14-Verian.html) | Verian <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0 |
+| [10 August–1 September 2026](2026-09-01-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0 |
 | [14 July–17 August 2026](2026-08-17-Verian.html) | Verian <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0 |
 | [6 July–3 August 2026](2026-08-03-Taloustutkimus.html) | Taloustutkimus <br> Yle | 0 | 0 | 0 | 0 | 0 |
 | [15 June–13 July 2026](2026-07-13-Verian.html) | Verian <br> Helsingin Sanomat | 0 | 0 | 0 | 0 | 0 |
