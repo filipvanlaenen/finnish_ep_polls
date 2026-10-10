@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/finnish_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 17 Sep 2026 22:11:26 +0200</pubDate>
+    <pubDate>Thu, 08 Oct 2026 17:40:55 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 7 September–5 October 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2026-10-05-Taloustutkimus.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liike Nyt (NI): 0 seats&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 0 seats&lt;/li&gt;&lt;li&gt;Suomen Keskusta (RE): 2 seats&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 3 seats&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 1 seats&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 3 seats&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 4 seats&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 2 seats&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2026-10-05-Taloustutkimus-seats.png"
+        length="192148"
+        type="image/png"/>
+      <pubDate>Thu, 08 Oct 2026 17:40:55 +0200</pubDate>
+      <dc:date>2026-10-08T17:40:55.004955+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 7 September–5 October 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2026-10-05-Taloustutkimus.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2026-10-05-Taloustutkimus-coalitions-seats.png"
+        length="116868"
+        type="image/png"/>
+      <pubDate>Thu, 08 Oct 2026 17:40:55 +0200</pubDate>
+      <dc:date>2026-10-08T17:40:55.004955+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Taloustutkimus for Yle, 7 September–5 October 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/finnish_ep_polls/2026-10-05-Taloustutkimus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Liike Nyt (NI): 1.6–2.8%&lt;/li&gt;&lt;li&gt;Svenska folkpartiet i Finland (RE): 2.9–4.5%&lt;/li&gt;&lt;li&gt;Suomen Keskusta (RE): 11.2–14.1%&lt;/li&gt;&lt;li&gt;Kansallinen Kokoomus (EPP): 14.8–17.9%&lt;/li&gt;&lt;li&gt;Vihreä liitto (Greens/EFA): 7.2–9.6%&lt;/li&gt;&lt;li&gt;Perussuomalaiset (ECR): 15.0–18.2%&lt;/li&gt;&lt;li&gt;Suomen Sosialidemokraattinen Puolue (S&amp;amp;D): 20.9–24.6%&lt;/li&gt;&lt;li&gt;Vasemmistoliitto (GUE/NGL): 11.1–13.9%&lt;/li&gt;&lt;li&gt;Kristillisdemokraatit (EPP): 2.7–4.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/finnish_ep_polls/2026-10-05-Taloustutkimus.png"
+        length="306827"
+        type="image/png"/>
+      <pubDate>Thu, 08 Oct 2026 17:40:55 +0200</pubDate>
+      <dc:date>2026-10-08T17:40:55.004955+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Verian for Helsingin Sanomat, 18 August–14 September 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/finnish_ep_polls/2026-09-14-Verian.html#seats</link>
@@ -1629,6 +1659,6 @@
       <pubDate>Tue, 16 Jul 2024 19:20:37 +0200</pubDate>
       <dc:date>2024-07-16T19:20:37.575449+02:00</dc:date>
     </item>
-    <dc:date>2026-09-17T22:11:26.608914+02:00</dc:date>
+    <dc:date>2026-10-08T17:40:55.004955+02:00</dc:date>
   </channel>
 </rss>
